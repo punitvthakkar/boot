@@ -1,0 +1,422 @@
+[
+  {
+    "id": 241,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter dem Geschwindigkeitsbegriff 'Knoten'?",
+    "options": [
+      { "key": "a", "value": "Das sind die in einer Stunde zurückgelegten Seemeilen." },
+      { "key": "b", "value": "Das sind die in einer Stunde zurückgelegten Kilometer." },
+      { "key": "c", "value": "Das sind die an einem Tag zurückgelegten Seemeilen." },
+      { "key": "d", "value": "Das sind die von Mittag bis Mittag zurückgelegten Seemeilen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Seemeilen pro Stunde! Die Geschwindigkeit eines Schiffes wird in Knoten (kn) gemessen. Ein Knoten entspricht genau einer Seemeile pro Stunde. Fährt ein Schiff also mit 10 Knoten, legt es in einer Stunde 10 Seemeilen zurück."
+  },
+  {
+    "id": 242,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Woraus entnimmt man die Magnetkompassablenkung?",
+    "options": [
+      { "key": "a", "value": "Aus der für das betreffende Schiff aufgestellten Deviationstabelle." },
+      { "key": "b", "value": "Aus dem Nautischen Handbuch für Kompassfehlweisung." },
+      { "key": "c", "value": "Aus dem Betriebshandbuch des Kompassherstellers." },
+      { "key": "d", "value": "Aus der Kompassrose der aktuellen Seekarte." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die persönliche Macke des Kompasses! Die Ablenkung (Deviation) ist der Fehler des Kompasses, der durch metallische oder magnetische Teile an Bord verursacht wird. Sie ist für jedes Schiff und jeden Kurs unterschiedlich und wird in einer Deviationstabelle dokumentiert."
+  },
+  {
+    "id": 243,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man in der terrestrischen Navigation unter einer Peilung?",
+    "options": [
+      { "key": "a", "value": "Das Feststellen der Richtung eines bekannten feststehenden Objektes durch Winkelmessung." },
+      { "key": "b", "value": "Das Feststellen der Abweichung des Steuerkompasses vom Peilkompass." },
+      { "key": "c", "value": "Das Feststellen des Koppelortes durch Winkelmessung." },
+      { "key": "d", "value": "Das Feststellen der Entfernung zu einem bekannten feststehenden Objekt." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Richtung bestimmen! Eine Peilung ist die Messung des Winkels zwischen der Richtung nach Nord und der Richtung zu einem bekannten Objekt an Land (z.B. einem Leuchtturm). Mit Peilungen kann man seine eigene Position bestimmen."
+  },
+  {
+    "id": 244,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie erhält man eine Standlinie?",
+    "options": [
+      { "key": "a", "value": "Durch die Peilung eines bekannten feststehenden Objektes und Eintragung der rechtweisenden Peilung in die Seekarte." },
+      { "key": "b", "value": "Durch Eintragen des rechtweisenden Kurses in die Seekarte." },
+      { "key": "c", "value": "Durch mehrmaliges Peilen eines anderen Fahrzeugs." },
+      { "key": "d", "value": "Durch Eintragung der Peilung in die Seekarte ohne Berücksichtigung der Fehlweisung." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Eine Linie, auf der du bist! Eine Standlinie ist eine Linie in der Seekarte, auf der sich dein Schiff zum Zeitpunkt der Messung befindet. Man erhält sie, indem man ein Objekt peilt, die Peilung korrigiert (rechtweisende Peilung) und diese Linie vom Objekt aus in die Karte einzeichnet."
+  },
+  {
+    "id": 245,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter Stromversetzung?",
+    "options": [
+      { "key": "a", "value": "Die Versetzung des Schiffes über Grund in Richtung und Distanz." },
+      { "key": "b", "value": "Die Versetzung des Schiffes vom Magnetkompasskurs." },
+      { "key": "c", "value": "Die Versetzung des Schiffes durch das Wasser in Richtung und Distanz." },
+      { "key": "d", "value": "Die Richtung und Stärke der Meeresströmung." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der Drift durch die Strömung! Die Stromversetzung ist der Einfluss, den die Meeresströmung auf dein Schiff hat. Sie versetzt dein Boot seitlich oder schiebt es an, sodass dein tatsächlicher Kurs und deine Geschwindigkeit über Grund von deinem gesteuerten Kurs und deiner Fahrt durchs Wasser abweichen."
+  },
+  {
+    "id": 246,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter Windversetzung?",
+    "options": [
+      { "key": "a", "value": "Die Versetzung des Schiffes über Grund in Richtung und Distanz." },
+      { "key": "b", "value": "Die Versetzung des Schiffes vom Magnetkompasskurs." },
+      { "key": "c", "value": "Die Versetzung des Schiffes durch das Wasser in Richtung und Distanz." },
+      { "key": "d", "value": "Die Richtung und Stärke des Windes und der Windsee." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der Drift durch den Wind! Ähnlich wie der Strom versetzt auch der Wind dein Schiff. Dieser Effekt, auch Abdrift genannt, bewirkt, dass dein Boot seitlich versetzt wird und dein Kurs über Grund von deinem gesteuerten Kurs abweicht."
+  },
+  {
+    "id": 247,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter einem Koppelort?",
+    "options": [
+      { "key": "a", "value": "Schiffsort, der unter Berücksichtigung der gesteuerten Kurse und zurückgelegten Distanzen und aller vorhersehbaren Einflüsse rechnerisch und zeichnerisch ermittelt wird." },
+      { "key": "b", "value": "Schiffsort, der ermittelt wird durch Peilung zweier feststehender und bekannter Objekte, die in einem möglichst rechten Winkel (90 Grad) zueinander stehen." },
+      { "key": "c", "value": "Schiffsort, der durch Eintragung der rechtweisenden Peilungen zweier feststehender und bekannter Objekte als Standlinien in die Seekarte ermittelt wird; ihr Schnittpunkt ist der Standort." },
+      { "key": "d", "value": "Schiffsort, der unter Berücksichtigung der gesteuerten Kurse und zurückgelegten Distanzen infolge mehrerer Peilungen ermittelt wird." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der errechnete Ort! Ein Koppelort ist eine errechnete Position. Man geht vom letzten sicheren Ort aus, trägt den gesteuerten Kurs und die zurückgelegte Distanz in die Karte ein und berücksichtigt dabei alle bekannten Einflüsse wie Strom und Wind. Das Ergebnis ist der Koppelort."
+  },
+  {
+    "id": 248,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was ist bei der Aufstellung eines Magnetkompasses an Bord zu beachten?",
+    "options": [
+      { "key": "a", "value": "Der Steuerstrich muss parallel zur Kiellinie verlaufen. Der Kompass muss gut ablesbar sein und darf nicht in der Nähe von Eisenteilen aufgestellt werden." },
+      { "key": "b", "value": "Der Kompass muss parallel zur Kiellinie verlaufen. Der Kompass muss gut ablesbar sein und darf nicht in der Nähe von Eisenteilen aufgestellt werden." },
+      { "key": "c", "value": "Der Steuerstrich muss parallel zur Kiellinie verlaufen. Der Kompass muss gut ablesbare Zahlen aufweisen und darf nicht in der Nähe von Eisenteilen aufgestellt werden." },
+      { "key": "d", "value": "Der Kompass muss parallel zur Kiellinie verlaufen. Der Kompass muss gut ablesbare Zahlen aufweisen und darf nicht in der Nähe von Eisenteilen aufgestellt werden." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der richtige Platz für den Kompass! Ein Magnetkompass muss sorgfältig installiert werden. Der Steuerstrich im Kompass muss exakt parallel zur Schiffslängsachse (Kiellinie) verlaufen. Außerdem muss er gut ablesbar sein und möglichst weit entfernt von Eisen, Stahl oder Lautsprechern montiert werden, um Störungen (Deviation) zu minimieren."
+  },
+  {
+    "id": 249,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter Ebbe?",
+    "options": [
+      { "key": "a", "value": "Das Fallen des Wassers vom Hochwasser zum folgenden Niedrigwasser." },
+      { "key": "b", "value": "Den Zeitraum vom Hochwasser zum folgenden Niedrigwasser." },
+      { "key": "c", "value": "Der niedrigste Wasserstand einer Tide." },
+      { "key": "d", "value": "Die Differenz zwischen Hoch- und Niedrigwasser." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Das Wasser geht! Ebbe ist der Vorgang des fallenden Wasserstands in einem Gezeitengewässer. Sie beginnt nach dem Hochwasser und endet, wenn der niedrigste Wasserstand (Niedrigwasser) erreicht ist."
+  },
+  {
+    "id": 250,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter Flut?",
+    "options": [
+      { "key": "a", "value": "Das Steigen des Wassers vom Niedrigwasser zum folgenden Hochwasser." },
+      { "key": "b", "value": "Den Zeitraum vom Niedrigwasser zum folgenden Hochwasser." },
+      { "key": "c", "value": "Der höchste Wasserstand einer Tide." },
+      { "key": "d", "value": "Die Differenz zwischen Hoch- und Niedrigwasser." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Das Wasser kommt! Flut ist der Vorgang des steigenden Wasserstands. Sie beginnt nach dem Niedrigwasser und endet, wenn der höchste Wasserstand (Hochwasser) erreicht ist. Ebbe und Flut wechseln sich etwa alle 6 Stunden ab."
+  },
+  {
+    "id": 251,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter einer Tide?",
+    "options": [
+      { "key": "a", "value": "Der Zeitraum zwischen einem Niedrigwasser und dem nächstfolgenden Niedrigwasser." },
+      { "key": "b", "value": "Der Zeitraum zwischen einem Hochwasser und dem nächstfolgenden Niedrigwasser." },
+      { "key": "c", "value": "Der Zeitraum zwischen einem Hochwasser und dem nächstfolgenden Hochwasser." },
+      { "key": "d", "value": "Der Zeitraum zwischen einem Niedrigwasser und dem nächstfolgenden Hochwasser." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der gesamte Gezeitenzyklus! Eine Tide umfasst den kompletten Zyklus von einem Niedrigwasser über das folgende Hochwasser bis zum nächsten Niedrigwasser. Dieser Zyklus dauert im Durchschnitt etwa 12 Stunden und 25 Minuten."
+  },
+  {
+    "id": 252,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter einem Niedrigwasser?",
+    "options": [
+      { "key": "a", "value": "Eintritt des niedrigsten Wasserstands beim Übergang vom Fallen zum Steigen." },
+      { "key": "b", "value": "Fallen des Wassers nach Eintritt des höchsten Wasserstands." },
+      { "key": "c", "value": "Eintritt des höchsten Wasserstands beim Übergang vom Steigen zum Fallen." },
+      { "key": "d", "value": "Steigen des Wassers nach Eintritt des niedrigsten Wasserstands." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der tiefste Punkt! Niedrigwasser ist der Zeitpunkt, an dem das Wasser seinen niedrigsten Stand erreicht hat. In diesem Moment kehrt sich die Gezeitenströmung um – die Ebbe endet und die Flut beginnt."
+  },
+  {
+    "id": 253,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter einem Hochwasser?",
+    "options": [
+      { "key": "a", "value": "Eintritt des höchsten Wasserstands beim Übergang vom Steigen zum Fallen." },
+      { "key": "b", "value": "Steigen des Wassers nach Eintritt des niedrigsten Wasserstands." },
+      { "key": "c", "value": "Eintritt des niedrigsten Wasserstands beim Übergang vom Fallen zum Steigen." },
+      { "key": "d", "value": "Fallen des Wassers nach Eintritt des höchsten Wasserstands." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der höchste Punkt! Hochwasser ist der Zeitpunkt, an dem das Wasser seinen höchsten Stand erreicht hat. In diesem Moment kentert der Gezeitenstrom erneut – die Flut endet und die Ebbe setzt ein."
+  },
+  {
+    "id": 254,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter 'Tidenhub'?",
+    "options": [
+      { "key": "a", "value": "Unterschied zwischen den Höhen des Hoch- und des Niedrigwassers." },
+      { "key": "b", "value": "Unterschied zwischen den Höhen zweier aufeinanderfolgender Hochwasser." },
+      { "key": "c", "value": "Der Zeitraum zwischen einem Niedrigwasser und dem nächstfolgenden Hochwasser." },
+      { "key": "d", "value": "Der Zeitraum zwischen einem Niedrigwasser und dem nächstfolgenden Niedrigwasser." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der Unterschied macht's! Der Tidenhub ist der Höhenunterschied zwischen dem Wasserstand bei Hochwasser und dem Wasserstand bei Niedrigwasser. Er gibt an, wie stark die Gezeiten an einem bestimmten Ort sind und kann von wenigen Zentimetern bis zu vielen Metern betragen."
+  },
+  {
+    "id": 255,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wo sind für einen bestimmten Ort die Angaben über Hoch- und Niedrigwasserzeiten und den Tidenhub zu finden?",
+    "options": [
+      { "key": "a", "value": "In den Gezeitentafeln oder dem Gezeitenkalender des Bundesamtes für Seeschifffahrt und Hydrographie." },
+      { "key": "b", "value": "In der Flutvorhersage des Bundesamtes für Seeschifffahrt und Hydrographie." },
+      { "key": "c", "value": "Im Gezeitenatlas des Bundesamtes für Seeschifffahrt und Hydrographie." },
+      { "key": "d", "value": "Im Mondphasenkalender der Bundesanstalt für Gewässerkunde." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der Fahrplan der Gezeiten! Die exakten Zeiten für Hoch- und Niedrigwasser sowie die erwarteten Wasserstände für viele Orte findet man in den offiziellen Gezeitentafeln oder Gezeitenkalendern, die vom BSH herausgegeben werden. Ein Muss für jeden Törn im Tidenrevier."
+  },
+  {
+    "id": 256,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie lang sollte eine Schleppleine bei starkem Seegang sein?",
+    "options": [
+      { "key": "a", "value": "Mindestens zwei- oder dreifache Wellenlänge." },
+      { "key": "b", "value": "Mindestens zwei- oder dreifache Wellenhöhe." },
+      { "key": "c", "value": "Mindestens zwei- oder dreifache Schiffslänge." },
+      { "key": "d", "value": "Mindestens zwei- oder dreifache Wassertiefe." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Im Gleichtakt über die Wellen! Bei Seegang ist eine lange Schleppleine entscheidend. Sie sollte so lang sein, dass beide Boote gleichzeitig auf einem Wellenberg oder in einem Wellental sind. Eine gute Faustregel ist die zwei- bis dreifache Wellenlänge. Das verhindert ruckartiges Steifkommen der Leine."
+  },
+  {
+    "id": 257,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was ist zu beachten, wenn ein Sportboot geschleppt werden soll?",
+    "options": [
+      { "key": "a", "value": "Die Schleppleine ist den Seegangsverhältnissen anzupassen. Die Schleppgeschwindigkeit darf nicht größer sein als die Geschwindigkeit, die der Anhang frei fahrend bei Verdrängerfahrt erreichen kann. Ein ruckartiges Steifkommen der Schleppleine ist zu vermeiden." },
+      { "key": "b", "value": "Die Schleppleine ist den Seegangsverhältnissen anzupassen. Die Schleppgeschwindigkeit darf nicht größer sein als die Geschwindigkeit, die das schleppende Fahrzeug frei fahrend bei Verdrängerfahrt erreichen kann. Ein ruckartiges Steifkommen der Schleppleine ist zu vermeiden." },
+      { "key": "c", "value": "Die Schleppleine ist den Wetterverhältnissen anzupassen. Die Schleppgeschwindigkeit darf nicht größer sein als die Geschwindigkeit, die der Anhang frei fahrend bei Gleitfahrt erreichen kann. Ein ruckartiges Steifkommen der Schleppleine ist zu vermeiden." },
+      { "key": "d", "value": "Die Schleppleine ist den Wetterverhältnissen anzupassen. Die Schleppgeschwindigkeit darf nicht größer sein als die Geschwindigkeit, die das schleppende Fahrzeug frei fahrend bei Gleitfahrt erreichen kann. Ein ruckartiges Steifkommen der Schleppleine ist zu vermeiden." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Schleppen mit Gefühl! Beim Schleppen muss die Leine der Wellenlänge angepasst sein. Wichtig ist auch die Geschwindigkeit: Geschleppt wird nur so schnell, wie es die Rumpfgeschwindigkeit des geschleppten Bootes zulässt. Zu schnelles Schleppen kann den Anhang zum Unterschneiden und Kentern bringen."
+  },
+  {
+    "id": 258,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Womit kann ein steuerunfähiges Sportboot mit dem Bug in den Wind gehalten werden?",
+    "options": [
+      { "key": "a", "value": "Mit dem Treibanker oder anderen geeigneten schwimmfähigen Gegenständen." },
+      { "key": "b", "value": "Durch wiederholtes kurzes Ein- und Auskuppeln der Antriebsmaschine." },
+      { "key": "c", "value": "Mit achteraus ausgebrachtem Treibanker oder ähnlichen schwimmfähigen Gegenständen." },
+      { "key": "d", "value": "Mit vorn und achtern ausgebrachten Treibankern oder anderen geeigneten schwimmfähigen Gegenständen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Notbremse bei Sturm! Ein Treibanker ist ein 'Unterwasser-Fallschirm', der vom Bug ausgebracht wird. Er bremst das Boot und hält den Bug im Wind. Das stabilisiert das Schiff bei schwerem Wetter und verhindert, dass es querschlägt, wenn es steuerlos ist."
+  },
+  {
+    "id": 259,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Warum sollte bei starkem Seegang die Fahrt vermindert werden?",
+    "options": [
+      { "key": "a", "value": "Um Schäden durch Seeschlag zu vermeiden." },
+      { "key": "b", "value": "Um das Austauchen der Schraube zu vermeiden und Kraftstoff zu sparen." },
+      { "key": "c", "value": "Um die Schlinger- und Rollbewegungen zu minimieren." },
+      { "key": "d", "value": "Um Schiffs- und Wellenlänge nicht in Resonanz zu bringen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Langsam durch die Wellen! Bei starkem Seegang mit hoher Geschwindigkeit in die Wellen zu krachen (Seeschlag), belastet den Bootsrumpf und die Ausrüstung enorm. Um Schäden am Schiff und Verletzungen der Crew zu vermeiden, muss die Geschwindigkeit unbedingt reduziert werden."
+  },
+  {
+    "id": 260,
+    "category": "Spezifische Fragen See",
+    "image": "images/q260.svg",
+    "question": "Was bedeutet folgendes Zeichen?",
+    "options": [
+      { "key": "a", "value": "Wind aus Richtung Nordwest; Stärke: Bft. 3; wolkenlos." },
+      { "key": "b", "value": "Wind in Richtung Nordwest; Stärke: Bft. 3; wolkenlos." },
+      { "key": "c", "value": "Strom aus Richtung Nordwest; Stärke: 3 Knoten; Tidegebiet." },
+      { "key": "d", "value": "Strom in Richtung Nordwest; Stärke: 3 Knoten; Tidegebiet." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Wetterkarte lesen! Dieses Symbol ist ein Windpfeil. Der Pfeil zeigt in die Richtung, aus der der Wind kommt (hier: Nordwest). Die Federn am Ende geben die Windstärke an: Jede lange Feder steht für 10 Knoten (oder 2 Bft), jede kurze für 5 Knoten (oder 1 Bft). Hier also ca. 15 Knoten (Bft 3)."
+  },
+  {
+    "id": 261,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Angaben liefert die Beaufort-Skala?",
+    "options": [
+      { "key": "a", "value": "Windstärken von 0 bis 12 und die Auswirkungen auf die See." },
+      { "key": "b", "value": "Windstärken von 0 bis 12 und die Auswirkungen auf die Küste." },
+      { "key": "c", "value": "Den Tidenhub an der Küste bei Vollmond und bei Neumond." },
+      { "key": "d", "value": "Die Wellenhöhe und die Windgeschwindigkeit bei Sturmstärke." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Sprache des Windes! Die Beaufort-Skala (Bft) teilt die Windstärke in 12 Stufen ein, von 0 (Windstille) bis 12 (Orkan). Wichtig für Seefahrer: Die Skala beschreibt nicht nur die Windgeschwindigkeit, sondern auch die typischen Auswirkungen des Windes auf die Seeoberfläche (Wellengang)."
+  },
+  {
+    "id": 262,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie werden Orte gleichen Luftdrucks in der Wetterkarte dargestellt und in welcher Maßeinheit wird der Luftdruck angegeben?",
+    "options": [
+      { "key": "a", "value": "Durch Isobaren und in Hektopascal." },
+      { "key": "b", "value": "Durch Isobaren und in Millipascal." },
+      { "key": "c", "value": "Durch Isoklinen und in Hektopascal." },
+      { "key": "d", "value": "Durch Isoklinen und in Dezipascal." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Linien des Luftdrucks! In Wetterkarten werden Orte mit gleichem Luftdruck durch Linien verbunden, die man Isobaren nennt. Der Luftdruck selbst wird international in der Einheit Hektopascal (hPa) angegeben."
+  },
+  {
+    "id": 263,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Womit muss bei rasch fallendem Luftdruck gerechnet werden?",
+    "options": [
+      { "key": "a", "value": "Mit Starkwind oder Sturm." },
+      { "key": "b", "value": "Mit Schwachwind oder Windstille." },
+      { "key": "c", "value": "Mit einer Wetterbesserung." },
+      { "key": "d", "value": "Mit einer Wetterverschlechterung." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Barometer fällt, Segel reffen! Ein schnell fallender Luftdruck ist das klassische Anzeichen für herannahendes schlechtes Wetter. Es bedeutet, dass ein Tiefdruckgebiet näher kommt, was fast immer mit starkem Wind oder Sturm verbunden ist."
+  },
+  {
+    "id": 264,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was bedeuten die in der Wetterkarte abgebildeten Isobaren?",
+    "options": [
+      { "key": "a", "value": "Orte gleichen Luftdrucks." },
+      { "key": "b", "value": "Orte gleicher Windstärke." },
+      { "key": "c", "value": "Orte gleicher Wolkenbildung." },
+      { "key": "d", "value": "Orte gleicher Luftfeuchtigkeit." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Linien gleichen Drucks! Isobaren sind die Höhenlinien der Wetterkarte. Sie verbinden alle Punkte, an denen zum gleichen Zeitpunkt der gleiche Luftdruck herrscht. Je enger die Isobaren beieinander liegen, desto stärker ist der Wind."
+  },
+  {
+    "id": 265,
+    "category": "Spezifische Fragen See",
+    "image": "images/q265.svg",
+    "question": "Was zeigt die folgende Abbildung?",
+    "options": [
+      { "key": "a", "value": "Abbildung eines Hochdruckgebietes auf der Nordhalbkugel, Isobaren mit Angabe des Luftdrucks in hPa." },
+      { "key": "b", "value": "Abbildung eines Hochdruckgebietes auf der Südhalbkugel, Isobaren mit Angabe des Luftdrucks in hPa." },
+      { "key": "c", "value": "Abbildung eines Hochdruckgebietes auf der Nordhalbkugel, Isobaren mit Angabe des Luftdrucks in hPa, Zugrichtung Nordwest." },
+      { "key": "d", "value": "Abbildung eines Hochdruckgebietes auf der Südhalbkugel, Isobaren mit Angabe des Luftdrucks in hPa, Zugrichtung Südwest." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Schönes Wetter im Anmarsch! Die Abbildung zeigt ein Hochdruckgebiet (H), erkennbar an den nach außen hin abnehmenden Luftdruckwerten (in hPa). Auf der Nordhalbkugel dreht der Wind im Uhrzeigersinn um ein Hochdruckgebiet herum."
+  },
+  {
+    "id": 266,
+    "category": "Spezifische Fragen See",
+    "image": "images/q266.svg",
+    "question": "Was zeigt die folgende Abbildung?",
+    "options": [
+      { "key": "a", "value": "Abbildung eines Tiefdruckgebietes auf der Nordhalbkugel mit Warm- und Kaltfront, Isobaren mit Angabe des Luftdrucks in hPa, warme und kalte Luftströmung." },
+      { "key": "b", "value": "Abbildung eines Tiefdruckgebietes auf der Südhalbkugel mit Kalt- und Warmfront, Isobaren mit Angabe des Luftdrucks in hPa, kalte und warme Luftströmung." },
+      { "key": "c", "value": "Abbildung eines Tiefdruckgebietes auf der Nordhalbkugel mit Kaltfront vor der Warmfront, Angabe des Luftdrucks in hPa, Warmfront südlich, Kaltfront nördlich des Zentrums." },
+      { "key": "d", "value": "Abbildung eines Tiefdruckgebietes auf der Südhalbkugel mit Warmfront vor der Kaltfront, Angabe des Luftdrucks in hPa, Darstellung des Kalt- und Warmluftstroms." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Schlechtes Wetter im Detail! Dies ist ein typisches Tiefdruckgebiet (T) auf der Nordhalbkugel. Man erkennt die nach innen abnehmenden Luftdruckwerte (Isobaren), die Warmfront (Linie mit Halbkreisen) und die nachfolgende Kaltfront (Linie mit Dreiecken). Der Wind dreht gegen den Uhrzeigersinn um das Tief."
+  },
+  {
+    "id": 267,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Für welche Windstärken wird eine Starkwindwarnung herausgegeben?",
+    "options": [
+      { "key": "a", "value": "Windstärke 6 und 7 der Beaufortskala." },
+      { "key": "b", "value": "Windstärke 5 und 6 der Beaufortskala." },
+      { "key": "c", "value": "Windstärke 4 bis 5 der Beaufortskala." },
+      { "key": "d", "value": "Windstärke 7 bis 8 der Beaufortskala." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Achtung, es wird windig! Eine Starkwindwarnung ist die erste offizielle Warnstufe. Sie wird herausgegeben, wenn Windstärken von 6 oder 7 Beaufort erwartet werden. Für kleinere Boote kann das schon eine ernste Herausforderung sein."
+  },
+  {
+    "id": 268,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Für welche Windstärken wird eine Sturmwarnung herausgegeben?",
+    "options": [
+      { "key": "a", "value": "Windstärke 8 und mehr der Beaufortskala." },
+      { "key": "b", "value": "Windstärke 6 und mehr der Beaufortskala." },
+      { "key": "c", "value": "Windstärke 9 und mehr der Beaufortskala." },
+      { "key": "d", "value": "Windstärke 7 und mehr der Beaufortskala." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Alle Mann festhalten! Die Sturmwarnung ist die nächste Stufe und wird ausgegeben, wenn Windstärken von 8 Bft oder mehr erwartet werden. Ab hier wird es für die meisten Sportboote gefährlich. Wer kann, sollte einen Hafen anlaufen oder sich in Sicherheit bringen."
+  },
+  {
+    "id": 269,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was ist in amtlichen Wetterberichten unter 'frischem Wind' zu verstehen?",
+    "options": [
+      { "key": "a", "value": "Windstärke 5 der Beaufortskala." },
+      { "key": "b", "value": "Windstärke 4 der Beaufortskala." },
+      { "key": "c", "value": "Windstärke 6 der Beaufortskala." },
+      { "key": "d", "value": "Windstärke 7 der Beaufortskala." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Schönes Segelwetter! Der Begriff 'frischer Wind' in einem Wetterbericht entspricht genau der Windstärke 5 auf der Beaufort-Skala. Das ist für die meisten Segler ein idealer Wind, der gute Fahrt ermöglicht, aber noch nicht zu anspruchsvoll ist."
+  },
+  {
+    "id": 270,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was ist in amtlichen Wetterberichten unter 'schwerem Sturm', 'orkanartigem Sturm' und 'Orkan' zu verstehen?",
+    "options": [
+      { "key": "a", "value": "Windstärken 10, 11 und 12 der Beaufortskala." },
+      { "key": "b", "value": "Windstärken 9, 10 und 11 der Beaufortskala." },
+      { "key": "c", "value": "Windstärken 11, 12 und 13 der Beaufortskala." },
+      { "key": "d", "value": "Windstärken 8, 9 und 10 der Beaufortskala." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die höchsten Warnstufen! Diese Begriffe bezeichnen die höchsten Windstärken: 'schwerer Sturm' ist Windstärke 10 Bft, 'orkanartiger Sturm' ist 11 Bft und 'Orkan' ist die höchste Stufe 12 Bft. Bei diesen Bedingungen hat kein Sportboot mehr etwas auf dem Wasser zu suchen."
+  }
+]

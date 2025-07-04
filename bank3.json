@@ -1,0 +1,420 @@
+[
+  {
+    "id": 61,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Wie ist ein enges Gewässer zu befahren, wenn man sich am Ufer festgemachten Fahrzeugen nähert?",
+    "options": [
+      { "key": "a", "value": "Verringerung der Geschwindigkeit, um schädlichen Sog und Wellenschlag zu vermeiden." },
+      { "key": "b", "value": "Beibehaltung der Geschwindigkeit, um durch Gleitfahrt schädlichen Sog und Wellenschlag auszuschließen." },
+      { "key": "c", "value": "Verringerung der Geschwindigkeit und nötigenfalls vom Rechtsfahrgebot abweichen." },
+      { "key": "d", "value": "Auf Höhe der festgemachten Fahrzeuge aufstoppen und überprüfen, dass kein Dritter behindert oder geschädigt wird." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Rücksicht im Hafen! Wenn du an festgemachten Booten vorbeifährst, nimm die Geschwindigkeit raus. Dein Sog und Wellenschlag kann an den anderen Booten und an den Festmacherleinen zerren und Schäden verursachen. Langsamfahrt ist hier ein Gebot der Fairness."
+  },
+  {
+    "id": 62,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Wo sollen die Gasbehälter einer Flüssiggasanlage gelagert werden?",
+    "options": [
+      { "key": "a", "value": "Möglichst an Deck, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen Raum für Gasbehälter, der in Bodenhöhe eine Öffnung nach außenbords hat." },
+      { "key": "b", "value": "Möglichst unten im Schiff, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen Raum für Gasbehälter, der in Bodenhöhe eine Öffnung nach außenbords hat." },
+      { "key": "c", "value": "Möglichst auf dem Vorschiff, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen Raum für Gasbehälter, der in Bodenhöhe eine Öffnung nach außenbords hat." },
+      { "key": "d", "value": "Möglichst an Deck, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen Raum für Gasbehälter, der oben belüftet ist." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Gas sicher lagern! Flüssiggas (Propan/Butan) ist schwerer als Luft. Bei einem Leck würde es sich am tiefsten Punkt sammeln. Daher gehören Gasflaschen in einen Kasten an Deck oder in einen speziellen, nach außen entlüfteten Behälter. So kann ausgetretenes Gas sicher abfließen."
+  },
+  {
+    "id": 63,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Warum sind die Flüssiggase Propan und Butan an Bord besonders gefährlich?",
+    "options": [
+      { "key": "a", "value": "Beide Gase sind schwerer als Luft und bilden mit Luft ein explosives Gemisch." },
+      { "key": "b", "value": "Beide Gase sind leichter als Luft und bilden mit Luft ein explosives Gemisch." },
+      { "key": "c", "value": "Beide Gase sind schwerer als Wasser und bilden mit Wasser ein explosives Gemisch." },
+      { "key": "d", "value": "Beide Gase sind schwerer als Luft und bilden mit Wasser ein explosives Gemisch." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Unsichtbare Gefahr! Propan und Butan sind schwerer als Luft. Tritt Gas aus, sinkt es nach unten und sammelt sich in der Bilge. Dort bildet es mit Luft ein hochexplosives Gemisch, das durch einen Funken gezündet werden kann. Absolute Vorsicht ist geboten!"
+  },
+  {
+    "id": 64,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Was ist zu tun, wenn Flüssiggas in das Innere des Bootes gelangt?",
+    "options": [
+      { "key": "a", "value": "Gaszuführung absperren und für Lüftung sorgen. Außerdem keine elektrischen Schalter betätigen und keinen Funk und keine Mobiltelefone benutzen." },
+      { "key": "b", "value": "Gasleitung entleeren und für Lüftung sorgen. Außerdem keine elektrischen Schalter betätigen und keine Telefone benutzen." },
+      { "key": "c", "value": "Gaszuführung absperren und für Lüftung sorgen. Außerdem keine elektrischen Schalter betätigen und per Telefon Hilfe holen." },
+      { "key": "d", "value": "Gasleitung entleeren und die Gasfreiheit mit dem Feuerzeug prüfen sowie über Funk oder Mobiltelefon Hilfe anfordern." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Explosionsgefahr! Bei Gasgeruch im Boot sofort handeln: 1. Gaszufuhr an der Flasche abdrehen. 2. Für maximale Durchlüftung sorgen (alle Luken auf). 3. ABSOLUT KEINE Funken erzeugen: keine elektrischen Schalter, kein Handy, kein Funkgerät, keine offenen Flammen!"
+  },
+  {
+    "id": 65,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Was ist vor Inbetriebnahme einer Flüssiggasanlage zu prüfen?",
+    "options": [
+      { "key": "a", "value": "Die Anlage muss abgenommen sein, Leitungen und Anschlüsse müssen dicht sein. Haupthahn und andere Absperrventile sind zu öffnen." },
+      { "key": "b", "value": "Die Anlage muss abgenommen sein, die Inbetriebnahme darf nur durch eine besonders geprüfte Person erfolgen." },
+      { "key": "c", "value": "Die Anlage muss abgenommen sein und jährlich überprüft werden. Die Inbetriebnahme darf nur durch eine besonders geprüfte Person erfolgen." },
+      { "key": "d", "value": "Die Abnahme der Anlage darf nicht länger als drei Jahre zurückliegen. Haupthahn und andere Absperrventile sind zu öffnen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der Sicherheitscheck vor dem Kochen! Bevor du die Gasanlage nutzt, musst du sicherstellen, dass sie von einem Fachmann abgenommen wurde und alle Leitungen dicht sind. Dann öffnest du den Haupthahn an der Flasche und die Ventile am Herd."
+  },
+  {
+    "id": 66,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Was ist zu beachten, wenn eine Flüssiggasanlage außer Betrieb gesetzt wird?",
+    "options": [
+      { "key": "a", "value": "Haupthahn und Absperrventile sind zu schließen." },
+      { "key": "b", "value": "Die Anlage ist gasfrei zu machen." },
+      { "key": "c", "value": "Gasflasche fachgerecht entsorgen." },
+      { "key": "d", "value": "Der Flüssiggasbehälter ist vollständig zu entleeren." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Alles zudrehen! Wenn du die Gasanlage nicht mehr brauchst, zum Beispiel am Ende des Törns, drehe immer zuerst den Haupthahn an der Gasflasche zu und danach die Ventile am Herd. So bleibt kein Gas in der Leitung stehen."
+  },
+  {
+    "id": 67,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Wie oft muss man aufblasbare Rettungsmittel warten lassen?",
+    "options": [
+      { "key": "a", "value": "Entsprechend der Herstellerangabe, mindestens alle 2 Jahre." },
+      { "key": "b", "value": "Jährlich und nach jedem Einsatz oder Übungsgebrauch." },
+      { "key": "c", "value": "Entsprechend der Herstellerangabe, mindestens alle 3 Jahre." },
+      { "key": "d", "value": "Jährlich, jeweils vor Beginn der Wassersportsaison." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Vertrauen ist gut, Kontrolle ist besser! Automatische Rettungswesten und Rettungsinseln sind sensible Technik. Sie müssen regelmäßig von einer zertifizierten Wartungsstation überprüft werden. Der Hersteller gibt das Intervall vor, das aber spätestens alle zwei Jahre fällig ist."
+  },
+  {
+    "id": 68,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Welcher Feuerlöscher ist für Sportboote zweckmäßig und wie oft muss man einen Feuerlöscher überprüfen lassen?",
+    "options": [
+      { "key": "a", "value": "ABC-Pulver- und Schaumlöscher, mindestens alle 2 Jahre." },
+      { "key": "b", "value": "Feuerlöscher mit Löschschaum, mindestens einmal pro Jahr." },
+      { "key": "c", "value": "CO2-Feuerlöscher, mindestens alle 2 Jahre." },
+      { "key": "d", "value": "ABC-Pulverlöscher, mindestens einmal pro Jahr." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Gerüstet für den Ernstfall! An Bord können verschiedene Arten von Bränden entstehen (feste Stoffe, Flüssigkeiten, Gase). Ein ABC-Pulverlöscher ist ein guter Allrounder. Wie die Rettungsmittel muss auch der Feuerlöscher alle zwei Jahre von einem Fachmann geprüft werden."
+  },
+  {
+    "id": 69,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Welche Maßnahmen muss man ergreifen, um einen Brand mit dem Feuerlöscher wirksam zu bekämpfen?",
+    "options": [
+      { "key": "a", "value": "Luftzufuhr verhindern, Feuerlöscher erst am Brandherd einsetzen und das Feuer möglichst von unten bekämpfen." },
+      { "key": "b", "value": "Rauchabzug sicherstellen und Feuerlöscher rechtzeitig einsetzen, dabei den Löschstrahl möglichst in die lodernden Flammen halten." },
+      { "key": "c", "value": "Luftzufuhr verhindern und den Feuerlöscher mit sparsamen Löschstrahlstößen einsetzen, dabei das Feuer möglichst von oben bekämpfen." },
+      { "key": "d", "value": "Handhabungshinweise durchlesen und den Feuerlöscher sofort einsetzen, dabei das Feuer möglichst von unten bekämpfen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Dem Feuer die Luft nehmen! Ein Brand braucht Sauerstoff. Schließe also Luken und Türen, um die Luftzufuhr zu unterbrechen. Gehe dann mit dem Feuerlöscher gezielt auf die Basis der Flammen, also von unten und von vorne nach hinten, um den Brandherd zu ersticken."
+  },
+  {
+    "id": 70,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Wie hat man sich nach einem Zusammenstoß zu verhalten?",
+    "options": [
+      { "key": "a", "value": "Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich ist; alle erforderlichen Daten austauschen." },
+      { "key": "b", "value": "Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich ist; die Wasserschutzpolizei benachrichtigen." },
+      { "key": "c", "value": "Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich ist; Notsignal geben." },
+      { "key": "d", "value": "Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich ist; Verschlusszustand herstellen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Fairplay auch beim Unfall! Nach einer Kollision gilt: Anhalten, helfen, Daten austauschen. Du bist verpflichtet, am Unfallort zu bleiben und zu helfen, bis klar ist, dass keine Gefahr mehr besteht. Danach werden Personalien und Versicherungsdaten ausgetauscht."
+  },
+  {
+    "id": 71,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Welche Faktoren sind hauptsächlich für das Wettergeschehen, also für Wind und Niederschläge, ausschlaggebend?",
+    "options": [
+      { "key": "a", "value": "Luftdruckänderung, Luftfeuchtigkeit und Temperatur." },
+      { "key": "b", "value": "Luftdruckänderung, Sonneneinstrahlung und Höhenlage." },
+      { "key": "c", "value": "Luftdruckänderung, Luftfeuchtigkeit und Jahreszeit." },
+      { "key": "d", "value": "Luftdruckänderung, Tageszeit und Temperatur." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Zutaten für das Wetter! Das Wetter wird im Wesentlichen durch das Zusammenspiel von Luftdruck, Temperatur und Luftfeuchtigkeit bestimmt. Änderungen dieser drei Faktoren führen zu Wind, Wolkenbildung und Niederschlag."
+  },
+  {
+    "id": 72,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "In welcher Situation dürfen Notsignale gegeben werden?",
+    "options": [
+      { "key": "a", "value": "Wenn Gefahr für Leib oder Leben von Personen besteht und daher Hilfe benötigt wird." },
+      { "key": "b", "value": "Wenn Gefahr für Leib oder Leben von Personen besteht oder das Schiff nicht mehr sicher manövriert werden kann." },
+      { "key": "c", "value": "Wenn Gefahr für Leib oder Leben von Personen oder erhebliche Sachwerte besteht und daher Hilfe benötigt wird." },
+      { "key": "d", "value": "Wenn Gefahr für Leib oder Leben von Personen, erhebliche Sachwerte oder die maritime Umwelt besteht." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Mayday, Mayday, Mayday! Notsignale sind nur für den absoluten Ernstfall gedacht, wenn Menschenleben in Gefahr sind und dringend Hilfe von außen benötigt wird. Ein Missbrauch von Notsignalen ist strafbar und gefährdet andere."
+  },
+  {
+    "id": 73,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wo gelten die Kollisionsverhütungsregeln (KVR)?",
+    "options": [
+      { "key": "a", "value": "Auf der Hohen See und auf den mit dieser zusammenhängenden, von Seeschiffen befahrbaren Gewässern." },
+      { "key": "b", "value": "Auf der Hohen See und den deutschen Seeschifffahrtsstraßen, die von Seeschiffen befahren werden." },
+      { "key": "c", "value": "Auf den Seeschifffahrtsstraßen und den küstennahen deutschen Seegewässern, die von Seeschiffen befahren werden." },
+      { "key": "d", "value": "Auf der Hohen See und den von Seeschiffen befahrbaren Randmeeren, mit Ausnahme der Verkehrstrennungsgebiete." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Verkehrsregeln der Weltmeere! Die KVR sind das internationale Regelwerk zur Verhütung von Zusammenstößen auf See. Sie gelten weltweit auf der Hohen See und allen damit verbundenen Gewässern, die von Seeschiffen befahren werden können."
+  },
+  {
+    "id": 74,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was gilt, wenn eine Bestimmung der Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) mit den Kollisionsverhütungsregeln (KVR) im Widerspruch steht?",
+    "options": [
+      { "key": "a", "value": "Die Vorschrift der Seeschifffahrtsstraßen-Ordnung." },
+      { "key": "b", "value": "Die Vorschrift der Kollisionsverhütungsregeln (KVR)." },
+      { "key": "c", "value": "Die Grundregeln für das Verhalten im Verkehr." },
+      { "key": "d", "value": "Die Vorschrift der Schifffahrtsordnung Emsmündung." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Nationales Recht bricht internationales Recht! Die SeeSchStrO enthält spezielle Regeln für deutsche Seeschifffahrtsstraßen. Wo diese von den internationalen KVR abweichen, hat die nationale Regelung Vorrang. Ein klassisches Beispiel ist das Rechtsfahrgebot im Fahrwasser."
+  },
+  {
+    "id": 75,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Sportboote sind von der Fahrerlaubnispflicht auf den Seeschifffahrtsstraßen ausgenommen?",
+    "options": [
+      { "key": "a", "value": "Sportboote ohne Antriebsmaschine oder solche mit einer größten, nicht überschreitbaren Nutzleistung von 11,03 Kilowatt (15 PS) bei Verwendung eines Verbrennungsmotors bzw. 7,5 Kilowatt bei Verwendung eines Elektromotors Betriebsart S1 (Dauerbetrieb) oder weniger." },
+      { "key": "b", "value": "Sportboote unter Segel mit einer Rumpflänge unter 20 m und solche deren Antriebsmaschine nicht benutzt wird." },
+      { "key": "c", "value": "Sportboote mit Antriebsmaschine mit einer größeren Nutzleistung als 11,03 Kilowatt (15 PS) bei Verwendung eines Verbrennungsmotors bzw. 7,5 Kilowatt bei Verwendung eines Elektromotors Betriebsart S1 (Dauerbetrieb)." },
+      { "key": "d", "value": "Sportboote, die entweder vor Anker liegen oder an Land festgemacht sind oder auf Grund sitzen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die 15-PS-Regel! Auf See darfst du ein Sportboot mit einem Verbrennungsmotor bis zu 15 PS (11,03 kW) ohne Führerschein fahren. Für Elektromotoren liegt die Grenze bei 7,5 kW. Alles was darüber liegt, erfordert den Sportbootführerschein See."
+  },
+  {
+    "id": 76,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wer ist für die Befolgung der Verkehrsvorschriften verantwortlich?",
+    "options": [
+      { "key": "a", "value": "Der Fahrzeugführer oder sein Stellvertreter." },
+      { "key": "b", "value": "Der Fahrzeugführer und sein Stellvertreter." },
+      { "key": "c", "value": "Der Fahrzeugführer und jeder sonst Verantwortliche." },
+      { "key": "d", "value": "Der Fahrzeugführer oder jeder sonst Verantwortliche." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Einer hat das Sagen! Die Verantwortung für die Einhaltung der Verkehrsregeln liegt allein beim Schiffsführer (Skipper) oder seinem benannten Stellvertreter. Er kann Aufgaben delegieren, aber die rechtliche Verantwortung bleibt bei ihm."
+  },
+  {
+    "id": 77,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was bedeutet 'seemännische Sorgfaltspflicht'?",
+    "options": [
+      { "key": "a", "value": "Die Verpflichtung zur Beachtung von Vorsichtsmaßregeln über die Verkehrsvorschriften hinaus, die Seemannsbrauch oder besondere Umstände des Falles erfordern." },
+      { "key": "b", "value": "Die Verpflichtung zur Beachtung der Seeschifffahrtsstraßen-Ordnung (SeeSchStrO), der Kollisionsverhütungsregeln (KVR), der Grundregeln für das Verhalten im Verkehr und der Ausweichregeln mit dem Manöver des letzten Augenblicks." },
+      { "key": "c", "value": "Die Verpflichtung zur Beachtung der Vorsichtsmaßregeln und Sicherheitsregeln der Verkehrsvorschriften und der Grundregeln für das Verhalten im Verkehr." },
+      { "key": "d", "value": "Die Verpflichtung zur Beachtung von Vorsichtsmaßregeln der Kollisionsverhütungsregeln (KVR), der Grundregeln für das Verhalten im Verkehr und der Ausweichregeln mit dem Man��ver des letzten Augenblicks." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Mehr als nur Regeln! Gute Seemannschaft bedeutet, über die reinen Vorschriften hinauszudenken und zu handeln. Es ist die Pflicht, vorausschauend zu fahren, Gefahren zu erkennen und alles zu tun, um die Sicherheit von Schiff und Crew zu gewährleisten – auch wenn es nicht explizit in einer Regel steht."
+  },
+  {
+    "id": 78,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Sicherheitsmaßnahmen hat der Fahrzeugführer im Rahmen seiner seemännischen Sorgfaltspflicht vor Fahrtantritt zum Schutze und für die Sicherheit der Personen an Bord zu treffen?",
+    "options": [
+      { "key": "a", "value": "Der Fahrzeugführer hat die Besatzungsmitglieder und Gäste über die Sicherheitsvorkehrungen an Bord zu unterrichten, in die Handhabung der Rettungs- und Feuerlöschmittel einzuweisen und auf geeignete Maßnahmen gegen das Überbordfallen hinzuweisen, zudem darauf, dass ständig angelegte Rettungswesten die Überlebenschancen im Wasser erhöhen." },
+      { "key": "b", "value": "Der Fahrzeugführer muss die Besatzungsmitglieder und Gäste anweisen, dass sie sich über die Sicherheitsvorkehrungen an Bord informieren, sich die Gebrauchsanweisungen der Rettungs- und Feuerlöschmittel ansehen und auf geeignete Maßnahmen gegen das Überbordfallen achten, zudem darauf, dass ständig angelegte Rettungswesten die Überlebenschancen im Wasser erhöhen." },
+      { "key": "c", "value": "Der Fahrzeugführer hat die verantwortlichen Besatzungsmitglieder über die Sicherheitsvorkehrungen an Bord zu unterrichten, in die Handhabung der Rettungs- und Feuerlöschmittel einzuweisen und auf geeignete Maßnahmen gegen das Überbordfallen hinzuweisen, zudem darauf, dass ständig angelegte Rettungswesten die Überlebenschancen im Wasser erhöhen." },
+      { "key": "d", "value": "Der Fahrzeugführer hat die Gäste an Bord über die Sicherheitsvorkehrungen an Bord zu unterrichten, in die Handhabung der Rettungs- und Feuerlöschmittel einzuweisen und auf geeignete Maßnahmen gegen das Überbordfallen hinzuweisen, zudem darauf, dass ständig angelegte Rettungswesten die Überlebenschancen im Wasser erhöhen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Sicherheitseinweisung ist Pflicht! Vor dem Auslaufen muss der Skipper alle an Bord – Crew und Gäste – in die Sicherheitsausrüstung einweisen. Jeder muss wissen, wo die Rettungswesten und der Feuerlöscher sind und wie man sie bedient. Das ist ein entscheidender Teil der guten Seemannschaft."
+  },
+  {
+    "id": 79,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was bedeutet das 'Manöver des letzten Augenblicks'?",
+    "options": [
+      { "key": "a", "value": "Ausweichmanöver des Kurshalters." },
+      { "key": "b", "value": "Ausweichmanöver des Ausweichpflichtigen." },
+      { "key": "c", "value": "Ausweichmanöver des Kurshalters und des Ausweichpflichtigen." },
+      { "key": "d", "value": "Ausweichmanöver des Kurshalters oder des Ausweichpflichtigen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Wenn der andere nicht ausweicht! Normalerweise muss der 'Kurshalter' seinen Kurs beibehalten. Wenn aber der Ausweichpflichtige nicht reagiert und eine Kollision unausweichlich wird, muss auch der Kurshalter im letzten Moment ein Manöver fahren, um den Zusammenstoß zu verhindern."
+  },
+  {
+    "id": 80,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wann ist das 'Manöver des letzten Augenblicks' durchzuführen?",
+    "options": [
+      { "key": "a", "value": "Es muss durchgeführt werden, wenn ein Zusammenstoß durch Manöver des Ausweichpflichtigen allein nicht mehr vermieden werden kann." },
+      { "key": "b", "value": "Es muss durchgeführt werden, wenn ein Zusammenstoß durch Manöver des Kurshalters allein nicht mehr vermieden werden kann." },
+      { "key": "c", "value": "Es muss im letzten Augenblick von jedem durchgeführt werden, wenn ein Zusammenstoß sonst nicht mehr vermieden werden kann." },
+      { "key": "d", "value": "Es muss kurz vor der Kollision durchgeführt werden, wenn sonst ein Zusammenstoß durch Manöver des Kurshalters allein nicht mehr vermieden werden kann." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die letzte Rettung! Das Manöver des letzten Augenblicks ist die Notbremse. Es wird dann vom Kurshalter eingeleitet, wenn klar ist, dass das Manöver des eigentlich Ausweichpflichtigen nicht mehr ausreicht, um die Kollision zu verhindern. Jetzt müssen beide handeln!"
+  },
+  {
+    "id": 81,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wann gilt ein Fahrzeug als überholendes Fahrzeug?",
+    "options": [
+      { "key": "a", "value": "Wenn es sich einem anderen Fahrzeug aus einer Richtung von mehr als 22,5° achterlicher als querab (Bereich des Hecklichtes) nähert." },
+      { "key": "b", "value": "Wenn es sich einem anderen Fahrzeug aus einer Richtung von mehr als 112,5° achterlicher als querab (Bereich der Seitenlichter) nähert." },
+      { "key": "c", "value": "Wenn es sich einem anderen Fahrzeug gegenüber in einer Richtung von mehr als 22,5° achterlicher als querab (Bereich des Hecklichtes) befindet." },
+      { "key": "d", "value": "Wenn es an einem anderen Fahrzeug aus einer achterlichen Richtung von mehr als 22,5° querab kommend (Bereich des Topplichtes) vorbeifährt." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Von hinten angeschlichen! Ein Überholer ist, wer sich einem anderen Boot von achtern nähert. Genauer gesagt: aus dem Sektor des Hecklichts. Nachts würdest du vom vorausfahrenden Boot nur das weiße Hecklicht sehen. Der Überholer ist immer ausweichpflichtig."
+  },
+  {
+    "id": 82,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wann ist ein Fahrzeug manövrierunfähig?",
+    "options": [
+      { "key": "a", "value": "Wenn es wegen außergewöhnlicher Umstände, z. B. Ausfall der Ruder- oder Maschinenanlage, nicht so wie vorgeschrieben manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann." },
+      { "key": "b", "value": "Wenn es wegen der Art seines Einsatzes behindert ist und deshalb nicht so wie vorgeschrieben manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Außer Kontrolle! Ein Fahrzeug ist manövrierunfähig, wenn es aufgrund eines technischen Defekts (z.B. Ruderbruch, Motorschaden) nicht mehr steuern kann. Es kann die Ausweichregeln nicht befolgen und treibt unkontrolliert. Andere müssen ihm ausweichen."
+  },
+  {
+    "id": 83,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wann ist ein Fahrzeug manövrierbehindert?",
+    "options": [
+      { "key": "a", "value": "Wenn es wegen der Art seines Einsatzes behindert ist und deshalb nicht so wie vorgeschrieben manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann." },
+      { "key": "b", "value": "Wenn es wegen außergewöhnlicher Umstände, z. B. Ausfall der Ruder- oder Maschinenanlage, nicht so wie vorgeschrieben manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann." },
+      { "key": "c", "value": "Wenn es wegen seines Tiefgangs im Verhältnis zu der vorhandenen Tiefe und Breite des befahrbaren Gewässers erheblich behindert ist, von seinem zu verfolgenden Kurs abzuweichen." },
+      { "key": "d", "value": "Wenn es mit Netzen, Leinen, Schleppnetzen oder anderen Fanggeräten fischt, welche die Manövrierfähigkeit einschränken." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Im Einsatz! Ein manövrierbehindertes Fahrzeug ist nicht kaputt, aber durch seine Arbeit (z.B. Baggerarbeiten, Kabellegen, Betonnung) so eingeschränkt, dass es nicht normal ausweichen kann. Es hat Vorfahrt vor normalen Maschinen- und Segelfahrzeugen."
+  },
+  {
+    "id": 84,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche besonderen Maßnahmen sind bei verminderter Sicht zu treffen?",
+    "options": [
+      { "key": "a", "value": "Es muss mit sicherer, den verminderten Sichtverhältnissen angepasster Geschwindigkeit gefahren werden, es müssen Schallsignale gegeben werden, es müssen Positionslichter eingeschaltet werden und es muss gehörig Ausguck gegangen werden." },
+      { "key": "b", "value": "Es muss mit sicherer, den verminderten Sichtverhältnissen angepasster Geschwindigkeit gefahren werden, es müssen Schallsignale gegeben werden, das Radargerät muss eingeschaltet werden und es muss Ausguck gegangen werden." },
+      { "key": "c", "value": "Es muss mit sicherer, den verminderten Sichtverhältnissen angepasster Geschwindigkeit gefahren werden, es müssen Schallsinale gegeben werden, es müssen Positionslichter eingeschaltet werden und es muss der Radarreflektor eingesetzt werden." },
+      { "key": "d", "value": "Es muss mit verminderter Geschwindigkeit gefahren werden, es müssen Schallsignale gegeben werden, es müssen Positionslichter eingeschaltet werden und es muss das AIS (Automatic Identifikation System) eingeschaltet werden." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Fahren im Blindflug! Bei Nebel oder schlechter Sicht gilt: Geschwindigkeit runter, Lichter an, Ohren und Augen auf! Du musst jederzeit stoppen können. Gib die vorgeschriebenen Schallsignale und halte sorgfältig Ausguck – mit allen Sinnen und technischen Hilfsmitteln."
+  },
+  {
+    "id": 85,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Vorschriften regeln die Ausrüstung, Anordnung und Anbringung der Positionslaternen, Sichtzeichen und Schallsignalanlagen auf Fahrzeugen?",
+    "options": [
+      { "key": "a", "value": "Die Kollisionsverhütungsregeln (KVR), die Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und die Schifffahrtsordnung Emsmündung (EmsSchO)." },
+      { "key": "b", "value": "Die Kollisionsverhütungsregeln (KVR), die Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und die Sportbootführerscheinverordnung." },
+      { "key": "c", "value": "Die Kollisionsverhütungsregeln (KVR), die Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und die Schiffssicherheitsverordnung." },
+      { "key": "d", "value": "Die Kollisionsverhütungsregeln (KVR), die Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und die Verordnung zur Sicherung der Seefahrt." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Wo steht was geschrieben? Die genauen Vorschriften für Lichter, Signalkörper und Signalhörner findest du in den KVR (international) und für die deutschen Gewässer zusätzlich in der SeeSchStrO und speziellen regionalen Ordnungen wie der EmsSchO."
+  },
+  {
+    "id": 86,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Positionslaternen und Schallsignalanlagen dürfen auf Sportbooten unter deutscher Flagge verwendet werden?",
+    "options": [
+      { "key": "a", "value": "Solche, deren Baumuster vom Bundesamt für Seeschifffahrt und Hydrographie (BSH) zur Verwendung zugelassen sind oder eine als gleichwertig anerkannte Zulassung eines EU-Staates besitzen." },
+      { "key": "b", "value": "Solche, die die vorgeschriebene Mindesttragweite von drei Seemeilen, die Größe und Farbgebung bzw. Lautstärke erreichen und mit einer Bescheinigung einer Klassifikationsgesellschaft versehen sind." },
+      { "key": "c", "value": "Solche, die gemäß der Kollisionsverhütungsregeln (KVR), der Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und der Schifffahrtsordnung Emsmündung (EmsSchO) vorgeschrieben sind und ein CE-Zeichen haben." },
+      { "key": "d", "value": "Solche, die vom Technischen Überwachungsverein (TÜV) geprüft und mit dem Zeichen für geprüfte Sicherheit (GS) versehen sind." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Nur mit offiziellem Segen! An Bord dürfen nur Lichter und Signalhörner verwendet werden, die eine offizielle Zulassung vom BSH haben. Das stellt sicher, dass sie die vorgeschriebenen Standards für Helligkeit, Farbe und Lautstärke erfüllen. Ein Anker mit Steuerrad ist das Zeichen dafür."
+  },
+  {
+    "id": 87,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was sind 'Verkehrstrennungsgebiete'?",
+    "options": [
+      { "key": "a", "value": "Es sind bekannt gemachte Schifffahrtswege, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind." },
+      { "key": "b", "value": "Es sind bekannt gemachte Fahrwasser, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind." },
+      { "key": "c", "value": "Es sind bekannt gemachte Seeschifffahrtsstraßen, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind." },
+      { "key": "d", "value": "Es sind bekannt gemachte Bundeswasserstraßen, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Autobahnen der Meere! Verkehrstrennungsgebiete (VTG) kanalisieren den Schiffsverkehr in stark befahrenen Gebieten. Wie auf einer Autobahn gibt es getrennte 'Fahrspuren' (Einbahnwege) für jede Richtung, getrennt durch eine 'Mittelleitplanke' (Trennzone)."
+  },
+  {
+    "id": 88,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie sind Verkehrstrennungsgebiete zu befahren?",
+    "options": [
+      { "key": "a", "value": "Sie dürfen jeweils nur in der allgemeinen Verkehrsrichtung rechts der Trennlinie oder Trennzone befahren werden." },
+      { "key": "b", "value": "Sie dürfen jeweils nur in Fahrtrichtung links der Trennlinie oder Trennzone befahren werden." },
+      { "key": "c", "value": "Sie dürfen innerhalb der äußeren Trennlinien nur in einer Fahrtrichtung befahren werden." },
+      { "key": "d", "value": "Sie dürfen nur vom Anfang bis zum Ende und jeweils nur in Fahrtrichtung rechts der Trennzone befahren werden." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Immer schön auf der rechten Spur! In einem Verkehrstrennungsgebiet musst du auf dem für deine Richtung vorgesehenen Einbahnweg fahren. Das ist wie das Rechtsfahrgebot auf der Autobahn. Die Trennzone in der Mitte darf nicht befahren werden."
+  },
+  {
+    "id": 89,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was bedeutet 'in Sicht befindlich'?",
+    "options": [
+      { "key": "a", "value": "Wenn jedes Fahrzeug vom anderen optisch wahrgenommen werden kann." },
+      { "key": "b", "value": "Wenn jeder Fahrzeugführer vom anderen optisch wahrgenommen werden kann." },
+      { "key": "c", "value": "Wenn beide Fahrzeuge optisch wahrgenommen werden können." },
+      { "key": "d", "value": "Wenn jedes Fahrzeug auch bei unsichtigem Wetter optisch wahrgenommen werden kann." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Auge in Auge! Fahrzeuge sind 'in Sicht', wenn sie sich gegenseitig mit bloßem Auge erkennen können. Dieser Zustand ist die Voraussetzung für die Anwendung der normalen Ausweichregeln der KVR. Bei verminderter Sicht gelten andere Regeln."
+  },
+  {
+    "id": 90,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was bedeutet sichere Geschwindigkeit?",
+    "options": [
+      { "key": "a", "value": "Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen angepasst sein und es muss jederzeit aufgestoppt werden können." },
+      { "key": "b", "value": "Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen angepasst sein und der Verkehr darf nicht behindert werden." },
+      { "key": "c", "value": "Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen und dem Treibstoffverbrauch angepasst sein." },
+      { "key": "d", "value": "Die Geschwindigkeit muss der Verkehrslage, dem Verkehrsaufkommen, den Seegangs- und Windverhältnissen angepasst sein, so dass kein Sog und Wellenschlag entsteht." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Immer bremsbereit! 'Sichere Geschwindigkeit' bedeutet, dass du so schnell fährst, dass du jederzeit die volle Kontrolle behältst und dein Boot rechtzeitig stoppen kannst, um eine Kollision zu vermeiden. Sie hängt von vielen Faktoren ab: Sicht, Verkehr, Seegang und den Manövriereigenschaften deines Bootes."
+  }
+]

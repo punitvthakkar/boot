@@ -1,0 +1,422 @@
+[
+  {
+    "id": 121,
+    "category": "Spezifische Fragen See",
+    "image": "images/q121.svg",
+    "question": "Welches Schallsignal muss ein Fahrzeug in Fahrt von weniger als 12 m Länge bei verminderter Sicht geben, wenn es die sonst vorgeschriebenen Schallsignale nicht geben kann?",
+    "options": [
+      { "key": "a", "value": "Mindestens alle zwei Minuten ein kräftiges Schallsignal, das mit den vorgeschriebenen nicht verwechselt werden kann." },
+      { "key": "b", "value": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz (– • •)." },
+      { "key": "c", "value": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, lang, kurz (– – •)." },
+      { "key": "d", "value": "Mit der Pfeife kurz, lang, kurz (• – •)." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Hauptsache, man hört dich! Kleine Boote unter 12m, die nicht die exakten Schallsignale geben können, müssen bei Nebel trotzdem auf sich aufmerksam machen. Sie müssen mindestens alle zwei Minuten ein kräftiges Schallsignal abgeben, das sich deutlich von anderen Signalen unterscheidet."
+  },
+  {
+    "id": 122,
+    "category": "Spezifische Fragen See",
+    "image": "images/q122.svg",
+    "question": "Welches Fahrzeug gibt bei verminderter Sicht mindestens jede Minute etwa 5 Sekunden lang rasches Läuten der Glocke?",
+    "options": [
+      { "key": "a", "value": "Ein Fahrzeug vor Anker von weniger als 100 m Länge." },
+      { "key": "b", "value": "Ein Fahrzeug vor Anker von 100 und mehr Meter Länge." },
+      { "key": "c", "value": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt." },
+      { "key": "d", "value": "Ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Ankerlieger im Nebel! Ein Fahrzeug, das vor Anker liegt, macht bei verminderter Sicht mit Glockengeläut auf sich aufmerksam. Ist es unter 100m lang, läutet es jede Minute für 5 Sekunden die Glocke im vorderen Schiffsteil."
+  },
+  {
+    "id": 123,
+    "category": "Spezifische Fragen See",
+    "image": "images/q123.svg",
+    "question": "Welches Fahrzeug gibt bei verminderter Sicht mindestens jede Minute etwa 5 Sekunden lang rasches Läuten der Glocke und unmittelbar danach ungefähr 5 Sekunden lang rasch den Gong schlagen?",
+    "options": [
+      { "key": "a", "value": "Ein Fahrzeug vor Anker von 100 und mehr Meter Länge." },
+      { "key": "b", "value": "Ein Fahrzeug vor Anker von weniger als 100 m Länge." },
+      { "key": "c", "value": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt." },
+      { "key": "d", "value": "Ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Großer Ankerlieger im Nebel! Ein Ankerlieger über 100m Länge gibt ein kombiniertes Schallsignal: Zuerst 5 Sekunden Glocke vorn, dann sofort 5 Sekunden Gong achtern. So wird auch akustisch die enorme Länge des Schiffes verdeutlicht."
+  },
+  {
+    "id": 124,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welches zusätzliche Schallsignal darf jeder Ankerlieger bei verminderter Sicht geben, um einem sich nähernden Fahrzeug seinen Standort anzuzeigen?",
+    "options": [
+      { "key": "a", "value": "Mit der Pfeife kurz, lang, kurz (• – •)." },
+      { "key": "b", "value": "Mindestens alle zwei Minuten ein kräftiges Schallsignal, das mit den vorgeschriebenen nicht verwechselt werden kann." },
+      { "key": "c", "value": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz (– • •)." },
+      { "key": "d", "value": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, lang, kurz (– – •)." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Antwort an den Herannahenden! Hört ein Ankerlieger im Nebel das Signal eines anderen Fahrzeugs, darf er zusätzlich zu Glocke/Gong das Signal 'kurz-lang-kurz' (Buchstabe 'R' im Morsecode) geben. Das bedeutet so viel wie: 'Achtung, hier liege ich vor Anker, halte Abstand!'"
+  },
+  {
+    "id": 125,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Woran kann man feststellen, ob die Möglichkeit der Gefahr eines Zusammenstoßes besteht?",
+    "options": [
+      { "key": "a", "value": "Wenn sich der Abstand zum anderen Fahrzeug verringert und sich die Peilung nicht oder nicht merklich ändert." },
+      { "key": "b", "value": "Wenn sich der Abstand zum anderen Fahrzeug verringert und sich der Kurs nicht oder nicht merklich ändert." },
+      { "key": "c", "value": "Wenn sich der Abstand zum anderen Fahrzeug verringert und sich die Kompasspeilung ändert." },
+      { "key": "d", "value": "Wenn sich der Abstand zum anderen Fahrzeug verringert und sich der Kurs ändert." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die stehende Peilung! Die sicherste Methode, Kollisionsgefahr zu erkennen, ist die Peilung. Peile das andere Schiff über deinen Kompass. Wenn sich die Peilung über die Zeit nicht oder nur kaum ändert und der Abstand geringer wird, seid ihr auf Kollisionskurs!"
+  },
+  {
+    "id": 126,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Zwei in Sicht befindliche Segelfahrzeuge nähern sich im freien Seeraum oder außerhalb des Fahrwassers so, dass die Möglichkeit der Gefahr eines Zusammenstoßes besteht. Welches Fahrzeug muss dem anderen ausweichen, wenn sie den Wind von derselben Seite haben?",
+    "options": [
+      { "key": "a", "value": "Das luvwärtige Fahrzeug dem leewärtigen Fahrzeug." },
+      { "key": "b", "value": "Das leewärtige Fahrzeug dem luvwärtigen Fahrzeug." },
+      { "key": "c", "value": "Dasjenige Fahrzeug, das den Wind von Backbord hat." },
+      { "key": "d", "value": "Dasjenige Fahrzeug, das den Wind von Steuerbord hat." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Luv weicht Lee! Haben zwei Segelboote den Wind von der gleichen Seite, muss das Boot in Luv (das näher am Wind ist) dem Boot in Lee (das vom Wind weiter weg ist) ausweichen. Der Grund: Das leewärtige Boot hat 'schlechtere Karten' zum Manövrieren."
+  },
+  {
+    "id": 127,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie müssen sich zwei in Sicht befindliche Maschinenfahrzeuge verhalten, die sich einander auf entgegengesetzten oder fast entgegengesetzten Kursen nähern, um die Möglichkeit der Gefahr eines Zusammenstoßes zu vermeiden?",
+    "options": [
+      { "key": "a", "value": "Jedes Fahrzeug muss seinen Kurs nach Steuerbord ändern." },
+      { "key": "b", "value": "Jedes Fahrzeug muss seinen Kurs nach Backbord ändern." },
+      { "key": "c", "value": "Es muss das luvwärtige Fahrzeug dem leewärtigen Fahrzeug ausweichen." },
+      { "key": "d", "value": "Es muss das leewärtige Fahrzeug dem luvwärtigen Fahrzeug ausweichen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Begegnung auf See! Wie im Straßenverkehr: Wenn zwei Motorboote direkt aufeinander zufahren, weichen beide nach Steuerbord (rechts) aus. So passieren sie sich sicher Backbord an Backbord (links an links)."
+  },
+  {
+    "id": 128,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie hat sich ein Maschinenfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen Segelfahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?",
+    "options": [
+      { "key": "a", "value": "Das Maschinenfahrzeug muss ausweichen." },
+      { "key": "b", "value": "Das Maschinenfahrzeug muss Kurs und Geschwindigkeit beibehalten." },
+      { "key": "c", "value": "Das Maschinenfahrzeug muss seine Fahrt verringern." },
+      { "key": "d", "value": "Das Maschinenfahrzeug muss vorsichtig manövrieren bis die Gefahr vorüber ist." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Motor weicht Segel! Ein Maschinenfahrzeug kann leichter und schneller manövrieren als ein Segler, der vom Wind abhängig ist. Daher gilt grundsätzlich: Das Motorboot muss dem Segelboot ausweichen."
+  },
+  {
+    "id": 129,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie hat sich ein Maschinenfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen manövrierunfähigen Fahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?",
+    "options": [
+      { "key": "a", "value": "Das Maschinenfahrzeug muss ausweichen." },
+      { "key": "b", "value": "Das Maschinenfahrzeug muss Kurs und Geschwindigkeit beibehalten." },
+      { "key": "c", "value": "Das Maschinenfahrzeug muss seinen Kurs nach Steuerbord ändern." },
+      { "key": "d", "value": "Das Maschinenfahrzeug muss seine Fahrt verringern." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Dem Havaristen ausweichen! Ein manövrierunfähiges Fahrzeug ist außer Kontrolle und kann nicht ausweichen. Daher müssen alle anderen Fahrzeuge, einschließlich Maschinenfahrzeuge, ihm mit weitem Abstand ausweichen."
+  },
+  {
+    "id": 130,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie hat sich ein Maschinenfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen manövrierbehinderten Fahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?",
+    "options": [
+      { "key": "a", "value": "Das Maschinenfahrzeug muss ausweichen." },
+      { "key": "b", "value": "Das Maschinenfahrzeug muss Kurs und Geschwindigkeit beibehalten." },
+      { "key": "c", "value": "Das Maschinenfahrzeug muss seinen Kurs nach Steuerbord ändern." },
+      { "key": "d", "value": "Das Maschinenfahrzeug muss seine Fahrt verringern." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Arbeit hat Vorfahrt! Ein manövrierbehindertes Fahrzeug (z.B. ein Bagger) ist durch seine Arbeit eingeschränkt. Ein Maschinenfahrzeug muss ihm ausweichen, da es seine Position nicht oder nur schwer verändern kann."
+  },
+  {
+    "id": 131,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie hat sich ein Maschinenfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen fischenden Fahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?",
+    "options": [
+      { "key": "a", "value": "Das Maschinenfahrzeug muss ausweichen." },
+      { "key": "b", "value": "Das Maschinenfahrzeug muss Kurs und Geschwindigkeit beibehalten." },
+      { "key": "c", "value": "Das Maschinenfahrzeug muss seinen Kurs nach Steuerbord ändern." },
+      { "key": "d", "value": "Das Maschinenfahrzeug muss vorsichtig manövrieren, bis die Gefahr vorüber ist." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Fischer im Recht! Ein fischendes Fahrzeug ist durch sein Fanggerät in seinen Manövriermöglichkeiten eingeschränkt. Daher muss ein Maschinenfahrzeug einem Fischer ausweichen und dabei besonders auf die ausgebrachten Netze oder Leinen achten."
+  },
+  {
+    "id": 132,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie hat sich ein Segelfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen fischenden Fahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?",
+    "options": [
+      { "key": "a", "value": "Das Segelfahrzeug muss ausweichen." },
+      { "key": "b", "value": "Das Segelfahrzeug muss seinen Kurs nach Steuerbord ändern." },
+      { "key": "c", "value": "Das Segelfahrzeug darf die sichere Durchfahrt nicht behindern." },
+      { "key": "d", "value": "Das Segelfahrzeug muss Kurs und Geschwindigkeit zunächst beibehalten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Auch Segler müssen ausweichen! Obwohl Segler normalerweise Vorfahrt vor Motorbooten haben, müssen sie fischenden, manövrierunfähigen oder manövrierbehinderten Fahrzeugen ausweichen. Die Hierarchie ist klar geregelt."
+  },
+  {
+    "id": 133,
+    "category": "Spezifische Fragen See",
+    "image": "images/q133.svg",
+    "question": "Wie muss man sich gegenüber diesem Fahrzeug verhalten?",
+    "options": [
+      { "key": "a", "value": "Die sichere Durchfahrt des Fahrzeugs darf nicht behindert werden." },
+      { "key": "b", "value": "Das Fahrzeug muss an Steuerbord passiert werden." },
+      { "key": "c", "value": "Sog und Wellenschlag vermeiden." },
+      { "key": "d", "value": "Kurs und Geschwindigkeit beibehalten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Platz da für den Großen! Der Zylinder am Tag signalisiert ein tiefgangbehindertes Fahrzeug. Es ist an die tiefen Stellen des Fahrwassers gebunden. Kleinere Fahrzeuge, auch Segelboote, dürfen seine Durchfahrt nicht behindern und müssen rechtzeitig Platz machen."
+  },
+  {
+    "id": 134,
+    "category": "Spezifische Fragen See",
+    "image": "images/q134.svg",
+    "question": "Wie muss man sich gegenüber diesem Fahrzeug verhalten?",
+    "options": [
+      { "key": "a", "value": "Die sichere Durchfahrt des Fahrzeugs darf nicht behindert werden." },
+      { "key": "b", "value": "Das Fahrzeug muss an Steuerbord passiert werden." },
+      { "key": "c", "value": "Sog und Wellenschlag vermeiden." },
+      { "key": "d", "value": "Kurs und Geschwindigkeit beibehalten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Vorfahrt für den Tiefgang! Die drei roten Lichter signalisieren ein tiefgangbehindertes Fahrzeug. Es kann nicht ausweichen. Du musst so manövrieren, dass du seine sichere Durchfahrt nicht behinderst. Das bedeutet: frühzeitig und deutlich ausweichen."
+  },
+  {
+    "id": 135,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie verhält sich der Kurshaltepflichtige vor Einleitung des Manövers des letzten Augenblicks gegenüber einem ausweichpflichtigen Fahrzeug?",
+    "options": [
+      { "key": "a", "value": "Kurs und Geschwindigkeit zunächst beibehalten und dem Ausweichpflichtigen besondere Aufmerksamkeit widmen." },
+      { "key": "b", "value": "Kurs oder Geschwindigkeit anpassen und dem Ausweichpflichtigen besondere Aufmerksamkeit widmen." },
+      { "key": "c", "value": "Kurs nach Steuerbord ändern. Geschwindigkeit verringern und dem Ausweichpflichtigen besondere Aufmerksamkeit widmen." },
+      { "key": "d", "value": "Kurs nach Steuerbord ändern, Geschwindigkeit zunächst beibehalten und dem Ausweichpflichtigen besondere Aufmerksamkeit widmen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Standhaft bleiben, aber wachsam sein! Als Kurshalter musst du zunächst Kurs und Geschwindigkeit beibehalten, um für den Ausweichpflichtigen berechenbar zu sein. Deine Hauptaufgabe ist es, dessen Manöver genau zu beobachten und bereit zu sein, selbst zu handeln, falls er es nicht tut."
+  },
+  {
+    "id": 136,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie muss sich ein Ausweichpflichtiger gegenüber einem Kurshalter verhalten?",
+    "options": [
+      { "key": "a", "value": "Das Ausweichmanöver muss frühzeitig, durchgreifend und klar erkennbar durchgeführt werden." },
+      { "key": "b", "value": "Der Kurs muss bei Annäherung an den Kurshalter Schritt für Schritt so angepasst werden, dass das Heck des Anderen sicher umfahren wird." },
+      { "key": "c", "value": "Das Manöver des letzten Augenblicks ist durchzuführen. Es muss so ausgewichen werden, wie es zur Vermeidung eines Zusammenstoßes am dienlichsten ist." },
+      { "key": "d", "value": "Die Fahrt ist auf das für die Steuerfähigkeit erforderliche Mindestmaß zu reduzieren; im Zweifelsfall muss ganz aufgestoppt werden." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Klar und deutlich ausweichen! Als Ausweichpflichtiger musst du handeln. Dein Manöver muss so rechtzeitig und deutlich sein, dass der Kurshalter klar erkennen kann, dass du deine Pflicht erfüllst und die Gefahr gebannt ist. Zögern ist hier fehl am Platz."
+  },
+  {
+    "id": 137,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie hat sich ein überholendes Fahrzeug zu verhalten?",
+    "options": [
+      { "key": "a", "value": "Es hat dem zu überholenden Fahrzeug auszuweichen." },
+      { "key": "b", "value": "Es muss den größtmöglichen Abstand zum überholten Fahrzeug einhalten und Sog und Wellenschlag vermeiden." },
+      { "key": "c", "value": "Es darf die sichere Durchfahrt des zu überholenden Fahrzeugs nicht behindern." },
+      { "key": "d", "value": "Es muss vor dem Überholen ein Schallsignal abgeben, um die Zustimmung des zu überholenden Fahrzeugs einzuholen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Wer von hinten kommt, muss ausweichen! Der Überholer ist immer ausweichpflichtig, egal ob er ein Motorboot oder ein Segler ist. Er muss sein Manöver so planen und durchführen, dass für das vorausfahrende Fahrzeug keinerlei Gefahr oder Behinderung entsteht."
+  },
+  {
+    "id": 138,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie hat man sich zu verhalten, wenn man bei verminderter Sicht anscheinend vorlicher als querab das Schallsignal eines anderen Fahrzeugs hört?",
+    "options": [
+      { "key": "a", "value": "Es ist ebenfalls ein Schallsignal abzugeben und die Fahrt soweit zu verlangsamen, dass die Steuerfähigkeit noch erhalten bleibt. Erforderlichenfalls ist ganz aufzustoppen. In jedem Fall ist vorsichtig zu manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist." },
+      { "key": "b", "value": "Es ist ebenfalls ein Schallsignal abzugeben und frühzeitig, durchgreifend und klar erkennbar auszuweichen." },
+      { "key": "c", "value": "Es sind mindestens fünf kurze Töne mit der Pfeife abzugeben und das Manöver des letzten Augenblicks durchzuführen. Dabei ist so zu manövrieren, wie es zur Vermeidung eines Zusammenstoßes am dienlichsten ist." },
+      { "key": "d", "value": "Es ist ebenfalls ein Schallsignal abzugeben. Kurs und Geschwindigkeit sind so lange beizubehalten, bis das andere Fahrzeug in Sicht kommt. Dann ist die Ausweichsituation nach KVR zu prüfen und man muss sich entsprechend verhalten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Hören, was los ist! Hörst du im Nebel ein Schallsignal von vorn, kannst du die genaue Position oft schwer einschätzen. Die Regel lautet: Fahrt reduzieren bis fast zum Stillstand (aber steuerfähig bleiben!), selbst das passende Signal geben und extrem vorsichtig navigieren, bis die Situation geklärt ist."
+  },
+  {
+    "id": 139,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie verhält man sich als Kurshalter, wenn man feststellt, dass ein anderes Fahrzeug seiner Ausweichpflicht nicht nachkommt und die Gefahr einer unmittelbaren Kollision bevorsteht?",
+    "options": [
+      { "key": "a", "value": "Man gibt mindestens fünf kurze Töne mit der Pfeife ab und führt das 'Manöver des letzten Augenblicks' durch. Dabei ist so zu manövrieren, wie es zur Vermeidung eines Zusammenstoßes am dienlichsten ist." },
+      { "key": "b", "value": "Man gibt ein Schallsignal (vier kurze Töne) ab und verlangsamt die Fahrt soweit, dass die Steuerfähigkeit noch erhalten bleibt. Erforderlichenfalls ist ganz aufzustoppen. In jedem Fall ist vorsichtig zu manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist." },
+      { "key": "c", "value": "Man gibt mindestens fünf kurze Töne mit der Pfeife ab und reduziert die Geschwindigkeit, um Sog und Wellenschlag zu vermeiden." },
+      { "key": "d", "value": "Man behält Kurs und Geschwindigkeit zunächst bei und widmet dem Ausweichpflichtigen besondere Aufmerksamkeit." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Notfall-Manöver! Wenn der Ausweichpflichtige pennt und es eng wird, musst du als Kurshalter handeln. Du gibst das Gefahrensignal (fünf kurze Töne) und leitest selbst ein Ausweichmanöver ein, das die Kollision am sichersten verhindert. Jetzt ist schnelles und entschlossenes Handeln gefragt."
+  },
+  {
+    "id": 140,
+    "category": "Spezifische Fragen See",
+    "image": "images/q140.svg",
+    "question": "Welche Bedeutung hat folgendes Schallsignal? (mindestens •••••)",
+    "options": [
+      { "key": "a", "value": "Ein ausweichpflichtiges Fahrzeug wird auf seine Ausweichpflicht aufmerksam gemacht." },
+      { "key": "b", "value": "Allgemeines Gefahren- und Warnsignal." },
+      { "key": "c", "value": "Bleib-Weg-Signal, Explosionsgefahr durch gefährliche Güter. Sofort den Gefahrenbereich verlassen. Feuer und Zündfunken vermeiden." },
+      { "key": "d", "value": "Seeschifffahrtsstraße gesperrt. Weiterfahrt verboten, sofort aufstoppen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Aufwachen! Fünf (oder mehr) kurze Töne sind das internationale Signal für 'Was machst du da?' oder 'Ich verstehe deine Absicht nicht'. Es wird gegeben, wenn ein anderes Fahrzeug sich falsch verhält oder eine gefährliche Situation heraufbeschwört. Es ist ein dringender Warnruf."
+  },
+  {
+    "id": 141,
+    "category": "Spezifische Fragen See",
+    "image": "images/q141.svg",
+    "question": "Welche Bedeutung hat folgendes Schallsignal? (• – •)",
+    "options": [
+      { "key": "a", "value": "Ein Ankerlieger macht ein sich näherndes Fahrzeug auf eine gefährliche Annäherung aufmerksam." },
+      { "key": "b", "value": "Die Maschine des Fahrzeugs läuft rückwärts." },
+      { "key": "c", "value": "Schutzbedürftige Anlage; Geschwindigkeit reduzieren, Sog und Wellenschlag vermeiden." },
+      { "key": "d", "value": "Maschinenfahrzeug, das seine Maschinen gestoppt hat und keine Fahrt durchs Wasser macht." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Achtung, Ankerlieger! Das Signal 'kurz-lang-kurz' (Morsezeichen 'R') ist eine zusätzliche Warnung, die ein Ankerlieger im Nebel geben kann, wenn er bemerkt, dass sich ein anderes Fahrzeug gefährlich nähert. Es bedeutet: 'Pass auf, ich liege hier fest!'"
+  },
+  {
+    "id": 142,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was ist bei der Benutzung eines Verkehrstrennungsgebietes zu beachten?",
+    "options": [
+      { "key": "a", "value": "Auf dem entsprechenden Einbahnweg in der allgemeinen Verkehrsrichtung fahren, soweit wie möglich von der Trennzone/Trennlinie klar halten, in der Regel an den Enden des Einbahnweges ein- oder auslaufen, seitliches Ein- oder Auslaufen in möglichst kleinem Winkel zur allgemeinen Verkehrsrichtung." },
+      { "key": "b", "value": "Auf dem entsprechenden Einbahnweg in Verkehrsrichtung links von der Trennzone fahren, so nah wie möglich an der Trennzone/Trennlinie fahren, in der Regel an den Enden des Einbahnweges ein- oder auslaufen, seitliches Ein- oder Auslaufen in möglichst rechtem Winkel zur allgemeinen Verkehrsrichtung." },
+      { "key": "c", "value": "Die Benutzung von Verkehrstrennungsgebieten ist für Segelfahrzeuge sowie für Maschinenfahrzeuge unter 20 m Länge nicht gestattet. Diese Fahrzeuge haben sich soweit wie möglich von Verkehrstrennungsgebieten klar zu halten und müssen durch ihren Kurs klar zu erkennen geben, dass sie ein Verkehrstrennungsgebiet nicht benutzen." },
+      { "key": "d", "value": "Auf den entsprechenden Einbahnwegen in der allgemeinen Verkehrsrichtung fahrende Fahrzeuge müssen sich soweit wie möglich von der Trennzone/Trennlinie klar halten und haben Vorfahrt gegenüber allen Fahrzeugen, die in ein Verkehrstrennungsgebiet einlaufen oder ein solches queren." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Regeln für die Meeres-Autobahn! In einem VTG fährst du auf dem Einbahnweg in der vorgeschriebenen Richtung, hältst Abstand zur Trennzone, fährst an den Enden ein und aus und querst nur im Notfall und dann im rechten Winkel. Alles, um den Verkehrsfluss sicher zu halten."
+  },
+  {
+    "id": 143,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was ist hinsichtlich des Querens eines Verkehrstrennungsgebietes zu beachten?",
+    "options": [
+      { "key": "a", "value": "Das Queren ist möglichst zu vermeiden. Falls gequert werden muss, hat dies möglichst mit der Kielrichtung im rechten Winkel zur allgemeinen Verkehrsrichtung zu erfolgen. Die Kielrichtung des querenden Fahrzeugs muss auch dann einen rechten Winkel zur allgemeinen Verkehrsrichtung bilden, wenn das Fahrzeug durch Wind oder Strom versetzt wird." },
+      { "key": "b", "value": "Das Queren ist möglichst zu vermeiden. Falls gequert werden muss, hat dies möglichst mit einem rechtweisenden Kurs zur allgemeinen Verkehrsrichtung zu erfolgen. Der rechtweisende Kurs des querenden Fahrzeugs muss auch dann einen rechten Winkel zur allgemeinen Verkehrsrichtung bilden, wenn das Fahrzeug durch Wind oder Strom versetzt wird." },
+      { "key": "c", "value": "Das Queren von Verkehrstrennungsgebieten ist für Segelfahrzeuge sowie für Maschinenfahrzeuge unter 20 m Länge verboten. Diese Fahrzeuge haben sich soweit wie möglich von den Enden der Verkehrstrennungsgebiete klar zu halten und müssen durch ihren Kurs zu erkennen geben, dass sie ein Verkehrstrennungsgebiet nicht queren." },
+      { "key": "d", "value": "Das Queren ist möglichst zu vermeiden. Falls gequert werden muss, hat dies mit der Kielrichtung in einem möglichst spitzen Winkel zur allgemeinen Verkehrsrichtung zu erfolgen. Die Kielrichtung des querenden Fahrzeugs muss auch dann einen möglichst spitzen Winkel zur allgemeinen Verkehrsrichtung bilden, wenn das Fahrzeug durch Wind oder Strom versetzt wird." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der kürzeste Weg ist der sicherste! Das Queren eines VTG sollte man vermeiden. Wenn es aber sein muss, dann auf dem kürzesten Weg: im 90-Grad-Winkel zur Verkehrsrichtung. Entscheidend ist der Kurs über Grund (Kielrichtung), nicht der gesteuerte Kurs. Wind und Strom müssen also berücksichtigt werden."
+  },
+  {
+    "id": 144,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "In welcher Vorschrift findet man die Regeln zum Befahren von Verkehrstrennungsgebieten?",
+    "options": [
+      { "key": "a", "value": "In den Kollisionsverhütungsregeln." },
+      { "key": "b", "value": "In der Seeschifffahrtsstraßen-Ordnung." },
+      { "key": "c", "value": "In den Kollisionsverhütungsregeln und der Seeschifffahrtsstraßen-Ordnung." },
+      { "key": "d", "value": "In den 'Bekanntmachungen der Generaldirektion Wasserstraßen und Schifffahrt (GDWS)'." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Regel 10 der KVR! Die detaillierten Vorschriften für das Verhalten in und um Verkehrstrennungsgebiete sind international in Regel 10 der Kollisionsverhütungsregeln (KVR) festgelegt. Diese Regel muss jeder Skipper kennen, der in solchen Gebieten unterwegs ist."
+  },
+  {
+    "id": 145,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie hat sich ein Maschinenfahrzeug bei Kollisionsgefahr in einem Einbahnweg eines Verkehrstrennungsgebietes gegenüber einem Maschinenfahrzeug zu verhalten, das den Einbahnweg von Steuerbord kommend quert?",
+    "options": [
+      { "key": "a", "value": "Es muss dem anderen Fahrzeug ausweichen." },
+      { "key": "b", "value": "Es darf die sichere Durchfahrt des Maschinenfahrzeugs nicht behindern." },
+      { "key": "c", "value": "Dem querenden Fahrzeug hat es besondere Aufmerksamkeit zu widmen." },
+      { "key": "d", "value": "Es muss das Manöver des letzten Augenblicks durchführen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der Verkehr im VTG hat Vorfahrt! Ein Fahrzeug, das dem Verlauf des Einbahnweges folgt, hat Vorfahrt gegenüber einem Fahrzeug, das diesen Weg quert. Das querende Fahrzeug ist ausweichpflichtig, auch wenn es von Steuerbord kommt."
+  },
+  {
+    "id": 146,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie hat sich ein Segelfahrzeug beim Queren eines Verkehrstrennungsgebietes gegenüber einem Maschinenfahrzeug zu verhalten, das auf einem Einbahnweg in der allgemeinen Verkehrsrichtung fährt?",
+    "options": [
+      { "key": "a", "value": "Es darf die sichere Durchfahrt des Maschinenfahrzeugs nicht behindern." },
+      { "key": "b", "value": "Es unterliegt der Kurshaltepflicht. Kurs und Geschwindigkeit sind beizubehalten." },
+      { "key": "c", "value": "Es muss warten. Alle dem Einbahnweg folgenden Fahrzeuge haben Vorfahrt." },
+      { "key": "d", "value": "Es hat Vorfahrt. Alle dem Einbahnweg folgenden Fahrzeuge müssen warten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Ausnahmeregel im VTG! Normalerweise weicht Motor dem Segel. In einem Verkehrstrennungsgebiet ist es aber andersherum: Ein kleines Fahrzeug (unter 20m) oder ein Segelboot darf den Durchgangsverkehr nicht behindern. Das bedeutet, der Segler muss dem Motorboot im Einbahnweg ausweichen."
+  },
+  {
+    "id": 147,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie haben sich Fahrzeuge von weniger als 20 m Länge oder Segelfahrzeuge in Verkehrstrennungsgebieten zu verhalten?",
+    "options": [
+      { "key": "a", "value": "Sie dürfen die sichere Durchfahrt eines dem Einbahnweg folgenden Maschinenfahrzeugs nicht behindern." },
+      { "key": "b", "value": "Sie gelten als Kleinfahrzeuge und dürfen Verkehrstrennungsgebiete nicht befahren." },
+      { "key": "c", "value": "Sie gelten als Kleinfahrzeuge und dürfen Verkehrstrennungsgebiete nur am Tage und bei guter Sicht befahren." },
+      { "key": "d", "value": "Sie dürfen die Trennzone befahren, damit der durchgehende Verkehr nicht behindert wird." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Kleinen müssen Platz machen! Segelboote und kleine Motorboote (< 20m) dürfen ein VTG zwar befahren, aber sie dürfen den großen Schiffen, die dem Einbahnweg folgen, nicht im Weg sein. Sie sind 'Verkehrsteilnehmer zweiter Klasse' und müssen sich dem Verkehrsfluss anpassen."
+  },
+  {
+    "id": 148,
+    "category": "Spezifische Fragen See",
+    "image": "images/q148.svg",
+    "question": "Was ist das für ein Fahrzeug und was ist zu beachten?",
+    "options": [
+      { "key": "a", "value": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei schwarze Rhomben senkrecht übereinander angeordnet sind." },
+      { "key": "b", "value": "Ein manövrierbehindertes Fahrzeug, das die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei schwarze Bälle senkrecht übereinander angeordnet sind." },
+      { "key": "c", "value": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, die in meiner Fahrtrichtung rechts liegt." },
+      { "key": "d", "value": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es darf an keiner Seite passiert werden." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Bagger bei der Arbeit! Dieses Fahrzeug ist ein Bagger oder ein anderes Schiff, das Unterwasserarbeiten durchführt. Die zwei Rhomben übereinander zeigen die sichere Passierseite an. Die Seite mit den zwei Bällen ist gesperrt, weil dort das Arbeitsgerät im Wasser ist."
+  },
+  {
+    "id": 149,
+    "category": "Spezifische Fragen See",
+    "image": "images/q149.svg",
+    "question": "Was ist das für ein Fahrzeug und was ist zu beachten?",
+    "options": [
+      { "key": "a", "value": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt nicht behindert. Es ist an der Seite zu passieren, die in Fahrtrichtung rechts liegt." },
+      { "key": "b", "value": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, die in Fahrtrichtung links liegt." },
+      { "key": "c", "value": "Ein manövrierunfähiges Fahrzeug mit Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, die in Fahrtrichtung rechts liegt." },
+      { "key": "d", "value": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es darf an beiden Seiten passiert werden." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Bagger bei Nacht! Dieses Fahrzeug führt Baggerarbeiten durch. Die zwei grünen Lichter übereinander zeigen die Seite an, auf der du sicher passieren kannst. Die zwei roten Lichter markieren die gesperrte Seite, auf der sich Hindernisse unter Wasser befinden."
+  },
+  {
+    "id": 150,
+    "category": "Spezifische Fragen See",
+    "image": "images/q150.svg",
+    "question": "Was ist das für ein Fahrzeug und was ist zu beachten?",
+    "options": [
+      { "key": "a", "value": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei grüne Rundumlichter senkrecht übereinander angeordnet sind." },
+      { "key": "b", "value": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durchs Wasser, das die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei rote Rundumlichter senkrecht übereinander angeordnet sind." },
+      { "key": "c", "value": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, die in Fahrtrichtung links liegt." },
+      { "key": "d", "value": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Steuerbordseite des Fahrwassers (Rechtsfahrgebot) zu passieren." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Passierseite bei Nacht! Dieses Fahrzeug ist bei Unterwasserarbeiten im Einsatz. Die zwei grünen Lichter zeigen die freie Seite an, die zwei roten Lichter die gesperrte Seite. Das zusätzliche 'rot-weiß-rot' signalisiert 'manövrierbehindert'."
+  }
+]

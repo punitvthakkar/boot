@@ -1,0 +1,345 @@
+[
+  {
+    "id": 271,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie hat man seine Fahrweise im Fahrwasser bei verminderter Sicht aufgrund seemännischer Sorgfaltspflicht einzurichten, wenn das Fahrzeug nicht über die technische Ausrüstung, insbesondere zur Ortung anderer Fahrzeuge, verfügt?",
+    "options": [
+      { "key": "a", "value": "Das Fahrwasser verlassen und wenn möglich, Flachwassergebiet aufsuchen und ankern. Wenn dies nicht möglich ist, im Fahrwasser äußerst rechts halten." },
+      { "key": "b", "value": "Unverzüglich die Fahrt einstellen und ankern, wenn dies nicht möglich ist, vorsichtig weiterfahren und möglichst im Kielwasser eines vorausfahrenden Fahrzeugs halten." },
+      { "key": "c", "value": "Umsichtig, aber zügig weiterfahren, um den übrigen Verkehr nicht zu behindern. Beim Hören fremder Nebelsignale aufstoppen und abwarten, dabei fortlaufend die Wassertiefe loten." },
+      { "key": "d", "value": "Im Fahrwasser äußerst rechts halten und den nächstgelegenen Hafen oder Liegeplatz anlaufen. Im Zweifel andere Fahrzeuge nach Position und richtigem Kurs fragen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Sicherheit geht vor! Ohne Radar im Nebel bist du blind. Die sicherste Option ist, das Fahrwasser zu verlassen, ein flaches Gebiet aufzusuchen und zu ankern, bis die Sicht besser wird. Wenn das nicht geht, halte dich ganz am rechten Rand des Fahrwassers, um dem Großschiffsverkehr aus dem Weg zu gehen."
+  },
+  {
+    "id": 272,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wozu dient primär das Automatische Identifikationssystem (AIS)?",
+    "options": [
+      { "key": "a", "value": "Der Kollisionsverhütung." },
+      { "key": "b", "value": "Dem Empfang von Wetterdaten." },
+      { "key": "c", "value": "Der Positionsbestimmung." },
+      { "key": "d", "value": "Dem Senden nautischer Warnnachrichten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Digitale Augen auf See! AIS (Automatic Identification System) ist ein Funksystem, das Schiffsdaten wie Position, Kurs und Geschwindigkeit automatisch austauscht. Es dient in erster Linie dazu, Kollisionen zu vermeiden, da man andere Schiffe auf einem Bildschirm sieht, lange bevor sie in Sicht kommen."
+  },
+  {
+    "id": 273,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Informationen können über das Automatische Identifikationssystem (AIS) ausgetauscht werden?",
+    "options": [
+      { "key": "a", "value": "Schiffsdaten (statisch und dynamisch), reisebezogene Daten." },
+      { "key": "b", "value": "Schiffsdaten (statisch und dynamisch), Wetterdaten." },
+      { "key": "c", "value": "Schiffsdaten (statisch), reisebezogene Daten." },
+      { "key": "d", "value": "Schiffsdaten (dynamisch), Wetterdaten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Das digitale Logbuch! AIS übermittelt drei Arten von Daten: Statische Daten (Schiffsname, -typ), dynamische Daten (Position, Kurs, Geschwindigkeit) und reisebezogene Daten (Tiefgang, Zielhafen). So entsteht ein komplettes Bild der Verkehrslage."
+  },
+  {
+    "id": 274,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Sicherheitsmaßnahmen sind an Bord aufgrund der seemännischen Sorgfaltspflicht neben den in den Kollisionsverhütungsregeln vorgeschriebenen Verhaltensmaßregeln bei verminderter Sicht zu treffen?",
+    "options": [
+      { "key": "a", "value": "Insbesondere alle Navigationsanlagen sorgfältig gebrauchen, die Sichtbarkeit des eigenen Fahrzeugs erhöhen (z. B. Radarreflektor, AIS) und in einem Revier mit Landradarberatung die Radarberatung über UKW-Sprechfunk mithören." },
+      { "key": "b", "value": "Insbesondere alle technischen Anlagen, z. B. Radar, AIS, Echolot, Selbststeueranlage einschalten und in einem Revier mit Landradarberatung die Radarberatung über UKW-Sprechfunk anfordern." },
+      { "key": "c", "value": "Insbesondere alle Navigationsanlagen sorgfältig gebrauchen, die Sichtbarkeit des eigenen Fahrzeugs erhöhen (z. B. Radarreflektor, AIS) und die Verkehrszentrale ständig über Kurs und Geschwindigkeit informieren." },
+      { "key": "d", "value": "Insbesondere alle technischen Anlagen, z. B. Radar, Echolot, AIS, Selbststeueranlage, einschalten und die Verkehrszentrale ständig über Kurs und Geschwindigkeit informieren." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Alle Sinne und Systeme scharf! Bei Nebel musst du alles nutzen, was du hast: Radar und AIS einschalten, um andere zu sehen. Einen Radarreflektor setzen, damit andere dich besser sehen. Und in Revieren mit Radarberatung (VTS) unbedingt den Funk mithören."
+  },
+  {
+    "id": 275,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Sicherheitsmaßnahmen sind auf See vor Eintritt von schwerem Wetter (Starkwind, Sturm) zu treffen?",
+    "options": [
+      { "key": "a", "value": "Verschlusszustand herbeiführen, lose Gegenstände festzurren, Rettungsweste anlegen und andere Rettungsmittel bereithalten; wenn erforderlich und möglich Schutzhafen anlaufen." },
+      { "key": "b", "value": "Verschlusszustand herbeiführen, lose Gegenstände festzurren, Rettungsweste und andere Rettungsmittel bereithalten, Seenotsignalmittel zum Einsatz vorbereiten." },
+      { "key": "c", "value": "Türen schlie��en, lose Gegenstände festzurren, Rettungsweste und andere Rettungsmittel bereithalten, Radar, Ruder und UKW besetzen." },
+      { "key": "d", "value": "Türen schließen, lose Gegenstände festzurren, Rettungsweste und andere Rettungsmittel bereithalten, Seenotsignalmittel zum Einsatz vorbereiten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Klar Schiff für schweres Wetter! Wenn Sturm aufzieht, musst du dein Boot seefest machen: Alle Luken und Fenster schließen (Verschlusszustand), alles an und unter Deck festzurren, Rettungswesten anlegen und Lifebelts einpicken. Wenn möglich, ist der nächste Schutzhafen das beste Ziel."
+  },
+  {
+    "id": 276,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Mit welchen Hilfsmitteln kann eine im Wasser treibende Person schnell und sicher an Bord genommen werden?",
+    "options": [
+      { "key": "a", "value": "Leinenverbindung, Rettungsschlaufe, Bergenetz, Talje, Badeleiter, Großbaum." },
+      { "key": "b", "value": "Leinenverbindung, Badeleiter, Treibanker, Rettungsschlaufe, Bergenetz, Talje." },
+      { "key": "c", "value": "Leinenverbindung, Großbaum, Ankerkette, Talje, Badeleiter, Rettungsschlaufe." },
+      { "key": "d", "value": "Leinenverbindung, Badeleiter, Rettungsboje, Bergenetz, Großbaum, Talje." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Mann über Bord – und zurück! Um eine Person aus dem Wasser zu bekommen, gibt es viele Hilfsmittel. Eine Rettungsschlaufe oder ein Bergenetz sind ideal. Mit einer Talje (Flaschenzug), die z.B. am Großbaum befestigt wird, kann man die Person kräfteschonend an Bord hieven."
+  },
+  {
+    "id": 277,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was ist zu tun, wenn das Fahrzeug gekentert ist?",
+    "options": [
+      { "key": "a", "value": "Möglichst am Fahrzeug bleiben und die Besatzung zusammenhalten; unnötigen Kräfteverschleiß vermeiden und Aufmerksamkeit zur Hilfeleistung erregen." },
+      { "key": "b", "value": "Möglichst am Fahrzeug bleiben und Seenotsignale geben. Die Besatzung zusammenhalten und unnötigen Kräfteverschleiß vermeiden." },
+      { "key": "c", "value": "Möglichst am Fahrzeug bleiben und Unfallstelle kennzeichnen; unnötigen Kräfteverschleiß vermeiden und Aufmerksamkeit zur Hilfeleistung erregen." },
+      { "key": "d", "value": "Möglichst am Fahrzeug bleiben und die Besatzung zusammenhalten; Wertgegenstände und Seetagebuch bergen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Bleib beim Boot! Nach einer Kenterung ist das Wichtigste: Beim Boot bleiben! Es ist eine große, weithin sichtbare Rettungsinsel. Halte die Crew zusammen, spare Kräfte und versuche, auf dich aufmerksam zu machen. Schwimme niemals allein los!"
+  },
+  {
+    "id": 278,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie verhindert man das Überbordfallen von Personen bei starkem Seegang?",
+    "options": [
+      { "key": "a", "value": "Sicherheitsleinen bzw. -gurte spannen, Sicherheitsgurt anlegen und an den dafür vorgesehenen Stellen einpicken." },
+      { "key": "b", "value": "Sicherheitsleinen bzw. -gurte spannen, Besatzung an Deck sammeln. Rettungswesten anlegen." },
+      { "key": "c", "value": "Sicherheitsleinen bzw. -gurte aufschießen, Sicherheitsgurt anlegen und in die Reling einpicken." },
+      { "key": "d", "value": "Besatzung in der Plicht versammeln, Rettungswesten anlegen, Sicherheitsleinen bzw. -gurte spannen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Anleinen bei schwerem Wetter! Die beste Sicherung gegen Überbordfallen ist der Lifebelt (Sicherheitsgurt) in Verbindung mit einer Sicherheitsleine (Strecktau), die fest an Deck gespannt ist. Wer bei Seegang an Deck muss, pickt sich ein. So bleibt man auch bei einer großen Welle an Bord."
+  },
+  {
+    "id": 279,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Notsignale können gegeben werden?",
+    "options": [
+      { "key": "a", "value": "Leuchtrakete mit rotem Leuchtstern oder rot brennende Handfackel, anhaltendes Ertönen eines Nebelsignalgerätes, dreimaliges Geben per Licht oder Ton, dreimal das Wort MAYDAY über Sprechfunk, seitliches Heben und Senken der Arme, Flaggensignal NC, EPIRB, DSC, Radartransponder." },
+      { "key": "b", "value": "Leuchtrakete mit rotem Leuchtstern oder rot brennende Handfackel, anhaltendes Ertönen eines Nebelsignalgerätes, dreimaliges Geben per Licht oder Ton, Seewasserfärber, seitliches Heben und Senken der Arme, Ball über oder unter Flaggensignal NC, EPIRB, DSC, Radartransponder." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der Werkzeugkasten für den Notfall! Es gibt eine ganze Reihe anerkannter Notsignale: Rote Raketen und Handfackeln, der Funkruf MAYDAY, das Flaggensignal NC, das Auslösen der Notfunkbake (EPIRB) oder das langsame Heben und Senken der Arme. Alle bedeuten: 'Wir sind in Lebensgefahr und brauchen dringend Hilfe'."
+  },
+  {
+    "id": 280,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was bedeutet das Flaggensignal 'NC' auf einem Fahrzeug?",
+    "options": [
+      { "key": "a", "value": "Fahrzeug in Seenot." },
+      { "key": "b", "value": "Fahrzeug des öffentlichen Dienstes." },
+      { "key": "c", "value": "Fahrzeug mit gefährlichen Gütern." },
+      { "key": "d", "value": "Fahrzeug verlässt Liegeplatz." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Visueller Notruf! Die Flaggenkombination 'N' (November) über 'C' (Charlie) ist ein international anerkanntes Notsignal. Es bedeutet: 'Ich bin in Seenot und benötige sofortige Hilfe'. Es ist eines der wichtigsten visuellen Signale, wenn der Funk ausfällt."
+  },
+  {
+    "id": 281,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was bedeutet anhaltendes Ertönen eines Nebelsignalgerätes von einem Fahrzeug?",
+    "options": [
+      { "key": "a", "value": "Fahrzeug in Seenot." },
+      { "key": "b", "value": "Fahrzeug mit gefährlichen Gütern." },
+      { "key": "c", "value": "Bleib-weg-Signal." },
+      { "key": "d", "value": "Achtungssignal." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Akustischer Hilfeschrei! Ein ununterbrochenes Schallsignal mit einem Nebelhorn oder einer anderen Signalvorrichtung ist ein offizielles Notsignal. Es wird verwendet, um bei schlechter Sicht oder Dunkelheit auf eine Notlage aufmerksam zu machen."
+  },
+  {
+    "id": 282,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was bedeutet das folgende durch Licht oder Schallsignal gegebene Morsesignal? (• • • – – – ��� • •)",
+    "options": [
+      { "key": "a", "value": "Seenotsignal." },
+      { "key": "b", "value": "Nebelsignal." },
+      { "key": "c", "value": "Bleib-weg-Signal." },
+      { "key": "d", "value": "Überholsignal." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "SOS im Morsecode! Die Buchstabenfolge 'kurz-kurz-kurz, lang-lang-lang, kurz-kurz-kurz' ist das international bekannte Morsezeichen für 'SOS'. Es ist das ultimative Notsignal und kann per Licht (z.B. mit einer Taschenlampe) oder per Schall gegeben werden."
+  },
+  {
+    "id": 283,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was bedeutet eine Leuchtrakete mit einem roten Stern?",
+    "options": [
+      { "key": "a", "value": "Seenotfall." },
+      { "key": "b", "value": "Aufforderung zum Aufstoppen." },
+      { "key": "c", "value": "Schießübung." },
+      { "key": "d", "value": "Aufforderung zur Kursänderung." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Roter Stern am Himmel – Notfall! Eine rote Leuchtrakete ist ein eindeutiges und weithin sichtbares Notsignal. Wenn du eine solche Rakete siehst, ist ein anderes Schiff in unmittelbarer Lebensgefahr und du bist verpflichtet, Hilfe zu leisten, wenn es dir möglich ist."
+  },
+  {
+    "id": 284,
+    "category": "Spezifische Fragen See",
+    "image": "images/q284.svg",
+    "question": "Was bedeutet folgendes Flaggensignal?",
+    "options": [
+      { "key": "a", "value": "Fahrzeug in Seenot." },
+      { "key": "b", "value": "Fahrzeug des öffentlichen Dienstes." },
+      { "key": "c", "value": "Fahrzeug mit gefährlichen Gütern." },
+      { "key": "d", "value": "Fahrzeug verlässt Liegeplatz." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Notruf per Flagge! Die Flaggenkombination November-Charlie (NC) ist ein international gültiges Notsignal. Es bedeutet 'Ich bin in Seenot und benötige dringend Hilfe'. Dieses visuelle Signal ist eine wichtige Alternative, wenn technische Kommunikationsmittel ausfallen."
+  },
+  {
+    "id": 285,
+    "category": "Spezifische Fragen See",
+    "image": "images/q285.svg",
+    "question": "Was bedeutet auf einem Schiff eines der folgenden Signale?",
+    "options": [
+      { "key": "a", "value": "Fahrzeug in Seenot." },
+      { "key": "b", "value": "Fahrzeug ist manövrierbehindert." },
+      { "key": "c", "value": "Fahrzeug mit gefährlichen Gütern." },
+      { "key": "d", "value": "Fahrzeug vor Anker mit mehr als 100 m Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Quadrat und Ball – Notfall! Ein schwarzer Ball über oder unter einer quadratischen Flagge ist ein weiteres international anerkanntes visuelles Notsignal. Wie alle Notsignale bedeutet es, dass das Schiff in großer Gefahr ist und dringend Hilfe benötigt."
+  },
+  {
+    "id": 286,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Wie lautet der rwK?",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Der rechtweisende Kurs (rwK) ist der Kurs, der sich auf den geografischen Nordpol bezieht. Er wird aus dem Magnetkompasskurs (MgK) durch Berücksichtigung von Missweisung (Mw) und Ablenkung (Abl) berechnet."
+  },
+  {
+    "id": 287,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Tragen Sie den Kurs in die Seekarte ein.",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Ein Kurs wird als Linie vom Startpunkt in die entsprechende Richtung in die Seekarte gezeichnet. Der Winkel des Kurses wird mit einem Kursdreieck an einer Kompassrose oder einem Meridian abgelesen und eingetragen."
+  },
+  {
+    "id": 288,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Wie lautet der MgK?",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Der Magnetkompasskurs (MgK) ist der Kurs, den man am Steuerkompass abliest. Um daraus den wahren Kurs (rwK) zu erhalten, muss man die Missweisung (Ortsfehler des Erdmagnetfelds) und die Ablenkung (Schiffsfehler) berücksichtigen."
+  },
+  {
+    "id": 289,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Wie lauten die Peilungen?",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Eine Peilung ist die gemessene Richtung zu einem Objekt. Eine Magnetkompasspeilung (MgP) muss um die Ablenkung und Missweisung korrigiert werden, um die rechtweisende Peilung (rwP) zu erhalten, die in die Karte gezeichnet wird."
+  },
+  {
+    "id": 290,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Tragen Sie die Peilungen in die Seekarte ein.",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Rechtweisende Peilungen (rwP) werden als Linien vom gepeilten Objekt aus in die Seekarte gezeichnet. Der Schnittpunkt von zwei oder mehr Peilungslinien ergibt den beobachteten Ort (O_b) des Schiffes."
+  },
+  {
+    "id": 291,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Entnehmen Sie der Seekarte die geographische Position.",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Die geografische Position eines Punktes wird durch seine Breite (Nord/Süd) und Länge (Ost/West) bestimmt. Man liest sie am seitlichen (Breite) und oberen/unteren (Länge) Rand der Seekarte ab."
+  },
+  {
+    "id": 292,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Tragen Sie die Position in die Seekarte ein.",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Eine Position wird in die Seekarte eingetragen, indem man mit einem Zirkel oder Dreieck die gegebene Breite am seitlichen Rand und die gegebene Länge am oberen/unteren Rand markiert und die Linien zum Schnitt bringt."
+  },
+  {
+    "id": 293,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Wie groß ist die Distanz?",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Die Distanz zwischen zwei Punkten in der Seekarte wird mit einem Stechzirkel abgenommen und dann am seitlichen Kartenrand (Breitengradskala) in Seemeilen umgerechnet. Eine Bogenminute auf der Breitenskala entspricht einer Seemeile."
+  },
+  {
+    "id": 294,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Auf welcher Position befindet sich das Schiff nach Koppelort?",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Der Koppelort (O_k) wird durch das Eintragen des Kurses über Grund (KüG) und der zurückgelegten Distanz vom letzten bekannten Ort aus ermittelt. Er ist eine errechnete Position unter Berücksichtigung von Wind und Strom."
+  },
+  {
+    "id": 295,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Wie lautet die Besteckversetzung?",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Die Besteckversetzung ist der Vektor (Richtung und Distanz) zwischen dem errechneten Koppelort (O_k) und dem tatsächlich beobachteten Ort (O_b). Sie zeigt den kombinierten Einfluss von unvorhergesehenem Wind und Strom an."
+  },
+  {
+    "id": 296,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "In welcher Zeit erreichen Sie das Ziel?",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Die Fahrzeit wird mit der Formel Zeit = Distanz / Geschwindigkeit berechnet. Die Distanz wird aus der Seekarte entnommen und die Geschwindigkeit ist die Fahrt über Grund (FüG)."
+  },
+  {
+    "id": 297,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Wie groß ist die Geschwindigkeit?",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Die Geschwindigkeit über Grund (FüG) kann mit der Formel Geschwindigkeit = Distanz / Zeit berechnet werden, wenn die zurückgelegte Strecke und die dafür benötigte Zeit bekannt sind."
+  },
+  {
+    "id": 298,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Welche Bedeutung hat das Schifffahrtszeichen?",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Die Bedeutung eines Schifffahrtszeichens (Tonne, Leuchtturm etc.) wird durch seine Form, Farbe, Toppzeichen und eventuelle Befeuerung bestimmt. Die genaue Beschreibung findet sich in der Seekarte und im Leuchtfeuerverzeichnis."
+  },
+  {
+    "id": 299,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Beschreiben Sie das Schifffahrtszeichen (zum Beispiel Farbe, Kennung, Toppzeichen, Nenntragweite, Feuerhöhe, Art des Feuers).",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Eine vollständige Beschreibung eines Leuchtfeuers umfasst seine Farbe, die Kennung (Rhythmus des Lichts), das Toppzeichen der Tonne, die Nenntragweite (Sichtbarkeit in Seemeilen) und die Höhe des Feuers über dem Meeresspiegel. Alle diese Informationen stehen in der Seekarte."
+  },
+  {
+    "id": 300,
+    "category": "Navigationsaufgaben",
+    "image": null,
+    "question": "Was bedeutet diese Eintragung in der Seekarte?",
+    "options": [],
+    "correctAnswer": null,
+    "explanation": "Eintragungen in der Seekarte verwenden standardisierte Symbole und Abkürzungen. Um ihre Bedeutung zu verstehen, muss man die Legende der Seekarte (Karte 1 / INT 1) konsultieren. Beispiele sind Wracks, Untiefen, Kabel oder Ankerplätze."
+  }
+]

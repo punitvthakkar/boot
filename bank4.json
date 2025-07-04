@@ -1,0 +1,422 @@
+[
+  {
+    "id": 91,
+    "category": "Spezifische Fragen See",
+    "image": "images/q91.svg",
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "options": [
+      { "key": "a", "value": "Maschinenfahrzeug in Fahrt von weniger als 50 m Länge." },
+      { "key": "b", "value": "Maschinenfahrzeug in Fahrt von 50 und mehr Meter Länge." },
+      { "key": "c", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt." },
+      { "key": "d", "value": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser von 50 und mehr Meter Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Standard-Lichter für kleine Motorboote! Ein weißes Topplicht, rot/grüne Seitenlichter und ein weißes Hecklicht sind die Standardbeleuchtung für ein Maschinenfahrzeug unter 50 Meter Länge, das in Fahrt ist. Das ist das häufigste Lichterbild, das du nachts sehen wirst."
+  },
+  {
+    "id": 92,
+    "category": "Spezifische Fragen See",
+    "image": "images/q92.svg",
+    "question": "Welches Fahrzeug muss diese Lichter führen?",
+    "options": [
+      { "key": "a", "value": "Maschinenfahrzeug in Fahrt von 50 und mehr Meter Länge." },
+      { "key": "b", "value": "Maschinenfahrzeug in Fahrt von weniger als 50 m Länge." },
+      { "key": "c", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt." },
+      { "key": "d", "value": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser von 50 und mehr Meter Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Großer Pott voraus! Ein Maschinenfahrzeug über 50 Meter Länge muss zusätzlich zum vorderen Topplicht ein zweites, höheres Topplicht im hinteren Teil des Schiffes führen. Daran erkennst du schon von weitem, dass ein großes Schiff unterwegs ist."
+  },
+  {
+    "id": 93,
+    "category": "Spezifische Fragen See",
+    "image": "images/q93.svg",
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "options": [
+      { "key": "a", "value": "Manövrierbehinderter Schleppverband in Fahrt von 200 m Länge oder weniger." },
+      { "key": "b", "value": "Manövrierbehinderter Schleppverband in Fahrt von mehr als 200 m Länge." },
+      { "key": "c", "value": "Manövrierbehinderter Schleppverband in Fahrt von 200 m Länge oder weniger, ohne Fahrt durchs Wasser." },
+      { "key": "d", "value": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser von 50 und mehr Meter Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Schlepper im Einsatz! Ein schleppendes Maschinenfahrzeug zeigt zusätzlich zu den normalen Lichtern zwei weiße Topplichter übereinander. Der Anhang zeigt Seitenlichter und Hecklicht. Ist der gesamte Verband unter 200m lang, reicht diese Lichterführung."
+  },
+  {
+    "id": 94,
+    "category": "Spezifische Fragen See",
+    "image": "images/q94.svg",
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "options": [
+      { "key": "a", "value": "Manövrierbehinderter Schleppverband in Fahrt von mehr als 200 m Länge." },
+      { "key": "b", "value": "Manövrierbehinderter Schleppverband in Fahrt von 200 m Länge oder weniger." },
+      { "key": "c", "value": "Manövrierbehinderter Schleppverband in Fahrt von mehr als 200 m Länge, ohne Fahrt durch das Wasser." },
+      { "key": "d", "value": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Langer Anhang! Ist ein Schleppverband über 200 Meter lang (gemessen vom Heck des Schleppers bis zum Heck des Anhangs), muss der Schlepper drei weiße Topplichter übereinander führen. Das signalisiert die außergewöhnliche Länge des Verbandes."
+  },
+  {
+    "id": 95,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Lichter führen geschleppte Fahrzeuge?",
+    "options": [
+      { "key": "a", "value": "Seitenlichter rot und grün und ein weißes Hecklicht." },
+      { "key": "b", "value": "Seitenlichter rot und grün und ein weißes Rundumlicht." },
+      { "key": "c", "value": "Seitenlichter rot und grün und zwei rote Rundumlichter senkrecht übereinander." },
+      { "key": "d", "value": "Seitenlichter rot und grün und ein rotes Rundumlicht senkrecht über einem weißen Rundumlicht." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Lichter für den Anhang! Ein geschlepptes Fahrzeug oder der letzte Teil eines Schleppverbandes wird wie ein 'dummes' Fahrzeug ohne eigenen Antrieb behandelt. Es zeigt daher nur die Seitenlichter (rot/grün) und ein weißes Hecklicht."
+  },
+  {
+    "id": 96,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was bedeutet es, wenn jedes Fahrzeug eines Schleppverbandes einen schwarzen Rhombus führt?",
+    "options": [
+      { "key": "a", "value": "Schleppverband von mehr als 200 m Länge." },
+      { "key": "b", "value": "Schleppverband von mehr als 100 m Länge." },
+      { "key": "c", "value": "Schleppverband von mehr als 50 m Länge." },
+      { "key": "d", "value": "Schleppverband von weniger als 50 m Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Langer Verband am Tag! Wenn ein Schleppverband (Schlepper und Anhang) zusammen länger als 200 Meter ist, müssen sowohl der Schlepper als auch der Anhang tagsüber einen schwarzen Rhombus als Signalkörper zeigen. Das warnt andere vor der großen Länge."
+  },
+  {
+    "id": 97,
+    "category": "Spezifische Fragen See",
+    "image": "images/q97.svg",
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "options": [
+      { "key": "a", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt." },
+      { "key": "b", "value": "Ein manövrierbehindertes Fahrzeug in Fahrt." },
+      { "key": "c", "value": "Ein tiefgangbehindertes Fahrzeug in Fahrt." },
+      { "key": "d", "value": "Ein Grundsitzer von 50 und mehr Meter Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Außer Kontrolle! Zwei rote Rundumlichter übereinander sind das Signal für 'manövrierunfähig'. Dieses Fahrzeug hat ein technisches Problem und kann nicht ausweichen. Alle anderen müssen Abstand halten. Macht es Fahrt durchs Wasser, zeigt es zusätzlich Seiten- und Hecklichter."
+  },
+  {
+    "id": 98,
+    "category": "Spezifische Fragen See",
+    "image": "images/q98.svg",
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "options": [
+      { "key": "a", "value": "Ein manövrierunfähiges Fahrzeug mit Fahrt durch das Wasser." },
+      { "key": "b", "value": "Ein manövrierbehindertes Fahrzeug mit Fahrt durch das Wasser von 50 und mehr Meter Länge." },
+      { "key": "c", "value": "Ein manövrierbehindertes Fahrzeug mit Fahrt durch das Wasser." },
+      { "key": "d", "value": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durch das Wasser von 50 und mehr Meter Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Manövrierunfähig und in Bewegung! Zwei rote Rundumlichter bedeuten 'manövrierunfähig'. Die zusätzlichen Seitenlichter (rot/grün) und das Hecklicht signalisieren, dass das Fahrzeug trotz des Defekts noch Fahrt durchs Wasser macht, also treibt oder segelt."
+  },
+  {
+    "id": 99,
+    "category": "Spezifische Fragen See",
+    "image": "images/q99.svg",
+    "question": "Welches Fahrzeug führt diese Signalkörper?",
+    "options": [
+      { "key": "a", "value": "Ein manövrierunfähiges Fahrzeug." },
+      { "key": "b", "value": "Ein manövrierbehindertes Fahrzeug in Fahrt." },
+      { "key": "c", "value": "Ein fischendes Fahrzeug in Fahrt." },
+      { "key": "d", "value": "Ein Grundsitzer von 50 und mehr Meter Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Havarie am Tag! Zwei schwarze Bälle übereinander sind das Tagessignal für ein manövrierunfähiges Fahrzeug. Es signalisiert, dass dieses Schiff aufgrund eines technischen Problems nicht ausweichen kann."
+  },
+  {
+    "id": 100,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Lichter führen manövrierunfähige Fahrzeuge von 12 und mehr Meter Länge in Fahrt, ohne Fahrt durch das Wasser?",
+    "options": [
+      { "key": "a", "value": "Zwei rote Rundumlichter senkrecht übereinander." },
+      { "key": "b", "value": "Zwei rote Rundumlichter senkrecht übereinander und zusätzlich die Seitenlichter und das Hecklicht." },
+      { "key": "c", "value": "Drei rote Rundumlichter senkrecht übereinander." },
+      { "key": "d", "value": "Drei rote Rundumlichter senkrecht übereinander und zusätzlich die Seitenlichter und das Hecklicht." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Treibend und außer Kontrolle! Ein manövrierunfähiges Fahrzeug, das keine Fahrt durchs Wasser macht (also nur treibt), zeigt nachts zwei rote Rundumlichter übereinander. Da es keine Fahrt macht, bleiben Seiten- und Hecklichter aus."
+  },
+  {
+    "id": 101,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Lichter führen manövrierunfähige Fahrzeuge von 12 und mehr Meter Länge in Fahrt mit Fahrt durch das Wasser?",
+    "options": [
+      { "key": "a", "value": "Zwei rote Rundumlichter senkrecht übereinander und zusätzlich die Seitenlichter und das Hecklicht." },
+      { "key": "b", "value": "Zwei rote Rundumlichter senkrecht übereinander." },
+      { "key": "c", "value": "Drei rote Rundumlichter senkrecht übereinander." },
+      { "key": "d", "value": "Drei rote Rundumlichter senkrecht übereinander und zusätzlich die Seitenlichter und das Hecklicht." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Treibend, aber mit Fahrt! Macht ein manövrierunfähiges Fahrzeug Fahrt durchs Wasser (z.B. durch Wind oder Restfahrt), muss es zusätzlich zu den zwei roten Rundumlichtern auch seine Seitenlichter und das Hecklicht zeigen. So können andere seine Bewegungsrichtung erkennen."
+  },
+  {
+    "id": 102,
+    "category": "Spezifische Fragen See",
+    "image": "images/q102.svg",
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "options": [
+      { "key": "a", "value": "Ein manövrierbehindertes Fahrzeug in Fahrt." },
+      { "key": "b", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt." },
+      { "key": "c", "value": "Ein fischendes Fahrzeug in Fahrt." },
+      { "key": "d", "value": "Ein Grundsitzer von weniger als 50 m Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Arbeitseinsatz auf dem Wasser! Die Lichterkombination 'rot-weiß-rot' übereinander ist das Zeichen für ein manövrierbehindertes Fahrzeug. Es ist durch seine Arbeit behindert und kann nicht normal ausweichen. Die zusätzlichen Lichter (Topp-, Seiten-, Hecklicht) zeigen an, dass es Fahrt macht."
+  },
+  {
+    "id": 103,
+    "category": "Spezifische Fragen See",
+    "image": "images/q103.svg",
+    "question": "Welches Fahrzeug muss diese Lichter führen?",
+    "options": [
+      { "key": "a", "value": "Ein manövrierbehindertes Fahrzeug mit Fahrt durch das Wasser von 50 und mehr Meter Länge." },
+      { "key": "b", "value": "Ein manövrierunfähiges Fahrzeug mit Fahrt durch das Wasser von 50 und mehr Meter Länge." },
+      { "key": "c", "value": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durch das Wasser von 50 und mehr Meter Länge." },
+      { "key": "d", "value": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durch das Wasser von 50 und mehr Meter Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Großes Arbeitstier! Ein manövrierbehindertes Fahrzeug über 50m Länge zeigt 'rot-weiß-rot' und zusätzlich die Lichter eines großen Maschinenfahrzeugs in Fahrt: zwei weiße Topplichter, Seitenlichter und Hecklicht. Das signalisiert 'Ich arbeite, bin groß und mache Fahrt'."
+  },
+  {
+    "id": 104,
+    "category": "Spezifische Fragen See",
+    "image": "images/q104.svg",
+    "question": "Welches Fahrzeug führt diese Signalkörper?",
+    "options": [
+      { "key": "a", "value": "Ein manövrierbehindertes Fahrzeug." },
+      { "key": "b", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt." },
+      { "key": "c", "value": "Ein fischendes Fahrzeug in Fahrt." },
+      { "key": "d", "value": "Ein Grundsitzer von weniger als 50 m Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Arbeitseinsatz am Tag! Der Signalkörper 'Ball-Rhombus-Ball' übereinander ist das Tagessignal für ein manövrierbehindertes Fahrzeug. Es zeigt an, dass dieses Schiff bei der Arbeit ist und daher nicht wie üblich ausweichen kann."
+  },
+  {
+    "id": 105,
+    "category": "Spezifische Fragen See",
+    "image": "images/q105.svg",
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "options": [
+      { "key": "a", "value": "Ein Grundsitzer von weniger als 50 m Länge." },
+      { "key": "b", "value": "Ein manövrierbehindertes Fahrzeug." },
+      { "key": "c", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt." },
+      { "key": "d", "value": "Ein Grundsitzer von 50 m und mehr Meter Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Auf Grund gelaufen! Zwei rote Rundumlichter übereinander plus die Ankerlichter (hier: ein weißes Rundumlicht für ein Fahrzeug unter 50m) sind das Signal für einen Grundsitzer. Das Fahrzeug steckt fest und ist eine Gefahr für die Schifffahrt."
+  },
+  {
+    "id": 106,
+    "category": "Spezifische Fragen See",
+    "image": "images/q106.svg",
+    "question": "Welches Fahrzeug führt diese Signalkörper?",
+    "options": [
+      { "key": "a", "value": "Ein Grundsitzer." },
+      { "key": "b", "value": "Ein manövrierunfähiges Fahrzeug." },
+      { "key": "c", "value": "Ein manövrierbehindertes Fahrzeug." },
+      { "key": "d", "value": "Ein fischendes Fahrzeug." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Festgefahren am Tag! Drei schwarze Bälle übereinander sind das Tagessignal für ein auf Grund gelaufenes Fahrzeug. Es steckt fest und stellt ein Hindernis dar. Halte ausreichend Abstand."
+  },
+  {
+    "id": 107,
+    "category": "Spezifische Fragen See",
+    "image": "images/q107.svg",
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "options": [
+      { "key": "a", "value": "Ein Grundsitzer von 50 und mehr Meter Länge." },
+      { "key": "b", "value": "Ein manövrierbehindertes Fahrzeug." },
+      { "key": "c", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt." },
+      { "key": "d", "value": "Ein Grundsitzer von weniger als 50 m Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Großer Grundsitzer! Ein Fahrzeug über 50m, das auf Grund sitzt, zeigt nachts zwei rote Rundumlichter und zusätzlich die zwei weißen Ankerlichter für ein Schiff dieser Größe (eins vorn, eins achtern). Das signalisiert: 'Ich bin groß und stecke fest'."
+  },
+  {
+    "id": 108,
+    "category": "Spezifische Fragen See",
+    "image": "images/q108.svg",
+    "question": "Welches Fahrzeug muss diese Lichter führen?",
+    "options": [
+      { "key": "a", "value": "Ein tiefgangbehindertes Fahrzeug von 50 und mehr Meter Länge in Fahrt." },
+      { "key": "b", "value": "Ein manövrierbehindertes Fahrzeug." },
+      { "key": "c", "value": "Ein manövrierunfähiges Fahrzeug." },
+      { "key": "d", "value": "Ein Grundsitzer von weniger als 50 m Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Vorsicht, wenig Wasser unterm Kiel! Drei rote Rundumlichter übereinander sind das Signal für ein 'tiefgangbehindertes' Fahrzeug. Es kann wegen seines großen Tiefgangs nicht von seinem Kurs abweichen. Die zusätzlichen Lichter zeigen an, dass es ein großes Maschinenfahrzeug (>50m) in Fahrt ist."
+  },
+  {
+    "id": 109,
+    "category": "Spezifische Fragen See",
+    "image": "images/q109.svg",
+    "question": "Welches Fahrzeug führt diese Signalkörper?",
+    "options": [
+      { "key": "a", "value": "Ein tiefgangbehindertes Fahrzeug in Fahrt." },
+      { "key": "b", "value": "Ein manövrierbehindertes Fahrzeug in Fahrt." },
+      { "key": "c", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt." },
+      { "key": "d", "value": "Ein Grundsitzer von weniger als 50 Meter Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Tiefgangbehindert am Tag! Ein schwarzer Zylinder ist das Tagessignal für ein tiefgangbehindertes Fahrzeug. Es signalisiert, dass dieses Schiff aufgrund seines Tiefgangs an den sicheren Wasserweg gebunden ist und nicht ausweichen kann."
+  },
+  {
+    "id": 110,
+    "category": "Spezifische Fragen See",
+    "image": "images/q110.svg",
+    "question": "Welches Fahrzeug muss diese Lichter führen?",
+    "options": [
+      { "key": "a", "value": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durch das Wasser von 50 und mehr Meter Länge." },
+      { "key": "b", "value": "Ein fischendes Fahrzeug in Fahrt, das nicht trawlt, z. B. Treibnetzfischer." },
+      { "key": "c", "value": "Ein Behördenfahrzeug im Einsatz." },
+      { "key": "d", "value": "Ein manövrierbehindertes Fahrzeug in Fahrt." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Fischer bei der Arbeit! 'Grün über Weiß' bedeutet 'Trawler bei Nacht'. Ein Trawler ist ein Fischer, der sein Netz durchs Wasser zieht. Er gilt als manövrierbehindert. Die zusätzlichen Lichter zeigen an, dass es ein großes Fahrzeug (>50m) ist, das Fahrt macht."
+  },
+  {
+    "id": 111,
+    "category": "Spezifische Fragen See",
+    "image": "images/q111.svg",
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "options": [
+      { "key": "a", "value": "Ein fischendes Fahrzeug in Fahrt oder vor Anker, das nicht trawlt, z. B. Treibnetzfischer." },
+      { "key": "b", "value": "Ein Lotsenfahrzeug im Einsatz." },
+      { "key": "c", "value": "Ein manövrierbehindertes Fahrzeug in Fahrt." },
+      { "key": "d", "value": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durchs Wasser von 50 und mehr Meter Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Vorsicht, Netze! 'Rot über Weiß' bedeutet 'Fischer bei Nacht' (aber kein Trawler). Dieses Fahrzeug fischt mit Leinen oder Netzen, die weit ins Wasser reichen können. Das weiße Licht zeigt die Richtung des Fanggeräts an. Halte weiten Abstand!"
+  },
+  {
+    "id": 112,
+    "category": "Spezifische Fragen See",
+    "image": "images/q112.svg",
+    "question": "Welches Fahrzeug führt diese Signalkörper?",
+    "options": [
+      { "key": "a", "value": "Ein fischendes Fahrzeug in Fahrt oder vor Anker." },
+      { "key": "b", "value": "Ein manövrierbehindertes Fahrzeug." },
+      { "key": "c", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt." },
+      { "key": "d", "value": "Ein Grundsitzer von weniger als 50 m Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Fischer am Tag! Zwei Kegel mit den Spitzen zueinander sind das Tagessignal für ein fischendes Fahrzeug. Es zeigt an, dass dieses Schiff mit Fanggerät arbeitet und manövrierbehindert ist. Ein zusätzlicher Kegel kann die Richtung des Fanggeräts anzeigen."
+  },
+  {
+    "id": 113,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Fahrzeuge führen nur Seitenlichter rot und grün und ein weißes Hecklicht?",
+    "options": [
+      { "key": "a", "value": "Segelfahrzeuge, Ruderboote und geschleppte Fahrzeuge." },
+      { "key": "b", "value": "Segelfahrzeuge, Ruderboote und Maschinenfahrzeuge in Fahrt von weniger als 50 m Länge." },
+      { "key": "c", "value": "Segelfahrzeuge, fischende Fahrzeuge und geschleppte Fahrzeuge." },
+      { "key": "d", "value": "Segelfahrzeuge, Grundsitzer und geschleppte Fahrzeuge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die 'kleine' Beleuchtung! Reine Segelfahrzeuge (unter 20m), Ruderboote und geschleppte Anhänge führen nachts nur die grundlegenden Lichter: rote und grüne Seitenlichter sowie ein weißes Hecklicht. Sie haben kein weißes Topplicht, da sie keine Maschinenfahrzeuge sind."
+  },
+  {
+    "id": 114,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was für ein Licht muss ein Ankerlieger von weniger als 50 m Länge führen?",
+    "options": [
+      { "key": "a", "value": "Ein weißes Rundumlicht an gut sichtbarer Stelle." },
+      { "key": "b", "value": "Ein rotes Rundumlicht an gut sichtbarer Stelle." },
+      { "key": "c", "value": "Zwei weiße Rundumlichter an gut sichtbarer Stelle." },
+      { "key": "d", "value": "Zwei rote Rundumlichter an gut sichtbarer Stelle." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Ankerlicht an! Ein Fahrzeug unter 50m, das vor Anker liegt, muss nachts ein weißes Rundumlicht führen. Es muss so positioniert sein, dass es aus allen Richtungen gut zu sehen ist und nicht verdeckt wird."
+  },
+  {
+    "id": 115,
+    "category": "Spezifische Fragen See",
+    "image": "images/q115.svg",
+    "question": "Welches Fahrzeug muss diese Lichter führen?",
+    "options": [
+      { "key": "a", "value": "Ein vor Anker liegendes Fahrzeug von 100 und mehr Meter Länge." },
+      { "key": "b", "value": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durchs Wasser von 50 und mehr Meter Länge." },
+      { "key": "c", "value": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert." },
+      { "key": "d", "value": "Ein Grundsitzer von 200 und mehr Meter Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Großer Ankerlieger! Ein Ankerlieger über 50m muss zwei weiße Rundumlichter führen: eins vorn und eins achtern, tiefer positioniert. Schiffe über 100m müssen zusätzlich ihre Decksbeleuchtung einschalten, um ihre enorme Größe zu verdeutlichen."
+  },
+  {
+    "id": 116,
+    "category": "Spezifische Fragen See",
+    "image": "images/q116.svg",
+    "question": "Sie hören bei verminderter Sicht mindestens alle zwei Minuten einen langen Ton mit der Pfeife (–). Welches Fahrzeug gibt dieses Signal?",
+    "options": [
+      { "key": "a", "value": "Ein Maschinenfahrzeug, das Fahrt durchs Wasser macht." },
+      { "key": "b", "value": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt." },
+      { "key": "c", "value": "Ein Fahrzeug mit gefährlicher Ladung vor Anker von weniger als 100 m Länge." },
+      { "key": "d", "value": "Ein vor Anker liegendes Fahrzeug von 100 und mehr Meter Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Motorboot im Nebel! Ein einzelner langer Ton alle zwei Minuten ist das Schallsignal eines Maschinenfahrzeugs, das bei verminderter Sicht Fahrt durchs Wasser macht. Es meldet seine Anwesenheit und warnt andere."
+  },
+  {
+    "id": 117,
+    "category": "Spezifische Fragen See",
+    "image": "images/q117.svg",
+    "question": "Sie hören bei verminderter Sicht mindestens alle zwei Minuten zwei aufeinander folgende lange Töne mit der Pfeife (– –). Welches Fahrzeug gibt dieses Signal?",
+    "options": [
+      { "key": "a", "value": "Ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht." },
+      { "key": "b", "value": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt." },
+      { "key": "c", "value": "Ein Fahrzeug mit gefährlicher Ladung vor Anker von weniger als 100 m Länge." },
+      { "key": "d", "value": "Ein vor Anker liegendes Fahrzeug von 100 und mehr Meter Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Gestoppt im Nebel! Zwei lange Töne alle zwei Minuten bedeuten: Hier treibt ein Maschinenfahrzeug, das seine Maschine gestoppt hat und keine Fahrt mehr durchs Wasser macht. Es ist noch 'in Fahrt', aber ohne eigenen Antrieb."
+  },
+  {
+    "id": 118,
+    "category": "Spezifische Fragen See",
+    "image": "images/q118.svg",
+    "question": "Welche Fahrzeuge geben bei verminderter Sicht mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz (– • •)?",
+    "options": [
+      { "key": "a", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt, ein manövrierbehindertes Fahrzeug in Fahrt oder vor Anker, ein tiefgangbehindertes Fahrzeug in Fahrt, ein Segelfahrzeug in Fahrt, ein schleppendes oder schiebendes Fahrzeug in Fahrt, ein fischendes Fahrzeug in Fahrt oder vor Anker." },
+      { "key": "b", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt, ein manövrierbehindertes Fahrzeug in Fahrt oder vor Anker, ein tiefgangbehindertes Fahrzeug in Fahrt, ein Maschinenfahrzeug in Fahrt, das Fahrt durchs Wasser macht, ein schleppendes oder schiebendes Fahrzeug in Fahrt, ein fischendes Fahrzeug in Fahrt oder vor Anker." },
+      { "key": "c", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt, ein manövrierbehindertes Fahrzeug in Fahrt oder vor Anker, ein tiefgangbehindertes Fahrzeug in Fahrt, ein Segelfahrzeug in Fahrt, ein schleppendes oder schiebendes Fahrzeug in Fahrt, ein fischendes Fahrzeug in Fahrt oder vor Anker, ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht." },
+      { "key": "d", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt, ein manövrierbehindertes Fahrzeug in Fahrt oder vor Anker, ein tiefgangbehindertes Fahrzeug in Fahrt, ein Segelfahrzeug in Fahrt, ein schleppendes oder schiebendes Fahrzeug in Fahrt, ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt, ein fischendes Fahrzeug in Fahrt oder vor Anker." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die 'Behinderungs'-Gruppe! Das Signal 'lang-kurz-kurz' ist das Sammelsignal für alle Fahrzeuge, die 'irgendwie behindert' sind. Dazu zählen manövrierunfähige, manövrierbehinderte, tiefgangbehinderte, fischende, schleppende und segelnde Fahrzeuge. Sie alle haben Vorrang vor normalen Maschinenfahrzeugen."
+  },
+  {
+    "id": 119,
+    "category": "Spezifische Fragen See",
+    "image": "images/q119.svg",
+    "question": "Welches Fahrzeug gibt bei verminderter Sicht - im Anschluss an das Signal: lang, kurz, kurz (– • •) - vier aufeinander folgende Töne mit der Pfeife, und zwar: lang, kurz, kurz, kurz (– • • •)?",
+    "options": [
+      { "key": "a", "value": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt." },
+      { "key": "b", "value": "Ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht." },
+      { "key": "c", "value": "Ein Fahrzeug mit gefährlicher Ladung vor Anker von weniger als 100 m Länge." },
+      { "key": "d", "value": "Ein manövrierunfähiges Fahrzeug von weniger als 100 m Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der Anhang meldet sich! Ein Schlepper gibt 'lang-kurz-kurz'. Wenn der Anhang bemannt ist, muss er direkt danach mit 'lang-kurz-kurz-kurz' antworten. So wissen andere Schiffe, dass hier ein langer Verband im Nebel unterwegs ist."
+  },
+  {
+    "id": 120,
+    "category": "Spezifische Fragen See",
+    "image": "images/q120.svg",
+    "question": "Was für ein Schallsignal muss ein Segelfahrzeug in Fahrt von 12 und mehr Meter Länge bei verminderter Sicht geben?",
+    "options": [
+      { "key": "a", "value": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz (– • •)." },
+      { "key": "b", "value": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, lang, kurz (– – •)." },
+      { "key": "c", "value": "Mindestens alle zwei Minuten ein kräftiges Schallsignal, das mit den vorgeschriebenen nicht verwechselt werden kann." },
+      { "key": "d", "value": "Mit der Pfeife kurz, lang, kurz (• – •)." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Segler im Nebel! Ein Segelfahrzeug gilt als 'behindertes' Fahrzeug, da es nicht so frei manövrieren kann wie ein Motorboot. Daher gibt es bei verminderter Sicht das gleiche Signal wie die anderen 'behinderten' Fahrzeuge: 'lang-kurz-kurz' (– • •) alle zwei Minuten."
+  }
+]

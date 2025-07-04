@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Was ist zu tun, wenn vor Antritt der Fahrt nicht feststeht, wer Schiffsführer ist?",
+    "options": [
+      { "key": "a", "value": "Der verantwortliche Schiffsführer muss bestimmt werden." },
+      { "key": "b", "value": "Der verantwortliche Schiffsführer muss gewählt werden." },
+      { "key": "c", "value": "Ein Inhaber eines Sportbootführerscheins muss die Fahrzeugführung übernehmen." },
+      { "key": "d", "value": "Ein Inhaber eines Sportbootführerscheins muss die Verantwortung übernehmen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Klar Schiff von Anfang an! Bevor die Leinen losgeworfen werden, muss ein Skipper bestimmt sein. Diese Person hat das Kommando und trägt die volle Verantwortung für Boot und Crew. Eine klare Rollenverteilung ist der erste Schritt zu einer sicheren Fahrt."
+  },
+  {
+    "id": 2,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "In welchen Fällen darf weder ein Sportboot geführt noch dessen Kurs oder Geschwindigkeit selbstständig bestimmt werden?",
+    "options": [
+      { "key": "a", "value": "Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration von 0,5 ‰ oder mehr im Körper vorhanden ist." },
+      { "key": "b", "value": "Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration von 0,8 ‰ oder mehr im Körper vorhanden ist." },
+      { "key": "c", "value": "Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration von 1,0 ‰ oder mehr im Körper vorhanden ist." },
+      { "key": "d", "value": "Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration von 0,3 ‰ oder mehr im Körper vorhanden ist." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Sicherheit geht vor! Ab 0,5 Promille am Steuer ist die Fahrt vorbei. Auch wer durch Medikamente, Übermüdung oder andere Einflüsse nicht voll auf der Höhe ist, muss das Ruder aus der Hand geben. Ein klarer Kopf ist die wichtigste Navigationshilfe."
+  },
+  {
+    "id": 3,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Wann ist ein Fahrzeug in Fahrt?",
+    "options": [
+      { "key": "a", "value": "Wenn es weder vor Anker liegt noch an Land festgemacht ist noch auf Grund sitzt." },
+      { "key": "b", "value": "Wenn es weder vor Anker liegt noch an Land festgemacht ist noch Fahrt über Grund macht." },
+      { "key": "c", "value": "Wenn es weder auf Grund sitzt noch vor Anker liegt noch manövrierbehindert oder manövrierunfähig ist." },
+      { "key": "d", "value": "Wenn es weder an Land festgemacht ist noch vor Anker liegt noch Fahrt durchs Wasser macht." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Losgelöst und frei! Sobald ein Boot nicht mehr ankert, am Steg festgemacht ist oder auf Grund sitzt, ist es 'in Fahrt'. Ob es sich bewegt oder nur treibt, spielt keine Rolle – ab diesem Moment gelten die Verkehrsregeln auf dem Wasser."
+  },
+  {
+    "id": 4,
+    "category": "Basisfragen",
+    "image": "images/q4.svg",
+    "question": "Wie lang ist die Dauer eines kurzen Tons (•)?",
+    "options": [
+      { "key": "a", "value": "Etwa 1 Sekunde." },
+      { "key": "b", "value": "Etwa 2 Sekunden." },
+      { "key": "c", "value": "Weniger als 1 Sekunde." },
+      { "key": "d", "value": "Weniger als 4 Sekunden." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Kurz und knapp! Ein kurzer Ton aus dem Signalhorn ist wie ein akustischer Blinker und dauert nur etwa eine Sekunde. Er ist die Grundlage für viele wichtige Schallsignale zur Verständigung auf dem Wasser."
+  },
+  {
+    "id": 5,
+    "category": "Basisfragen",
+    "image": "images/q5.svg",
+    "question": "Wie lang ist die Dauer eines langen Tons (–)?",
+    "options": [
+      { "key": "a", "value": "Etwa 4 - 6 Sekunden." },
+      { "key": "b", "value": "Etwa 2 - 6 Sekunden." },
+      { "key": "c", "value": "Etwa 1 - 2 Sekunden." },
+      { "key": "d", "value": "Etwa 6 - 8 Sekunden." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Achtung, hier komme ich! Ein langer Ton dauert vier bis sechs Sekunden und signalisiert: 'Aufgepasst!'. Er wird zum Beispiel bei der Annäherung an unübersichtliche Stellen oder als Warnsignal verwendet."
+  },
+  {
+    "id": 6,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Wann gilt ein Fahrzeug unter Segel als Maschinenfahrzeug?",
+    "options": [
+      { "key": "a", "value": "Wenn es gleichzeitig mit Maschinenkraft fährt." },
+      { "key": "b", "value": "Wenn es mit einer Antriebsmaschine ausgerüstet ist." },
+      { "key": "c", "value": "Wenn es durch das Segeln keine Fahrt durchs Wasser macht." },
+      { "key": "d", "value": "Wenn es durch das Segeln keine Fahrt über Grund macht." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Wer den Motor an hat, ist 'Maschinenfahrer'! Sobald ein Segelboot seinen Motor zur Fortbewegung nutzt – auch wenn die Segel noch oben sind –, gilt es rechtlich als Maschinenfahrzeug und muss die entsprechenden Regeln befolgen."
+  },
+  {
+    "id": 7,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Welches Signal führt ein Fahrzeug unter Segel, das als Maschinenfahrzeug gilt, zusätzlich am Tage?",
+    "options": [
+      { "key": "a", "value": "Einen schwarzen Kegel, Spitze unten." },
+      { "key": "b", "value": "Einen schwarzen Kegel, Spitze oben." },
+      { "key": "c", "value": "Einen schwarzen Rhombus." },
+      { "key": "d", "value": "Zwei schwarze Bälle senkrecht übereinander." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Motor an, Kegel runter! Ein Segler unter Motor muss tagsüber einen schwarzen Kegel mit der Spitze nach unten zeigen. Dieses 'Tageslichtsignal' macht für alle anderen klar: 'Ich bin jetzt ein Maschinenfahrzeug und folge dessen Regeln.'"
+  },
+  {
+    "id": 8,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Welche Seite wird als Luvseite bezeichnet?",
+    "options": [
+      { "key": "a", "value": "Die dem Wind zugekehrte Seite." },
+      { "key": "b", "value": "Die dem Wind abgewandte Seite." },
+      { "key": "c", "value": "Die Seite in Fahrtrichtung rechts." },
+      { "key": "d", "value": "Die Seite in Fahrtrichtung links." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Dem Wind entgegen! Die Luvseite ist die Seite des Schiffes, die direkt dem Wind ausgesetzt ist. Hier spürst du den Winddruck am stärksten. Das Wissen um Luv und Lee ist entscheidend für Segelmanöver und Ausweichregeln."
+  },
+  {
+    "id": 9,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Welche Seite wird als Leeseite bezeichnet?",
+    "options": [
+      { "key": "a", "value": "Die dem Wind abgewandte Seite." },
+      { "key": "b", "value": "Die dem Wind zugekehrte Seite." },
+      { "key": "c", "value": "Die Seite in Fahrtrichtung rechts." },
+      { "key": "d", "value": "Die Seite in Fahrtrichtung links." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Im Windschatten! Die Leeseite ist die vom Wind abgewandte, geschützte Seite des Schiffes. Hier ist es ruhiger, und der Winddruck ist geringer. Luv und Lee sind das A und O für jeden Segler."
+  },
+  {
+    "id": 10,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Wann müssen die Lichter von Fahrzeugen geführt oder gezeigt werden?",
+    "options": [
+      { "key": "a", "value": "Von Sonnenuntergang bis Sonnenaufgang und bei verminderter Sicht." },
+      { "key": "b", "value": "Von Sonnenaufgang bis Sonnenuntergang und bei verminderter Sicht." },
+      { "key": "c", "value": "Von abends 18:00 Uhr bis morgens 06:00 Uhr und bei verminderter Sicht." },
+      { "key": "d", "value": "Bei Dunkelheit, schlechtem Wetter und verminderter Sicht." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Licht an, wenn die Sonne weg ist! Die Positionslichter müssen von Sonnenuntergang bis Sonnenaufgang brennen. Auch tagsüber bei schlechter Sicht, wie Nebel oder starkem Regen, müssen die Lichter eingeschaltet werden, um gesehen zu werden."
+  },
+  {
+    "id": 11,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Wozu dient die Lichterführung?",
+    "options": [
+      { "key": "a", "value": "Sie zeigt Fahrtrichtung und Lage eines Fahrzeugs an." },
+      { "key": "b", "value": "Sie zeigt Kurs und Geschwindigkeit eines Fahrzeugs an." },
+      { "key": "c", "value": "Sie zeigt Fahrtrichtung und Position eines Fahrzeugs an." },
+      { "key": "d", "value": "Sie zeigt Fahrtrichtung und Kurs eines Fahrzeugs an." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Sehen und gesehen werden! Die Lichter eines Schiffes sind wie seine Visitenkarte bei Nacht. Sie verraten dir, in welche Richtung es fährt und wie es im Wasser liegt. So kannst du die Situation richtig einschätzen und sicher ausweichen."
+  },
+  {
+    "id": 12,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Was für eine Laterne kann ein Segelfahrzeug von weniger als 20 m Länge anstelle der Seitenlichter und des Hecklichtes führen?",
+    "options": [
+      { "key": "a", "value": "Eine Dreifarbenlaterne an oder nahe der Mastspitze." },
+      { "key": "b", "value": "Eine Zweifarbenlaterne an gut sichtbarer Stelle." },
+      { "key": "c", "value": "Eine Dreifarbenlaterne an gut sichtbarer Stelle." },
+      { "key": "d", "value": "Eine Zweifarbenlaterne an oder nahe der Mastspitze." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Drei Farben im Masttopp! Kleinere Segelboote unter 20 Metern dürfen anstelle der einzelnen Positionslichter eine einzige Dreifarbenlaterne an der Mastspitze führen. Das spart Strom und ist oft besser zu sehen, da sie nicht von Wellen verdeckt wird."
+  },
+  {
+    "id": 13,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Welche Lichter muss ein Fahrzeug unter Segel, das gleichzeitig mit Maschinenkraft fährt, führen?",
+    "options": [
+      { "key": "a", "value": "Die für ein Maschinenfahrzeug vorgeschriebenen Lichter." },
+      { "key": "b", "value": "Die für ein Segelfahrzeug vorgeschriebenen Lichter." },
+      { "key": "c", "value": "Zwei rote Rundumlichter senkrecht übereinander." },
+      { "key": "d", "value": "Seitenlichter rot und grün und ein rotes Rundumlicht." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Motor an, Lichter an! Sobald der Motor läuft, ist ein Segler rechtlich ein Maschinenfahrzeug. Daher muss es auch die Lichter eines Maschinenfahrzeugs führen: Seitenlichter (rot/grün), Hecklicht (weiß) und Topplicht (weiß)."
+  },
+  {
+    "id": 14,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Wie weichen zwei Motorboote aus, die sich auf entgegengesetzten Kursen nähern?",
+    "options": [
+      { "key": "a", "value": "Jedes Fahrzeug muss seinen Kurs nach Steuerbord ändern." },
+      { "key": "b", "value": "Jedes Fahrzeug muss seinen Kurs nach Backbord ändern." },
+      { "key": "c", "value": "Es muss das luvwärtige Fahrzeug dem leewärtigen Fahrzeug ausweichen." },
+      { "key": "d", "value": "Es muss das leewärtige Fahrzeug dem luvwärtigen Fahrzeug ausweichen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Frontalaufeinandertreffen? Beide nach rechts! Wenn sich zwei Motorboote frontal begegnen, weichen beide nach Steuerbord (rechts) aus. So passieren sie sich an ihrer Backbordseite (links) – wie im Straßenverkehr."
+  },
+  {
+    "id": 15,
+    "category": "Basisfragen",
+    "image": null,
+    "question": "Zwei Motorboote nähern sich auf kreuzenden Kursen. Es besteht die Gefahr eines Zusammenstoßes. Wer ist ausweichpflichtig?",
+    "options": [
+      { "key": "a", "value": "Dasjenige Fahrzeug muss ausweichen, welches das Andere an seiner Steuerbordseite hat." },
+      { "key": "b", "value": "Dasjenige Fahrzeug muss ausweichen, welches das Andere an seiner Backbordseite hat." },
+      { "key": "c", "value": "Es muss das luvwärtige Fahrzeug dem leewärtigen Fahrzeug ausweichen." },
+      { "key": "d", "value": "Es muss das leewärtige Fahrzeug dem luvwärtigen Fahrzeug ausweichen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Rechts vor links auf dem Wasser! Kreuzen sich die Kurse zweier Motorboote, gilt: Wer das andere Boot an seiner eigenen Steuerbordseite (rechts) sieht, muss ausweichen. Eine einfache Regel, um Kollisionen zu vermeiden."
+  },
+  {
+    "id": 16,
+    "category": "Basisfragen",
+    "image": "images/q16.svg",
+    "question": "Welche Bedeutung hat folgendes Schallsignal? (– • – •)",
+    "options": [
+      { "key": "a", "value": "Bleib-weg-Signal, Gefahrenbereich sofort verlassen." },
+      { "key": "b", "value": "Allgemeines Gefahr- und Warnsignal." },
+      { "key": "c", "value": "Ankerlieger über 100 m Länge." },
+      { "key": "d", "value": "Manövrierbehinderter Schleppverband über 200 m Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Alarm auf dem Wasser! Die Folge 'lang-kurz-lang-kurz' ist das 'Bleib-weg-Signal'. Es warnt vor einer akuten, besonderen Gefahr, z.B. bei einem Feuerwehreinsatz oder einer Bombenentschärfung. Hier gilt: Sofort den Gefahrenbereich verlassen!"
+  },
+  {
+    "id": 17,
+    "category": "Basisfragen",
+    "image": "images/q17.svg",
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "options": [
+      { "key": "a", "value": "Überholverbot." },
+      { "key": "b", "value": "Begegnungsverbot." },
+      { "key": "c", "value": "Überholverbot für Fahrzeuge unter 20 m Länge." },
+      { "key": "d", "value": "Begegnungsverbot für Fahrzeuge über 20 m Länge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Keine Manöver! Dieses Schild mit den zwei senkrechten Pfeilen bedeutet ein allgemeines Überholverbot. In diesem Abschnitt des Fahrwassers ist das Überholen für alle Fahrzeuge untersagt, um gefährliche Situationen zu vermeiden."
+  },
+  {
+    "id": 18,
+    "category": "Basisfragen",
+    "image": "images/q18.svg",
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "options": [
+      { "key": "a", "value": "Begegnungsverbot an einer Engstelle." },
+      { "key": "b", "value": "Begegnungsverbot für Fahrzeuge über 12 m Länge." },
+      { "key": "c", "value": "Überholverbot; mit Gegenverkehr muss gerechnet werden." },
+      { "key": "d", "value": "Überholverbot für alle Fahrzeuge." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Engstelle voraus! Die gekreuzten Pfeile signalisieren ein Begegnungsverbot. Hier ist das Fahrwasser so eng, dass Fahrzeuge aus entgegengesetzten Richtungen nicht sicher aneinander vorbeifahren können. Das wartepflichtige Fahrzeug muss vor dem Schild anhalten."
+  },
+  {
+    "id": 19,
+    "category": "Basisfragen",
+    "image": "images/q19.svg",
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "options": [
+      { "key": "a", "value": "Sog und Wellenschlag vermeiden." },
+      { "key": "b", "value": "Gefährdeter Strandbereich, Überspülungsgefahr; Mindestpassierabstand 100 m." },
+      { "key": "c", "value": "Wasserstraße, die jederzeit sicher befahren werden kann; keine Gefahr durch Seegang." },
+      { "key": "d", "value": "Wasserstraße, die nicht jederzeit sicher befahren werden kann; Gefahr durch Seegang." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Langsam fahren! Die durchgestrichene Welle bedeutet: Geschwindigkeit reduzieren, um Sog und Wellenschlag zu vermeiden. Dies schützt Uferbefestigungen, andere Boote und sensible Naturzonen vor Schäden durch hohe Wellen."
+  },
+  {
+    "id": 20,
+    "category": "Basisfragen",
+    "image": "images/q20.svg",
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen? (40)",
+    "options": [
+      { "key": "a", "value": "Mindestabstand in Metern, der in der nachfolgenden Strecke vom Aufstellungsort der Tafel an eingehalten werden muss." },
+      { "key": "b", "value": "Maximalgeschwindigkeit in km/h, die auf der in Fahrtrichtung rechten Fahrwasserseite nicht überschritten werden darf." },
+      { "key": "c", "value": "Maximalabstand in Metern, der in der nachfolgenden Strecke vom Aufstellungsort der Tafel an eingehalten werden muss." },
+      { "key": "d", "value": "Verengung des Fahrwassers auf 40 m." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Abstand halten! Die Zahl auf diesem Schild gibt den Mindestabstand in Metern an, der zum vorausfahrenden Fahrzeug eingehalten werden muss. In diesem Fall sind es 40 Meter."
+  },
+  {
+    "id": 21,
+    "category": "Basisfragen",
+    "image": "images/q21.svg",
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen? (–)",
+    "options": [
+      { "key": "a", "value": "Haltegebot vor beweglichen Brücken, Sperrwerken und Schleusen." },
+      { "key": "b", "value": "Dauernde Sperrung einer Teilstrecke der Wasserstraße." },
+      { "key": "c", "value": "Gebot zur Abgabe eines langen Signaltons." },
+      { "key": "d", "value": "Weiterfahrt für Sportfahrzeuge verboten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Stopp! Dieses Zeichen bedeutet ein unbedingtes Haltegebot. Es steht vor beweglichen Anlagen wie Brücken oder Schleusen und signalisiert, dass die Weiterfahrt erst nach Freigabe (z.B. durch ein Lichtsignal) fortgesetzt werden darf."
+  },
+  {
+    "id": 22,
+    "category": "Basisfragen",
+    "image": "images/q22.svg",
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "options": [
+      { "key": "a", "value": "Ankern verboten für alle Fahrzeuge." },
+      { "key": "b", "value": "Ankern verboten für Kleinfahrzeuge unter 12 m Länge." },
+      { "key": "c", "value": "Ankern verboten für Kleinfahrzeuge ab 12 m Länge." },
+      { "key": "d", "value": "Ankern und Festmachen verboten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Anker oben lassen! Ein durchgestrichener Anker bedeutet: Hier ist das Ankern für alle Fahrzeuge verboten. Gründe dafür können Kabel, Rohrleitungen am Grund oder eine enge Fahrrinne sein."
+  },
+  {
+    "id": 23,
+    "category": "Basisfragen",
+    "image": "images/q23.svg",
+    "question": "Welche Bedeutung haben folgende Tafelzeichen?",
+    "options": [
+      { "key": "a", "value": "Festmache- und Liegeverbot." },
+      { "key": "b", "value": "Festmache- und Liegeverbot für Sportboote." },
+      { "key": "c", "value": "Festmache- und Liegeverbot für Sportboote über 12 m Länge." },
+      { "key": "d", "value": "Festmache- und Liegeverbot für gewerbliche Schiffe." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Weiterfahren! Das durchgestrichene 'P' (für Parken) und der durchgestrichene Poller bedeuten, dass hier weder festgemacht noch gelegen (z.B. längsseits an einem anderen Boot) werden darf. Dieser Bereich muss freigehalten werden."
+  },
+  {
+    "id": 24,
+    "category": "Basisfragen",
+    "image": "images/q24.svg",
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "options": [
+      { "key": "a", "value": "Abgabe eines langen Tons." },
+      { "key": "b", "value": "Abgabe eines kurzen Tons." },
+      { "key": "c", "value": "Abgabe von zwei langen Tönen." },
+      { "key": "d", "value": "Abgabe eines kurzen und eines langen Tons." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Signal geben! Der schwarze Punkt auf weißem Grund fordert zur Abgabe eines langen Tons (ca. 4-6 Sekunden) auf. Dieses 'Achtungssignal' wird vor unübersichtlichen Stellen, Kurven oder Hafeneinfahrten verwendet, um andere zu warnen."
+  },
+  {
+    "id": 25,
+    "category": "Basisfragen",
+    "image": "images/q25.svg",
+    "question": "Welche Bedeutung haben folgende Tafelzeichen?",
+    "options": [
+      { "key": "a", "value": "Wasserflächen, auf denen mit Wasserski oder Wassermotorrädern gefahren werden darf." },
+      { "key": "b", "value": "Genehmigungspflichtige Übungsstrecke für das Fahren mit Wasserski oder Wassermotorrädern." },
+      { "key": "c", "value": "Fahren mit Wasserski oder Wassermotorrädern erlaubt. Wasserskiläufer und Wassermotorräder haben Vorfahrt." },
+      { "key": "d", "value": "Genehmigungsfreie Übungsstrecke für das Fahren mit Wasserski oder Wassermotorrädern." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Action-Zone! Diese Schilder markieren Bereiche, in denen Wasserski und Wassermotorradfahren offiziell erlaubt sind. Außerhalb dieser Zonen ist solcher Wassersport meist stark eingeschränkt oder verboten."
+  },
+  {
+    "id": 26,
+    "category": "Basisfragen",
+    "image": "images/q26.svg",
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "options": [
+      { "key": "a", "value": "Ende einer Gebots- oder Verbotsstrecke." },
+      { "key": "b", "value": "Streckenabschnitt für eine nicht frei fahrende Fähre." },
+      { "key": "c", "value": "Queren des Fahrwassers ist gestattet." },
+      { "key": "d", "value": "Wechseln der Fahrwasserseite ist gestattet." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Regel aufgehoben! Dieses blaue Schild mit dem weißen diagonalen Balken markiert das Ende einer vorausgegangenen Gebots- oder Verbotsstrecke. Ab hier gelten wieder die allgemeinen Verkehrsregeln."
+  },
+  {
+    "id": 27,
+    "category": "Basisfragen",
+    "image": "images/q27.svg",
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "options": [
+      { "key": "a", "value": "Verbot der Durchfahrt und Sperrung der Schifffahrt." },
+      { "key": "b", "value": "Verbot der Durchfahrt und Sperrung für Kleinfahrzeuge." },
+      { "key": "c", "value": "Verbot der Durchfahrt, jedoch für Kleinfahrzeuge ohne laufende Antriebsmaschine befahrbar." },
+      { "key": "d", "value": "Verbot der Durchfahrt, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Keine Durchfahrt! Dieses rot-weiß-rote Schild bedeutet eine generelle Sperrung der Wasserstraße. Hier darf kein Fahrzeug passieren. Gründe können Bauarbeiten, Veranstaltungen oder Gefahren sein."
+  },
+  {
+    "id": 28,
+    "category": "Basisfragen",
+    "image": "images/q28.svg",
+    "question": "Welche Bedeutung haben folgende Schifffahrtszeichen? (zwei rote Lichter)",
+    "options": [
+      { "key": "a", "value": "Brücke, Sperrwerk oder Schleuse geschlossen." },
+      { "key": "b", "value": "Anlage dauerhaft gesperrt." },
+      { "key": "c", "value": "Stoppsignal für alle Fahrzeuge." },
+      { "key": "d", "value": "Außergewöhnliche Schifffahrtsbehinderung." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Rot heißt Warten! Zwei rote Lichter nebeneinander signalisieren, dass eine Brücke, ein Sperrwerk oder eine Schleuse geschlossen und die Durchfahrt gesperrt ist. Erst wenn die Lichter erlöschen oder auf Grün wechseln, darf weitergefahren werden."
+  },
+  {
+    "id": 29,
+    "category": "Basisfragen",
+    "image": "images/q29.svg",
+    "question": "Welche Bedeutung haben folgende Schifffahrtszeichen? (zwei rote Lichter übereinander)",
+    "options": [
+      { "key": "a", "value": "Anlage dauerhaft gesperrt." },
+      { "key": "b", "value": "Brücke, Sperrwerk oder Schleuse geschlossen." },
+      { "key": "c", "value": "Stoppsignal für alle Fahrzeuge." },
+      { "key": "d", "value": "Außergewöhnliche Schifffahrtsbehinderung." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Endstation! Zwei rote Lichter übereinander bedeuten, dass die Anlage (z.B. eine Schleuse) dauerhaft gesperrt ist. Hier ist eine Weiterfahrt nicht möglich, und es muss eine alternative Route geplant werden."
+  },
+  {
+    "id": 30,
+    "category": "Basisfragen",
+    "image": "images/q30.svg",
+    "question": "Was bedeuten diese Lichter vor einer Schleuse? (zwei grüne Lichter)",
+    "options": [
+      { "key": "a", "value": "Einfahrt frei, Gegenverkehr gesperrt." },
+      { "key": "b", "value": "Einfahrt frei, Schleusentor öffnet." },
+      { "key": "c", "value": "Schleuse in Betrieb, auf Einfahrtsignal gemäß Reihenfolge warten." },
+      { "key": "d", "value": "Schleuse in Betrieb, auf Ausfahrtsignal gemäß Reihenfolge warten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Grünes Licht für dich! Zwei grüne Lichter nebeneinander an einer Schleuse bedeuten: 'Einfahrt frei!' Gleichzeitig ist aber die Ausfahrt für den Gegenverkehr gesperrt. Du kannst also sicher in die Schleusenkammer einfahren."
+  }
+]

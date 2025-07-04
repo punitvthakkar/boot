@@ -1,0 +1,420 @@
+[
+  {
+    "id": 181,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Höchstgeschwindigkeit darf vor Stellen mit erkennbarem Badebetrieb - außerhalb des Fahrwassers - in einem Abstand von 500 m und weniger vom Ufer nicht überschritten werden?",
+    "options": [
+      { "key": "a", "value": "4,3 Knoten." },
+      { "key": "b", "value": "3,4 Knoten." },
+      { "key": "c", "value": "4,8 Knoten." },
+      { "key": "d", "value": "3,8 Knoten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Langsam an den Strand! In der Nähe von Badestränden (innerhalb von 500m) gilt auch ohne spezielle Beschilderung ein Tempolimit. Du darfst nicht schneller als 4,3 Knoten (ca. 8 km/h) fahren, um Schwimmer und Badende nicht zu gefährden."
+  },
+  {
+    "id": 182,
+    "category": "Spezifische Fragen See",
+    "image": "images/q182.svg",
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "options": [
+      { "key": "a", "value": "Kennzeichnung von besonderen Gebieten und Stellen." },
+      { "key": "b", "value": "Kennzeichnung von Sperrgebieten." },
+      { "key": "c", "value": "Kennzeichnung von Schießgebieten." },
+      { "key": "d", "value": "Kennzeichnung von Badegebieten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Gelb bedeutet 'Besonders'! Gelbe Tonnen markieren besondere Gebiete. Das kann alles Mögliche sein: Messstellen, Kabel- oder Rohrleitungstrassen, Badezonen oder militärische Übungsgebiete. Die genaue Bedeutung steht in der Seekarte."
+  },
+  {
+    "id": 183,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Woran ist ein militärisches Warngebiet zu erkennen, das wegen Schießübungen für die Schifffahrt gesperrt ist?",
+    "options": [
+      { "key": "a", "value": "An bestimmten Tag- und Nachtsignalen, die nach der Sperr- und Warngebietsverordnung der Generaldirektion Wasserstraßen und Schifffahrt (GDWS) für militärische Sperr- und Warngebiete an entsprechenden Signalstellen und auf Sicherungsfahrzeugen gezeigt werden." },
+      { "key": "b", "value": "An bestimmten Tag- und Nachtsignalen, die nach der Rheinpolizeiverordnung der Generaldirektion Wasserstraßen und Schifffahrt (GDWS) für militärische Sperr- und Warngebiete an entsprechenden Signalstellen am Ufer und auf Sicherungsfahrzeugen gezeigt werden." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Militär im Manöver! Wenn ein Warngebiet wegen Schießübungen gesperrt ist, wird dies durch spezielle Signale an Land und auf Sicherungsfahrzeugen angezeigt. Die genauen Signale (z.B. Ball, Flagge, Lichter) sind in der Sperr- und Warngebietsverordnung festgelegt."
+  },
+  {
+    "id": 184,
+    "category": "Spezifische Fragen See",
+    "image": "images/q184.svg",
+    "question": "Welche Bedeutung haben folgende Schifffahrtszeichen?",
+    "options": [
+      { "key": "a", "value": "Sperrgebiet." },
+      { "key": "b", "value": "Sperrgebiet und Badezone." },
+      { "key": "c", "value": "Sperrgebiet wegen Aquakulturen und Muschelzuchtanlagen." },
+      { "key": "d", "value": "Schießgebiet." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Betreten verboten! Diese gelben Tonnen mit dem roten Andreaskreuz markieren die Grenzen eines Sperrgebiets. Das Befahren dieses Gebiets ist für die allgemeine Schifffahrt verboten. Die genaue Art der Sperrung ist in der Seekarte vermerkt."
+  },
+  {
+    "id": 185,
+    "category": "Spezifische Fragen See",
+    "image": "images/q185.svg",
+    "question": "Welche Bedeutung hat folgendes Flaggensignal?",
+    "options": [
+      { "key": "a", "value": "Anhalten." },
+      { "key": "b", "value": "Seenotsignal." },
+      { "key": "c", "value": "Anker behindert Schifffahrt." },
+      { "key": "d", "value": "Schleppverband, länger als 200 m" }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Stoppsignal der Behörden! Die Flagge 'L' (Lima) des internationalen Signalalphabets bedeutet, wenn von einem Behördenfahrzeug gezeigt: 'Bringen Sie Ihr Fahrzeug sofort zum Stehen!'. Dies ist eine Anweisung, der unbedingt Folge zu leisten ist."
+  },
+  {
+    "id": 186,
+    "category": "Spezifische Fragen See",
+    "image": "images/q186.svg",
+    "question": "Welche Bedeutung hat folgendes Schallsignal? (• – • •)",
+    "options": [
+      { "key": "a", "value": "Polizeifahrzeug fordert zum Anhalten auf." },
+      { "key": "b", "value": "Ankerlieger macht auf gefährliche Annäherung aufmerksam." },
+      { "key": "c", "value": "Letzter bemannter Anhang eines Schleppverbandes." },
+      { "key": "d", "value": "Manövrierbehindertes Fahrzeug blockiert das Fahrwasser." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Polizeikontrolle auf dem Wasser! Das Schallsignal 'kurz-lang-kurz-kurz' (Morsezeichen 'L') ist die akustische Version der Flagge 'L' und wird von Polizeibooten verwendet. Es bedeutet: 'Anhalten, wir wollen Sie kontrollieren'."
+  },
+  {
+    "id": 187,
+    "category": "Spezifische Fragen See",
+    "image": "images/q187.svg",
+    "question": "Welche Bedeutung haben folgende Sichtzeichen?",
+    "options": [
+      { "key": "a", "value": "Dauernde Sperrung der Seeschifffahrtsstraße. Weiterfahrt verboten." },
+      { "key": "b", "value": "Schutzbedürftige Anlage. Sog und Wellenschlag vermeiden." },
+      { "key": "c", "value": "Außergewöhnliche Schifffahrtsbehinderung. Vorsichtig passieren." },
+      { "key": "d", "value": "Ende einer Gebots- oder Verbotsstrecke. Freie Weiterfahrt." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Hier geht's nicht weiter! Ein roter Ball zwischen zwei roten Kreuzen an einem Signalmast bedeutet eine dauerhafte Sperrung der Wasserstraße. Die Weiterfahrt ist hier für alle Fahrzeuge verboten."
+  },
+  {
+    "id": 188,
+    "category": "Spezifische Fragen See",
+    "image": "images/q188.svg",
+    "question": "Welche Bedeutung hat folgendes Schallsignal? (– – –)",
+    "options": [
+      { "key": "a", "value": "Sperrung der Seeschifffahrtsstraße, Weiterfahrt verboten." },
+      { "key": "b", "value": "Einfahrt in Schleuse oder Anlage gesperrt, auf Freigabe warten." },
+      { "key": "c", "value": "Ein Ankerlieger bei schlechter Sicht, vorsichtig weiter navigieren." },
+      { "key": "d", "value": "Fahrzeug des öffentlichen Dienstes, anhalten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Akustisches Stoppschild! Drei lange Töne sind das Schallsignal für eine Sperrung der Wasserstraße. Wenn du dieses Signal hörst, musst du anhalten und darfst nicht weiterfahren, bis die Sperrung aufgehoben wird."
+  },
+  {
+    "id": 189,
+    "category": "Spezifische Fragen See",
+    "image": "images/q189.svg",
+    "question": "Welche Bedeutung haben folgende Sichtzeichen?",
+    "options": [
+      { "key": "a", "value": "Außergewöhnliche Schifffahrtsbehinderung." },
+      { "key": "b", "value": "Dauernde Sperrung der Seeschifffahrtsstraße." },
+      { "key": "c", "value": "Schutzbedürftige Anlage." },
+      { "key": "d", "value": "Zeitweilige Sperrung der Seeschifffahrtsstraße." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Vorsicht, Hindernis! Ein roter Ball über einem roten Kegel an einem Signalmast warnt vor einer außergewöhnlichen Schifffahrtsbehinderung, z.B. einem Wrack oder einer Untiefe. Hier ist besondere Vorsicht geboten und die Stelle sollte weiträumig umfahren werden."
+  },
+  {
+    "id": 190,
+    "category": "Spezifische Fragen See",
+    "image": "images/q190.svg",
+    "question": "Welche Bedeutung hat folgende Tonne?",
+    "options": [
+      { "key": "a", "value": "Kennzeichnung der Mitte von Schifffahrtswegen." },
+      { "key": "b", "value": "Kennzeichnung von Einzelgefahrenstellen." },
+      { "key": "c", "value": "Kennzeichnung einer Reede." },
+      { "key": "d", "value": "Kennzeichnung der Backbordseite eines Fahrwassers." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Mitte des Fahrwassers! Eine rot-weiß gestreifte Tonne mit einem roten Ball als Toppzeichen markiert die Mitte eines Fahrwassers oder eine Ansteuerung. Man kann sie an beiden Seiten passieren, hält sich aber üblicherweise an die Steuerbordseite."
+  },
+  {
+    "id": 191,
+    "category": "Spezifische Fragen See",
+    "image": "images/q191.svg",
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "options": [
+      { "key": "a", "value": "Die Steuerbordseite des Fahrwassers." },
+      { "key": "b", "value": "Die Backbordseite des Fahrwassers." },
+      { "key": "c", "value": "Die Mitte eines Schifffahrtsweges." },
+      { "key": "d", "value": "Die Kennzeichnung von Hindernissen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Rechte Seite des Weges! Eine grüne, spitze Tonne (Kegelstumpftonne) oder eine grüne Pricke mit einem spitzen Toppzeichen (Besen nach oben) markiert die Steuerbordseite (rechte Seite) des Fahrwassers, wenn man von See kommt."
+  },
+  {
+    "id": 192,
+    "category": "Spezifische Fragen See",
+    "image": "images/q192.svg",
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "options": [
+      { "key": "a", "value": "Die Backbordseite des Fahrwassers." },
+      { "key": "b", "value": "Die Steuerbordseite des Fahrwassers." },
+      { "key": "c", "value": "Die Mitte eines Wattfahrwassers." },
+      { "key": "d", "value": "Die Kennzeichnung eines Hindernisses im Wattfahrwasser." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Linke Seite des Weges! Eine rote, stumpfe Tonne (Zylinderstumpftonne) oder eine rote Pricke mit einem stumpfen Toppzeichen (Besen nach unten) markiert die Backbordseite (linke Seite) des Fahrwassers, wenn man von See kommt."
+  },
+  {
+    "id": 193,
+    "category": "Spezifische Fragen See",
+    "image": "images/q193.svg",
+    "question": "Welche Bedeutung hat folgende(s) Tonne/Schifffahrtszeichen?",
+    "options": [
+      { "key": "a", "value": "Die Steuerbordseite des Fahrwassers." },
+      { "key": "b", "value": "Die Backbordseite des Fahrwassers." },
+      { "key": "c", "value": "Die Mitte eines Schifffahrtsweges." },
+      { "key": "d", "value": "Die Kennzeichnung von Hindernissen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Grün ist rechts! Die grünen, spitzen Tonnen markieren die Steuerbordseite (rechte Seite) des Fahrwassers, wenn man seewärts fährt. Der grüne Kegel als Toppzeichen bestätigt dies."
+  },
+  {
+    "id": 194,
+    "category": "Spezifische Fragen See",
+    "image": "images/q194.svg",
+    "question": "Welche Bedeutung hat folgende(s) Tonne/Schifffahrtszeichen?",
+    "options": [
+      { "key": "a", "value": "Die Backbordseite des Fahrwassers." },
+      { "key": "b", "value": "Die Steuerbordseite des Fahrwassers." },
+      { "key": "c", "value": "Die Mitte eines Wattfahrwassers." },
+      { "key": "d", "value": "Die Kennzeichnung eines Hindernisses im Wattfahrwasser." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Rot ist links! Die roten, stumpfen Tonnen markieren die Backbordseite (linke Seite) des Fahrwassers, wenn man von See kommt. Der rote Zylinder als Toppzeichen ist ein weiteres Merkmal."
+  },
+  {
+    "id": 195,
+    "category": "Spezifische Fragen See",
+    "image": "images/q195.svg",
+    "question": "Welche Bedeutung hat folgende Tonne?",
+    "options": [
+      { "key": "a", "value": "Steuerbordseite des durchgehenden Fahrwassers/Backbordseite des abzweigenden oder einmündenden Fahrwassers." },
+      { "key": "b", "value": "Backbordseite des durchgehenden Fahrwassers/Steuerbordseite des abzweigenden oder einmündenden Fahrwassers." },
+      { "key": "c", "value": "Steuerbordseite des durchgehenden Fahrwassers." },
+      { "key": "d", "value": "Backbordseite des durchgehenden Fahrwassers." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Fahrwasser-Kreuzung! Diese Tonne (grün mit rotem Querstreifen) liegt an einer Abzweigung. Sie markiert die Steuerbordseite des Hauptfahrwassers. Gleichzeitig ist sie aber auch die Backbord-Tonne für das abzweigende Fahrwasser. Man nennt sie 'Abzweigungs-Tonne'."
+  },
+  {
+    "id": 196,
+    "category": "Spezifische Fragen See",
+    "image": "images/q196.svg",
+    "question": "Welche Bedeutung hat folgende Tonne?",
+    "options": [
+      { "key": "a", "value": "Backbordseite des durchgehenden Fahrwassers, Steuerbordseite des abzweigenden oder einmündenden Fahrwassers." },
+      { "key": "b", "value": "Steuerbordseite des durchgehenden Fahrwassers, Backbordseite des abzweigenden oder einmündenden Fahrwassers." },
+      { "key": "c", "value": "Steuerbordseite des durchgehenden Fahrwassers." },
+      { "key": "d", "value": "Backbordseite des durchgehenden Fahrwassers." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Kreuzungspunkt! Diese Tonne (rot mit grünem Querstreifen) markiert eine Gabelung im Wasser. Sie liegt auf der Backbordseite des Hauptfahrwassers, aber gleichzeitig auf der Steuerbordseite des abzweigenden Fahrwassers. Man muss genau wissen, welchem Weg man folgen will."
+  },
+  {
+    "id": 197,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Bedeutung hat folgende Kennung: 'Oc (2) R. Whis.'?",
+    "options": [
+      { "key": "a", "value": "Unterbrochen (2) rot, Heultonne." },
+      { "key": "b", "value": "Blitz (2) rot, Glockentonne." },
+      { "key": "c", "value": "Blink (2) rot, Glockentonne." },
+      { "key": "d", "value": "Leitfeuer rot, zwei Warnsektoren." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Seezeichen-Sprache! 'Oc' steht für 'occulting' (unterbrochen), '(2)' für die Anzahl der Unterbrechungen pro Periode, 'R' für die Farbe Rot (red) und 'Whis.' für 'whistle' (Heultonne). Also: Ein rotes unterbrochenes Feuer mit 2er-Gruppenkennung auf einer Heultonne."
+  },
+  {
+    "id": 198,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Kennung und Farbe haben die Feuer der Leuchttonnen an der Steuerbordseite des Fahrwassers?",
+    "options": [
+      { "key": "a", "value": "Grünes Blitzfeuer, Funkelfeuer oder unterbrochenes Feuer in Gruppen." },
+      { "key": "b", "value": "Grünes Blitzfeuer, Funkelfeuer oder Festfeuer." },
+      { "key": "c", "value": "Grünes Blitzfeuer, Funkelfeuer oder schnelles Funkelfeuer." },
+      { "key": "d", "value": "Grünes Blitzfeuer, Funkelfeuer oder Blinkfeuer." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Grünes Licht rechts! Die Tonnen auf der Steuerbordseite (rechts von See kommend) haben immer ein grünes Feuer. Die Kennung (der Rhythmus des Lichts) kann variieren, ist aber oft ein Blitz-, Funkel- oder unterbrochenes Feuer, oft in Gruppen zur besseren Identifizierung."
+  },
+  {
+    "id": 199,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Kennung und Farbe haben die Feuer der Leuchttonnen an der Backbordseite des Fahrwassers?",
+    "options": [
+      { "key": "a", "value": "Rotes Blitzfeuer, Funkelfeuer oder unterbrochenes Feuer in Gruppen." },
+      { "key": "b", "value": "Rotes Blitzfeuer, Funkelfeuer oder Festfeuer." },
+      { "key": "c", "value": "Rotes Blitzfeuer, Funkelfeuer oder schnelles Funkelfeuer." },
+      { "key": "d", "value": "Rotes Blitzfeuer, Funkelfeuer oder Blinkfeuer." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Rotes Licht links! Die Tonnen auf der Backbordseite (links von See kommend) haben immer ein rotes Feuer. Wie auf der Steuerbordseite kann die Kennung variieren, um die Tonnen unterscheidbar zu machen."
+  },
+  {
+    "id": 200,
+    "category": "Spezifische Fragen See",
+    "image": "images/q200.svg",
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "options": [
+      { "key": "a", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant." },
+      { "key": "b", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant." },
+      { "key": "c", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant." },
+      { "key": "d", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Gefahr im Süden, passiere im Norden! Diese Tonne ist ein Kardinalzeichen Nord. Die zwei Kegel mit Spitzen nach oben zeigen nach Norden. Das bedeutet: Die Gefahrenstelle liegt südlich der Tonne, du musst sie also nördlich passieren."
+  },
+  {
+    "id": 201,
+    "category": "Spezifische Fragen See",
+    "image": "images/q201.svg",
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "options": [
+      { "key": "a", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant." },
+      { "key": "b", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant." },
+      { "key": "c", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant." },
+      { "key": "d", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Gefahr im Westen, passiere im Osten! Dies ist ein Kardinalzeichen Ost. Die zwei Kegel mit den Spitzen voneinander weg (wie ein 'O' für Ost) zeigen an, dass die Gefahr westlich der Tonne liegt. Du musst sie also östlich umfahren."
+  },
+  {
+    "id": 202,
+    "category": "Spezifische Fragen See",
+    "image": "images/q202.svg",
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "options": [
+      { "key": "a", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant." },
+      { "key": "b", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant." },
+      { "key": "c", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant." },
+      { "key": "d", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Gefahr im Norden, passiere im Süden! Ein Kardinalzeichen Süd. Die zwei Kegel mit den Spitzen nach unten zeigen nach Süden. Das bedeutet: Die Gefahrenstelle ist nördlich der Tonne, du musst sie südlich passieren."
+  },
+  {
+    "id": 203,
+    "category": "Spezifische Fragen See",
+    "image": "images/q203.svg",
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "options": [
+      { "key": "a", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant." },
+      { "key": "b", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant." },
+      { "key": "c", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant." },
+      { "key": "d", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Gefahr im Osten, passiere im Westen! Das ist ein Kardinalzeichen West. Die zwei Kegel mit den Spitzen zueinander (wie eine 'W'espentaille) zeigen an, dass die Gefahr östlich der Tonne liegt. Du musst sie also westlich umfahren."
+  },
+  {
+    "id": 204,
+    "category": "Spezifische Fragen See",
+    "image": "images/q204.svg",
+    "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung?",
+    "options": [
+      { "key": "a", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, die nördlich zu passieren ist." },
+      { "key": "b", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, die südlich zu passieren ist." },
+      { "key": "c", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, die östlich zu passieren ist." },
+      { "key": "d", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, die westlich zu passieren ist." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Nord-Feuer! Ein schnelles oder sehr schnelles weißes Funkelfeuer (Q oder VQ) ohne Unterbrechung kennzeichnet ein Nord-Kardinalzeichen. Es ist das schnellste aller Kardinalfeuer und leicht zu merken: Der Norden blinkt am schnellsten."
+  },
+  {
+    "id": 205,
+    "category": "Spezifische Fragen See",
+    "image": "images/q205.svg",
+    "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung?",
+    "options": [
+      { "key": "a", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, die östlich zu passieren ist." },
+      { "key": "b", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, die nördlich zu passieren ist." },
+      { "key": "c", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, die südlich zu passieren ist." },
+      { "key": "d", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, die westlich zu passieren ist." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Ost-Feuer! Ein weißes Funkelfeuer in 3er-Gruppen (Q(3) W oder VQ(3) W) kennzeichnet ein Ost-Kardinalzeichen. Merkhilfe: Osten hat 3 Buchstaben, also 3 Blitze."
+  },
+  {
+    "id": 206,
+    "category": "Spezifische Fragen See",
+    "image": "images/q206.svg",
+    "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung?",
+    "options": [
+      { "key": "a", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant." },
+      { "key": "b", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant." },
+      { "key": "c", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant." },
+      { "key": "d", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Süd-Feuer! Ein weißes Funkelfeuer in 6er-Gruppen, gefolgt von einem langen Blitz (Q(6)+LFl W oder VQ(6)+LFl W), kennzeichnet ein Süd-Kardinalzeichen. Merkhilfe: Süden ist auf der Uhr bei 6 Uhr, also 6 Blitze."
+  },
+  {
+    "id": 207,
+    "category": "Spezifische Fragen See",
+    "image": "images/q207.svg",
+    "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung?",
+    "options": [
+      { "key": "a", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant. Sie ist westlich zu passieren." },
+      { "key": "b", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant. Sie ist südlich zu passieren." },
+      { "key": "c", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant. Sie ist östlich zu passieren." },
+      { "key": "d", "value": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant. Sie ist nördlich zu passieren." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "West-Feuer! Ein weißes Funkelfeuer in 9er-Gruppen (Q(9) W oder VQ(9) W) kennzeichnet ein West-Kardinalzeichen. Merkhilfe: Westen ist auf der Uhr bei 9 Uhr, also 9 Blitze."
+  },
+  {
+    "id": 208,
+    "category": "Spezifische Fragen See",
+    "image": "images/q208.svg",
+    "question": "Was kennzeichnet eines der folgenden Schifffahrtszeichen und welches Verhalten wird gefordert?",
+    "options": [
+      { "key": "a", "value": "Eine Einzelgefahrenstelle, die an allen Seiten passiert werden kann." },
+      { "key": "b", "value": "Den nördlichen Quadranten einer allgemeinen Gefahrenstelle, die nördlich passiert werden muss." },
+      { "key": "c", "value": "Den südlichen Quadranten einer allgemeinen Gefahrenstelle, die südlich passiert werden muss." },
+      { "key": "d", "value": "Den westlichen Quadranten einer allgemeinen Gefahrenstelle, die westlich passiert werden muss." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Gefahr direkt unter der Tonne! Eine schwarz-rot-schwarze Tonne mit zwei schwarzen Bällen als Toppzeichen markiert eine isolierte Gefahrenstelle von geringer Ausdehnung (z.B. ein Felsen, ein kleines Wrack). Du kannst sie an allen Seiten passieren, aber mit ausreichend Abstand."
+  },
+  {
+    "id": 209,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung: Fl. (2)?",
+    "options": [
+      { "key": "a", "value": "Eine Einzelgefahrenstelle, die an allen Seiten passiert werden kann." },
+      { "key": "b", "value": "Nördlicher Quadrant einer allgemeinen Gefahrenstelle, die nördlich passiert werden muss." },
+      { "key": "c", "value": "Südlicher Quadrant einer allgemeinen Gefahrenstelle, die südlich passiert werden muss." },
+      { "key": "d", "value": "Westlicher Quadrant einer allgemeinen Gefahrenstelle, die westlich passiert werden muss." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Gefahr voraus! Ein weißes Blitzfeuer in 2er-Gruppen (Fl(2) W) ist die Kennung für eine Einzelgefahrenstelle. Sie markiert ein isoliertes Hindernis. Das Licht sagt dir: 'Achtung, hier ist eine einzelne Gefahr, fahr drumherum'."
+  },
+  {
+    "id": 210,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter einem Leitfeuer?",
+    "options": [
+      { "key": "a", "value": "Sektorenfeuer, das ein Fahrwasser bezeichnet." },
+      { "key": "b", "value": "Sektorenfeuer, das auf eine Kursänderung im Fahrwasser hinweist." },
+      { "key": "c", "value": "Ober- und Unterfeuer, die in Deckung zu bringen sind." },
+      { "key": "d", "value": "Ober- und Unterfeuer mit unterschiedlichen Farbsektoren." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der Lichtstrahl nach Hause! Ein Leitfeuer ist ein Sektorenfeuer, das einen schmalen weißen Sektor genau in der Mitte des Fahrwassers aussendet. Solange du im weißen Licht fährst, bist du auf dem richtigen Weg. Kommst du ins rote oder grüne Licht, bist du vom Kurs abgekommen."
+  }
+]

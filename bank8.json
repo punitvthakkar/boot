@@ -1,0 +1,422 @@
+[
+  {
+    "id": 211,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie navigiert man mittels eines Leitfeuers?",
+    "options": [
+      { "key": "a", "value": "In Fahrtrichtung an der rechten Seite des weißen Leitsektors halten." },
+      { "key": "b", "value": "In Fahrtrichtung an der linken Seite des weißen Leitsektors halten." },
+      { "key": "c", "value": "In Fahrtrichtung in der Mitte des weißen Leitsektors halten." },
+      { "key": "d", "value": "In Fahrtrichtung Ober- und Unterfeuer in Deckung halten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Auf Kurs im weißen Sektor! Um sicher in einem Leitfeuer zu navigieren, hält man sich immer an der Steuerbordseite (rechts) des weißen Sektors. So kommt man dem Gegenverkehr, der sich ebenfalls an seiner Steuerbordseite hält, nicht in die Quere."
+  },
+  {
+    "id": 212,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter einem Richtfeuer?",
+    "options": [
+      { "key": "a", "value": "Ober- und Unterfeuer, die in Deckung zu bringen sind." },
+      { "key": "b", "value": "Sektorenfeuer, das ein Fahrwasser bezeichnet." },
+      { "key": "c", "value": "Sektorenfeuer, das auf eine Kursänderung im Fahrwasser hinweist." },
+      { "key": "d", "value": "Ober- und Unterfeuer mit unterschiedlichen Farbsektoren." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Zwei Lichter, ein Kurs! Ein Richtfeuer besteht aus zwei Feuern an Land, die in einer Linie hintereinander stehen: ein niedriges Unterfeuer und ein höheres Oberfeuer. Wenn du beide Lichter genau übereinander siehst ('in Deckung'), bist du exakt auf dem richtigen Kurs."
+  },
+  {
+    "id": 213,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter einem Quermarkenfeuer?",
+    "options": [
+      { "key": "a", "value": "Sektorenfeuer, das auf eine Kursänderung im Fahrwasser hinweist." },
+      { "key": "b", "value": "Sektorenfeuer, das ein Fahrwasser bezeichnet." },
+      { "key": "c", "value": "Ober- und Unterfeuer, die in Deckung zu bringen sind." },
+      { "key": "d", "value": "Ober- und Unterfeuer mit unterschiedlichen Farbsektoren." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Das Signal zum Abbiegen! Ein Quermarkenfeuer ist ein Sektorenfeuer, das quer zur Fahrtrichtung leuchtet. Es markiert den Punkt, an dem du deinen Kurs ändern musst. Sobald du aus dem weißen Sektor in den roten oder grünen fährst, ist es Zeit, das Ruder zu legen."
+  },
+  {
+    "id": 214,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie navigiert man mittels eines Quermarkenfeuers?",
+    "options": [
+      { "key": "a", "value": "Beim Übergang vom Ankündigungssektor in den Kursänderungssektor die Kursänderung vornehmen." },
+      { "key": "b", "value": "Beim Erreichen des Ankündigungssektors die Kursänderung vornehmen." },
+      { "key": "c", "value": "Beim Erreichen des Kursänderungssektors den Kurs beibehalten." },
+      { "key": "d", "value": "Beim Erreichen des Ankündigungssektors Ober- und Unterfeuer in Deckung halten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Abbiegen auf Signal! Ein Quermarkenfeuer hat oft einen weißen 'Ankündigungssektor'. Sobald du aus diesem weißen Licht in den farbigen Sektor (rot oder grün) wechselst, hast du den exakten Punkt für deine Kursänderung erreicht."
+  },
+  {
+    "id": 215,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter einem unterbrochenen Feuer?",
+    "options": [
+      { "key": "a", "value": "Die Lichterscheinung ist stets länger als die Verdunkelung." },
+      { "key": "b", "value": "Die Lichterscheinung ist stets kürzer als die Verdunkelung." },
+      { "key": "c", "value": "Die Lichterscheinung ist stets gleich lang wie die Verdunkelung." },
+      { "key": "d", "value": "Die Lichterscheinung ist stets kürzer als 2 Sekunden." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Lange hell, kurz dunkel! Bei einem unterbrochenen Feuer (Oc - Occulting) ist die Leuchtphase (Lichterscheinung) immer länger als die Dunkelphase (Verdunkelung). Das Licht wird nur kurz unterbrochen."
+  },
+  {
+    "id": 216,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wo findet man die Grenzen der Naturschutzgebiete auf See?",
+    "options": [
+      { "key": "a", "value": "In Seekarten und Sportschifffahrtskarten des Bundesamtes für Seeschifffahrt und Hydrographie." },
+      { "key": "b", "value": "Im Bundesnaturschutzgesetz." },
+      { "key": "c", "value": "In der Seeschifffahrtsstraßen-Ordnung." },
+      { "key": "d", "value": "In den Kollisionsverhütungsregeln." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Natur hat ihre Grenzen! Die genauen Grenzen von Naturschutzgebieten, Nationalparks und anderen Schutzzonen sind in den offiziellen Seekarten eingezeichnet. Dort findest du auch Hinweise auf die geltenden Befahrensregeln."
+  },
+  {
+    "id": 217,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wo findet man auszugsweise Hinweise zu Befahrensmöglichkeiten der Naturschutzgebiete in Küstengewässern?",
+    "options": [
+      { "key": "a", "value": "In Seekarten und Sportschifffahrtskarten des Bundesamtes für Seeschifffahrt und Hydrographie." },
+      { "key": "b", "value": "Im Bundesnaturschutzgesetz." },
+      { "key": "c", "value": "In der Seeschifffahrtsstraßen-Ordnung." },
+      { "key": "d", "value": "In den Kollisionsverhütungsregeln." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Karte kennt den Weg! Seekarten sind nicht nur für die Navigation wichtig, sondern auch für den Naturschutz. Sie enthalten wichtige Hinweise, welche Zonen in Naturschutzgebieten befahren werden dürfen und welche gesperrt sind."
+  },
+  {
+    "id": 218,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Weshalb sollte das Anlaufen von Seehundbänken im Bereich der Watten vermieden werden?",
+    "options": [
+      { "key": "a", "value": "Die Tiere sollen nicht gestört oder vertrieben werden." },
+      { "key": "b", "value": "Im Bereich von Seehundbänken ist mit Untiefen zu rechnen." },
+      { "key": "c", "value": "Tiefenangaben zu Seehundbänken sind im Kartenwerk nicht verzeichnet." },
+      { "key": "d", "value": "Seehundbänke sind gesperrte Wasserflächen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Respekt vor den Robben! Seehundbänke sind die Kinderstube und Ruheplätze der Tiere. Wenn Boote zu nahe kommen, geraten die Seehunde in Panik. Muttertiere können von ihren Jungen getrennt werden. Halte immer weiten Abstand und genieße den Anblick aus der Ferne."
+  },
+  {
+    "id": 219,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welcher Abstand sollte gemäß den '10 Goldenen Regeln' für das Verhalten von Wassersportlern mindestens zu Liegeplätzen von Seehunden und zu Vogelansammlungen eingehalten werden?",
+    "options": [
+      { "key": "a", "value": "300 m bis 500 m." },
+      { "key": "b", "value": "150 m bis 200 m." },
+      { "key": "c", "value": "100 m bis 300 m." },
+      { "key": "d", "value": "200 m bis 300 m." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die 300-Meter-Regel! Als Faustregel gilt: Halte mindestens 300 bis 500 Meter Abstand zu Seehundbänken und großen Vogelkolonien. So stellst du sicher, dass die Tiere nicht gestört werden und du die Natur respektvoll genießt."
+  },
+  {
+    "id": 220,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter einem Blinkfeuer?",
+    "options": [
+      { "key": "a", "value": "Lichterscheinung kürzer als Verdunkelung, Blink mindestens 2 s lang." },
+      { "key": "b", "value": "Lichterscheinung kürzer als Verdunkelung, Blink weniger als 2 s lang." },
+      { "key": "c", "value": "Lichterscheinung länger als Verdunkelung, Blink mindestens 2 s lang." },
+      { "key": "d", "value": "Lichterscheinung länger als Verdunkelung, Blink weniger als 2 s lang." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Kurz hell, lange dunkel! Bei einem Blinkfeuer (Fl - Flashing) ist die Leuchtphase (der Blink) immer kürzer als die Dunkelphase. Ein einzelner Blink dauert dabei mindestens 2 Sekunden."
+  },
+  {
+    "id": 221,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter einem Blitzfeuer?",
+    "options": [
+      { "key": "a", "value": "Lichterscheinung kürzer als Verdunkelung, Blitz weniger als 2 s lang." },
+      { "key": "b", "value": "Lichterscheinung kürzer als Verdunkelung, Blitz länger als 2 s lang." },
+      { "key": "c", "value": "Lichterscheinung länger als Verdunkelung, Blitz mindestens 2 s lang." },
+      { "key": "d", "value": "Lichterscheinung länger als Verdunkelung, Blitz weniger als 2 s lang." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Ein kurzer Lichtblitz! Ein Blitzfeuer (F - Fixed) ist ein sehr kurzes Aufleuchten, bei dem die Leuchtphase deutlich kürzer ist als die Dunkelphase. Der einzelne Blitz dauert dabei weniger als 2 Sekunden."
+  },
+  {
+    "id": 222,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter einem Funkelfeuer?",
+    "options": [
+      { "key": "a", "value": "50 bis 60 aufeinanderfolgende Lichterscheinungen pro Minute." },
+      { "key": "b", "value": "100 bis 120 aufeinanderfolgende Lichterscheinungen pro Minute." },
+      { "key": "c", "value": "130 bis 150 aufeinanderfolgende Lichterscheinungen pro Minute." },
+      { "key": "d", "value": "30 bis 40 aufeinanderfolgende Lichterscheinungen pro Minute." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Schnelles Blinken! Ein Funkelfeuer (Q - Quick) ist eine schnelle Folge von Lichtblitzen mit einer Frequenz von 50 bis 60 Blitzen pro Minute. Es wird oft für Kardinalzeichen verwendet, um sie von anderen Feuern abzuheben."
+  },
+  {
+    "id": 223,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter einem Gleichtaktfeuer?",
+    "options": [
+      { "key": "a", "value": "Lichterscheinung und Verdunkelung von gleicher Länge." },
+      { "key": "b", "value": "Lichterscheinung kürzer als Verdunkelung." },
+      { "key": "c", "value": "Lichterscheinung länger als Verdunkelung." },
+      { "key": "d", "value": "Lichterscheinung zweifach länger als Verdunkelung." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "An-Aus im gleichen Takt! Bei einem Gleichtaktfeuer (Iso - Isophase) sind die Hell- und Dunkelphasen genau gleich lang. Das Licht geht an, bleibt eine Weile, geht aus für die gleiche Dauer und so weiter."
+  },
+  {
+    "id": 224,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter der Wiederkehr eines Leuchtfeuers?",
+    "options": [
+      { "key": "a", "value": "Zeitraum vom Einsetzen der Taktkennung bis zum Einsetzen der nächsten gleichen Taktkennung." },
+      { "key": "b", "value": "Zeitraum vom Ende der Taktkennung bis zum Einsetzen der nächsten gleichen Taktkennung." },
+      { "key": "c", "value": "Zeitraum vom Einsetzen der Taktkennung bis zum Ende der nächsten gleichen Taktkennung." },
+      { "key": "d", "value": "Zeitraum vom Einsetzen der Taktkennung bis zum Ende der Taktkennung." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der Rhythmus des Lichts! Die Wiederkehr ist die Gesamtdauer einer kompletten Sequenz eines Leuchtfeuers. Sie wird vom Beginn einer Kennung (z.B. dem ersten Blitz einer Gruppe) bis zum Beginn der exakt gleichen nächsten Kennung gemessen."
+  },
+  {
+    "id": 225,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie hat man sich beim Befahren von Naturschutzgebieten und Nationalparken zu verhalten?",
+    "options": [
+      { "key": "a", "value": "Befahrensregelungen beachten." },
+      { "key": "b", "value": "Befahrensregelungen beachten und sich bei der Nationalparkverwaltung anmelden." },
+      { "key": "c", "value": "Befahrensregelungen beachten sowie Wasserschutzpolizei und Wasserstraßen- und Schifffahrtsamt informieren." },
+      { "key": "d", "value": "Befahrensregelungen sowie Festlegungen der Ordnungsämter beachten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Gast in der Natur! In Naturschutzgebieten und Nationalparks gelten spezielle Regeln, um die einzigartige Tier- und Pflanzenwelt zu schützen. Du bist verpflichtet, dich über diese Regeln zu informieren (z.B. aus Seekarten oder von den Behörden) und sie strikt zu befolgen."
+  },
+  {
+    "id": 226,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Sondervorschriften enthalten die örtlichen Befahrensregelungen in den Naturschutzgebieten und Nationalparks?",
+    "options": [
+      { "key": "a", "value": "Befahrensverbote, Befahrensbeschränkungen, Geschwindigkeitsbeschränkungen, besondere Regelungen für das Wasserskilaufen, das Fahren mit Wassermotorrädern und das Segelsurfen." },
+      { "key": "b", "value": "Befahrensverbote, Schifffahrtssperrungen, Geschwindigkeitsbeschränkungen, besondere Regelungen für das Befahren von Windparks." },
+      { "key": "c", "value": "Befahrensverbote, Befahrensbeschränkungen, Mindestgeschwindigkeiten, besondere Regelungen für das Befahren von Verkehrstrennungsgebieten." },
+      { "key": "d", "value": "Befahrensverbote, meteorologische Beschränkungen, besondere Regelungen für das Befahren der Tiefwasserzonen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Spielregeln der Natur! Die Befahrensregelungen für Schutzgebiete können sehr vielfältig sein. Typisch sind Geschwindigkeitsbegrenzungen, komplette Fahrverbote für bestimmte Zonen, zeitliche Beschränkungen (z.B. während der Brutzeit) und spezielle Regeln für schnelle Wassersportarten."
+  },
+  {
+    "id": 227,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Verkehre können in einer ausgewiesenen Erlaubniszone zugelassen werden?",
+    "options": [
+      { "key": "a", "value": "Bestimmte Wassersportgeräte." },
+      { "key": "b", "value": "Bestimmte Fischereifahrzeuge." },
+      { "key": "c", "value": "Bestimmte Bodeneffekt- und Luftkissenfahrzeuge." },
+      { "key": "d", "value": "Bestimmte Arbeitsgeräte für die Erkundung fossiler Brennstoffe." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Freie Fahrt für Wassersportler! In manchen Schutzgebieten gibt es ausgewiesene 'Erlaubniszonen', in denen bestimmte Aktivitäten, die sonst verboten wären, erlaubt sind. Das betrifft häufig Wassersportarten wie Kitesurfen oder Wasserski."
+  },
+  {
+    "id": 228,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was verstehen Sie gemäß Nordsee-Befahrens-Verordnung (NordSBefV) unter Schnellfahrkorridore?",
+    "options": [
+      { "key": "a", "value": "Ausgewiesene Wasserflächen für den gewerblichen Verkehr." },
+      { "key": "b", "value": "Ausgewiesene Wasserflächen für bestimmte Sportbootverkehre." },
+      { "key": "c", "value": "Wasserflächen zum Starten und Landen von Wasserflugzeugen." },
+      { "key": "d", "value": "Wasserflächen, von denen Taucher 500 m Abstand halten müssen." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Überholspur zur Insel! Schnellfahrkorridore sind in der Nordsee eingerichtete Routen, auf denen z.B. die schnellen Inselversorger und Fähren fahren. In diesen Korridoren gelten besondere Regeln, um den schnellen Verkehr nicht zu behindern."
+  },
+  {
+    "id": 229,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wie hoch, soweit die Nordsee-Befahrens-Verordnung (NordSBefV) nicht ausdrücklich etwas anderes bestimmt, ist die maximale Geschwindigkeit, die ein Maschinenfahrzeug in Nationalparken im Bereich der Nordsee fahren darf?",
+    "options": [
+      { "key": "a", "value": "12 Knoten über Grund." },
+      { "key": "b", "value": "12 Knoten Fahrt durchs Wasser." },
+      { "key": "c", "value": "10 Knoten Fahrt über Grund." },
+      { "key": "d", "value": "10 Knoten Fahrt durchs Wasser." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Langsam durchs Watt! In den Nationalparks der Nordsee gilt generell ein Tempolimit, um die empfindliche Natur zu schützen. Sofern nicht anders ausgeschildert, dürfen Motorboote hier nicht schneller als 12 Knoten über Grund fahren."
+  },
+  {
+    "id": 230,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Verpflichtung hat man als Bootsführer, um einen Beitrag zur Reinhaltung der Gewässer zu leisten?",
+    "options": [
+      { "key": "a", "value": "Sämtliche Abfälle einschließlich Öle und Betriebsstoffe an Bord in geeigneten Behältern sammeln und an Land vorschriftsmäßig entsorgen." },
+      { "key": "b", "value": "Abfälle und Öle nur auf offener See entsorgen." },
+      { "key": "c", "value": "Nur Bioabfälle und restentleerte Behälter auf See entsorgen." },
+      { "key": "d", "value": "Abwässer in Ufer- und Strandn��he sowie in Häfen einleiten." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Nimm deinen Müll mit! Eine der wichtigsten Regeln für umweltbewusste Skipper: Nichts geht über Bord! Alle Abfälle, von der leeren Flasche bis zum öligen Lappen, werden an Bord gesammelt und im nächsten Hafen fachgerecht entsorgt."
+  },
+  {
+    "id": 231,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche amtlichen nautischen Veröffentlichungen geben Aufschluss über das Fahrtgebiet?",
+    "options": [
+      { "key": "a", "value": "Seekarten, Leuchtfeuerverzeichnis, Seehandbücher, Gezeitentafeln oder -kalender, Funkdienst für die Klein- und Sportschifffahrt, Nachrichten für Seefahrer (NfS), Bekanntmachungen für Seefahrer (BfS)." },
+      { "key": "b", "value": "Seekarten, Verordnung über die Sicherung der Seefahrt, Seehandbücher, Gezeitentafeln oder -kalender, Funkdienst für die Klein- und Sportschifffahrt, Nachrichten für Seefahrer (NfS)." },
+      { "key": "c", "value": "Seeschifffahrtsstraßen-Ordnung, Leuchtfeuerverzeichnis, Seehandbücher, Verordnung über die Sicherung der Seefahrt, Gezeitentafeln oder -kalender, Bekanntmachungen der Generaldirektion Wasserstraßen und Schifffahrt (GDWS)." },
+      { "key": "d", "value": "Schifffahrtspolizeiliche Anordnungen, Gezeitentafeln oder Funkdienst für die Klein- und Sportschifffahrt, Nachrichten für Seefahrer (NfS), Bekanntmachungen für Seefahrer (BfS)." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die Bibel des Skippers! Für eine sichere Törnplanung brauchst du die richtigen Unterlagen: aktuelle Seekarten, ein Leuchtfeuerverzeichnis, Seehandbücher für Revierinformationen, Gezeitentafeln und die neuesten Nachrichten für Seefahrer (NfS/BfS) zur Berichtigung der Karten."
+  },
+  {
+    "id": 232,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welche Angaben enthalten die Nachrichten für Seefahrer (NfS) und die Bekanntmachungen für Seefahrer (BfS)?",
+    "options": [
+      { "key": "a", "value": "Sie enthalten alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks, Untiefen sowie andere die Schifffahrt betreffende Maßnahmen und Ereignisse." },
+      { "key": "b", "value": "Sie enthalten alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks, Untiefen sowie andere Änderungen der Seeschifffahrtsstraßen-Ordnung." },
+      { "key": "c", "value": "Sie enthalten alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks sowie die aktuellen Wasserstände." },
+      { "key": "d", "value": "Sie enthalten alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks, Untiefen sowie andere die Schifffahrt betreffende meteorologische Hinweise." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Das Update für die Seekarte! Die NfS und BfS sind die 'Tageszeitung' für Seefahrer. Sie enthalten alle kurzfristigen Änderungen und wichtigen Nachrichten für ein Seegebiet: verlegte Tonnen, ausgefallene Leuchtfeuer, neue Wracks, Schießübungen und vieles mehr."
+  },
+  {
+    "id": 233,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Welchen Effekt können Wind und gegenläufiger Tidenstrom im Bereich von Seegaten haben?",
+    "options": [
+      { "key": "a", "value": "Steile und aufbäumende Seen (Brecher)." },
+      { "key": "b", "value": "Der Tidenstrom wird durch den Wind verstärkt." },
+      { "key": "c", "value": "Keinen." },
+      { "key": "d", "value": "Der Tidenstrom glättet die Windsee." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Wind gegen Strom – Gefahr! Wenn starker Wind gegen einen starken Gezeitenstrom steht (besonders in engen Seegaten), baut sich eine sehr steile, kabbelige und gefährliche See auf. Es können sich hohe, brechende Wellen bilden, die für kleine Boote extrem gefährlich sind."
+  },
+  {
+    "id": 234,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wo findet man Angaben über Küsten-, Häfen- und Naturverhältnisse?",
+    "options": [
+      { "key": "a", "value": "In den See- und Hafenhandbüchern." },
+      { "key": "b", "value": "In den Bekanntmachungen und Nachrichten für Seefahrer." },
+      { "key": "c", "value": "Im Nautischen Revierfunkdienst." },
+      { "key": "d", "value": "In der Seekarte INT1." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der Reiseführer für Skipper! See- und Hafenhandbücher enthalten detaillierte Beschreibungen von Küstenabschnitten, Ansteuerungen und Häfen. Du findest dort alles, was nicht in der Seekarte steht: Infos zu Strömungen, Windverhältnissen, Ankerplätzen, Versorgungsmöglichkeiten und vieles mehr."
+  },
+  {
+    "id": 235,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wovon sollte man sich vor Gebrauch einer Seekarte überzeugen?",
+    "options": [
+      { "key": "a", "value": "Dass die Karte auf den neuesten Stand berichtigt ist." },
+      { "key": "b", "value": "Dass die Nummerierung mit dem Katalog übereinstimmt." },
+      { "key": "c", "value": "Dass die Seekarte auf mittleres Tidehochwasser bezogen ist." },
+      { "key": "d", "value": "Dass die obere Kante in Nordrichtung weist." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Ist die Karte noch aktuell? Eine Seekarte ist nur so gut wie ihre letzte Berichtigung. Vor jedem Törn musst du sicherstellen, dass deine Karte mit den neuesten Nachrichten für Seefahrer (NfS) auf den aktuellen Stand gebracht wurde. Eine veraltete Karte ist ein Sicherheitsrisiko!"
+  },
+  {
+    "id": 236,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "In welchen Maßeinheiten werden in deutschen Seekarten die Tiefen angegeben?",
+    "options": [
+      { "key": "a", "value": "In Meter und Dezimeter." },
+      { "key": "b", "value": "In Meter und Zentimeter." },
+      { "key": "c", "value": "In Fuß und Inch." },
+      { "key": "d", "value": "In Dezimeter und Zentimeter." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Metrisches System auf See! In deutschen und den meisten internationalen Seekarten werden Wassertiefen in Metern und Dezimetern angegeben. Eine Angabe wie '5_2' bedeutet also 5,2 Meter Wassertiefe bei Kartennull."
+  },
+  {
+    "id": 237,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wo findet man Bedeutungen und Erläuterungen zu Zeichen, Abkürzungen und Begriffen in deutschen Seekarten?",
+    "options": [
+      { "key": "a", "value": "In der INT1/Karte 1." },
+      { "key": "b", "value": "In den Seehandbüchern." },
+      { "key": "c", "value": "In den Leuchtfeuerverzeichnissen." },
+      { "key": "d", "value": "In allen Seekarten unten links." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Das Lexikon der Seekarte! Die 'Karte 1' (oder INT 1) ist die offizielle Legende für alle in Seekarten verwendeten Symbole, Abkürzungen und Begriffe. Wenn du ein Zeichen in der Karte nicht kennst, schlägst du es hier nach. Jeder Skipper sollte eine an Bord haben."
+  },
+  {
+    "id": 238,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wo findet man die für die Navigation wichtigen Beschreibungen der Schifffahrtszeichen, Angaben über deren Befeuerung und Angaben über Signalstellen?",
+    "options": [
+      { "key": "a", "value": "Leuchtfeuerverzeichnis, Seehandbuch, Seekarten." },
+      { "key": "b", "value": "Leuchtfeuerverzeichnis, Seehandbuch, Handbuch für Brücke und Kartenhaus." },
+      { "key": "c", "value": "Leuchtfeuerverzeichnis, Seehandbuch, Kollisionsverhütungsregeln." },
+      { "key": "d", "value": "Leuchtfeuerverzeichnis, Seehandbuch, Gezeitenatlas." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Die drei Säulen der Information! Die wichtigsten Infos zu Seezeichen findest du in der Seekarte selbst (Position, grobe Kennung), im Leuchtfeuerverzeichnis (detaillierte Beschreibung der Feuer) und im Seehandbuch (weitere Details und Bilder)."
+  },
+  {
+    "id": 239,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Wo entnimmt man in der Seekarte die Seemeilen?",
+    "options": [
+      { "key": "a", "value": "Am rechten oder linken Kartenrand in Höhe des Standortes." },
+      { "key": "b", "value": "Am oberen oder unteren Kartenrand in Höhe des Standortes." },
+      { "key": "c", "value": "An der in der Seekarte abgebildeten Kompassrose." },
+      { "key": "d", "value": "Aus der in der Seekarte abgebildeten Entfernungstabelle." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Der Breitengrad ist das Maß! Eine Seemeile entspricht einer Bogenminute auf einem Großkreis der Erde. Da die Breitengrade Großkreise sind, kann man Distanzen direkt am seitlichen Kartenrand (der Breitengradskala) mit dem Zirkel abgreifen. 1 Bogenminute = 1 Seemeile."
+  },
+  {
+    "id": 240,
+    "category": "Spezifische Fragen See",
+    "image": null,
+    "question": "Was versteht man unter einer Seemeile und wie lang ist eine Seemeile (in Metern)?",
+    "options": [
+      { "key": "a", "value": "Die Länge einer Bogenminute auf einem größten Kreis der Erdkugel, 1.852 m." },
+      { "key": "b", "value": "Die Länge einer Bogenminute auf einem Breitenparallel, 1.652 m." },
+      { "key": "c", "value": "Die Länge einer Bogenminute auf dem Nullmeridian, 18,52 km." },
+      { "key": "d", "value": "Sie entspricht der in einer Stunde zurückgelegten Distanz in Meter, 16,52 km." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Das Urmaß der Seefahrt! Eine Seemeile (sm oder nm) ist exakt 1.852 Meter lang. Diese Länge leitet sich vom Erdumfang ab und entspricht der Länge einer Bogenminute eines Großkreises (z.B. Äquator oder ein Meridian)."
+  }
+]

@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SBF Navigator</title>
+    <style>
+        :root {
+            --ocean-blue: #2C5F7A;
+            --sand-beige: #F4F1E8;
+            --coral-green: #7FB069;
+            --sunset-orange: #E07A5F;
+            --text-white: #FFFFFF;
+            --text-dark: #333333;
+
+            --card-width: clamp(280px, 80vw, 420px);
+            --font-size-base: clamp(16px, 2vw, 20px);
+            --font-size-md: clamp(18px, 2.5vw, 24px);
+            --font-size-lg: clamp(22px, 3vw, 30px);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            background-color: var(--ocean-blue);
+            color: var(--text-dark);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-size: var(--font-size-base);
+        }
+
+        .game-container {
+            width: 100%;
+            max-width: 600px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .screen {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        h1, h2 {
+            color: var(--sand-beige);
+            margin-bottom: 20px;
+        }
+
+        .btn {
+            background-color: var(--sand-beige);
+            color: var(--ocean-blue);
+            border: 2px solid var(--sand-beige);
+            border-radius: 8px;
+            padding: 15px 30px;
+            font-size: var(--font-size-md);
+            cursor: pointer;
+            margin: 10px;
+            transition: all 0.2s ease-in-out;
+            font-weight: bold;
+        }
+
+        .btn:hover {
+            background-color: var(--ocean-blue);
+            color: var(--sand-beige);
+        }
+
+        .game-stats {
+            display: flex;
+            justify-content: space-between;
+            width: var(--card-width);
+            margin-bottom: 15px;
+            color: var(--sand-beige);
+            font-size: var(--font-size-md);
+        }
+
+        .card {
+            background-color: var(--sand-beige);
+            border-radius: 15px;
+            padding: 25px;
+            width: var(--card-width);
+            min-height: 450px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+            transition: transform 0.5s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .card.slide-out {
+            transform: translateX(-150%);
+        }
+        .card.slide-in {
+            transform: translateX(0);
+        }
+
+
+        .card-image {
+            width: 100%;
+            height: 150px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .card-image svg {
+            max-width: 100%;
+            max-height: 100%;
+        }
+
+        .question-text {
+            font-size: var(--font-size-md);
+            margin-bottom: auto;
+            font-weight: 500;
+        }
+
+        .options-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .option-btn {
+            background-color: #fff;
+            border: 2px solid var(--ocean-blue);
+            border-radius: 8px;
+            padding: 15px;
+            font-size: var(--font-size-base);
+            cursor: pointer;
+            transition: background-color 0.3s;
+            min-height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .option-btn.correct {
+            background-color: var(--coral-green);
+            color: var(--text-white);
+            border-color: var(--coral-green);
+        }
+
+        .option-btn.wrong {
+            background-color: var(--sunset-orange);
+            color: var(--text-white);
+            border-color: var(--sunset-orange);
+            animation: shake 0.5s;
+        }
+        
+        .option-btn:disabled {
+            cursor: not-allowed;
+        }
+
+        .explanation {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: rgba(44, 95, 122, 0.1);
+            border-radius: 8px;
+            font-size: var(--font-size-base);
+            display: none; /* Initially hidden */
+        }
+        
+        .explanation.visible {
+            display: block;
+        }
+
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-5px); }
+            75% { transform: translateX(5px); }
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="game-container">
+        <!-- Start Screen -->
+        <div id="start-screen" class="screen">
+            <h1>SBF Navigator</h1>
+            <p style="color: var(--sand-beige); margin-bottom: 20px;">Wähle einen Spielmodus, um zu beginnen.</p>
+            <button id="speed-run-btn" class="btn">Speed Run (30 Fragen)</button>
+            <button id="mastery-quest-btn" class="btn">Mastery Quest (100 Fragen)</button>
+            <p id="loading-text" style="color: var(--sand-beige); margin-top: 20px;">Lade Fragen...</p>
+        </div>
+
+        <!-- Game Screen -->
+        <div id="game-screen" class="screen hidden">
+            <div class="game-stats">
+                <div id="question-counter">Frage: 1/30</div>
+                <div id="streak-counter">Streak: 0</div>
+                <div id="score-counter">Score: 0</div>
+            </div>
+            <div id="card" class="card">
+                <div id="card-content">
+                    <div class="card-image" id="card-image-container"></div>
+                    <div class="question-text" id="question-text"></div>
+                    <div class="options-grid" id="options-grid"></div>
+                </div>
+                <div class="explanation" id="explanation"></div>
+            </div>
+        </div>
+
+        <!-- Game Over Screen -->
+        <div id="game-over-screen" class="screen hidden">
+            <h2>Spiel beendet!</h2>
+            <p id="final-score" style="color: var(--sand-beige); font-size: var(--font-size-lg); margin-bottom: 10px;"></p>
+            <p id="high-score" style="color: var(--sand-beige); font-size: var(--font-size-md); margin-bottom: 20px;"></p>
+            <button id="play-again-btn" class="btn">Nochmal spielen</button>
+        </div>
+    </div>
+
+    <script>
+        const startScreen = document.getElementById('start-screen');
+        const gameScreen = document.getElementById('game-screen');
+        const gameOverScreen = document.getElementById('game-over-screen');
+        const loadingText = document.getElementById('loading-text');
+
+        const speedRunBtn = document.getElementById('speed-run-btn');
+        const masteryQuestBtn = document.getElementById('mastery-quest-btn');
+        const playAgainBtn = document.getElementById('play-again-btn');
+
+        const questionCounter = document.getElementById('question-counter');
+        const streakCounter = document.getElementById('streak-counter');
+        const scoreCounter = document.getElementById('score-counter');
+        
+        const card = document.getElementById('card');
+        const cardImageContainer = document.getElementById('card-image-container');
+        const questionText = document.getElementById('question-text');
+        const optionsGrid = document.getElementById('options-grid');
+        const explanationDiv = document.getElementById('explanation');
+
+        const finalScoreEl = document.getElementById('final-score');
+        const highScoreEl = document.getElementById('high-score');
+
+        let allQuestions = [];
+        let currentQuestions = [];
+        let currentIndex = 0;
+        let score = 0;
+        let streak = 0;
+        let highScore = localStorage.getItem('sbfNavigatorHighScore') || 0;
+
+        // --- SVG Generation ---
+        // A helper function to create basic SVGs for signs and lights.
+        // This is a simplified approach. For a full game, external SVGs are better.
+        function generateSvg(qId) {
+            const svgNS = "http://www.w3.org/2000/svg";
+            const svg = document.createElementNS(svgNS, "svg");
+            svg.setAttribute("viewBox", "0 0 200 100");
+            svg.setAttribute("width", "200");
+            svg.setAttribute("height", "100");
+
+            // Default boat shape
+            const boat = document.createElementNS(svgNS, "path");
+            boat.setAttribute("d", "M 20 80 L 30 60 H 170 L 180 80 H 20 Z");
+            boat.setAttribute("fill", "#8B4513");
+            boat.setAttribute("stroke", "#333");
+            boat.setAttribute("stroke-width", "2");
+            
+            const mast = document.createElementNS(svgNS, "line");
+            mast.setAttribute("x1", "100");
+            mast.setAttribute("y1", "60");
+            mast.setAttribute("x2", "100");
+            mast.setAttribute("y2", "10");
+            mast.setAttribute("stroke", "#333");
+            mast.setAttribute("stroke-width", "2");
+
+            const addLight = (cx, cy, color) => {
+                const light = document.createElementNS(svgNS, "circle");
+                light.setAttribute("cx", cx);
+                light.setAttribute("cy", cy);
+                light.setAttribute("r", "8");
+                light.setAttribute("fill", color);
+                light.setAttribute("stroke", "black");
+                light.setAttribute("stroke-width", "1");
+                return light;
+            };
+
+            // Simple logic for a few key images
+            switch(qId) {
+                case 91: // MFZ < 50m
+                    svg.appendChild(boat);
+                    svg.appendChild(addLight(100, 30, "white")); // Topplicht
+                    svg.appendChild(addLight(50, 65, "red"));    // Backbord
+                    svg.appendChild(addLight(150, 65, "green")); // Steuerbord
+                    break;
+                case 92: // MFZ > 50m
+                    svg.appendChild(boat);
+                    svg.appendChild(addLight(80, 20, "white")); // Topplicht 1
+                    svg.appendChild(addLight(120, 35, "white"));// Topplicht 2
+                    svg.appendChild(addLight(50, 65, "red"));
+                    svg.appendChild(addLight(150, 65, "green"));
+                    break;
+                case 97: // Manövrierunfähig
+                    svg.appendChild(boat);
+                    svg.appendChild(mast);
+                    svg.appendChild(addLight(100, 20, "red"));
+                    svg.appendChild(addLight(100, 40, "red"));
+                    break;
+                case 102: // Manövrierbehindert
+                    svg.appendChild(boat);
+                    svg.appendChild(mast);
+                    svg.appendChild(addLight(100, 15, "red"));
+                    svg.appendChild(addLight(100, 35, "white"));
+                    svg.appendChild(addLight(100, 55, "red"));
+                    break;
+                default:
+                    // Placeholder for other images
+                    const text = document.createElementNS(svgNS, "text");
+                    text.setAttribute("x", "50%");
+                    text.setAttribute("y", "50%");
+                    text.setAttribute("text-anchor", "middle");
+                    text.setAttribute("fill", "#aaa");
+                    text.textContent = `Bild für Frage ${qId}`;
+                    svg.appendChild(text);
+                    break;
+            }
+            return svg;
+        }
+
+
+        // --- Game Logic ---
+        async function loadAllQuestions() {
+            try {
+                const filePromises = [];
+                for (let i = 1; i <= 10; i++) {
+                    filePromises.push(fetch(`./bank${i}.json`).then(res => res.json()));
+                }
+                const questionBanks = await Promise.all(filePromises);
+                allQuestions = questionBanks.flat();
+                
+                loadingText.textContent = "Fragen geladen. Bereit zum Start!";
+                speedRunBtn.disabled = false;
+                masteryQuestBtn.disabled = false;
+
+            } catch (error) {
+                loadingText.textContent = "Fehler beim Laden der Fragen. Bitte lade die Seite neu.";
+                console.error("Could not load question banks:", error);
+            }
+        }
+
+        function startGame(mode) {
+            score = 0;
+            streak = 0;
+            currentIndex = 0;
+
+            // Shuffle and slice questions
+            const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
+            currentQuestions = shuffled.slice(0, mode === 'speed' ? 30 : 100);
+
+            startScreen.classList.add('hidden');
+            gameOverScreen.classList.add('hidden');
+            gameScreen.classList.remove('hidden');
+
+            displayQuestion();
+        }
+
+        function displayQuestion() {
+            // Reset card state
+            explanationDiv.classList.remove('visible');
+            card.classList.remove('slide-out');
+            
+            if (currentIndex >= currentQuestions.length) {
+                endGame();
+                return;
+            }
+
+            const q = currentQuestions[currentIndex];
+
+            // Update stats
+            questionCounter.textContent = `Frage: ${currentIndex + 1}/${currentQuestions.length}`;
+            streakCounter.textContent = `Streak: ${streak}`;
+            scoreCounter.textContent = `Score: ${score}`;
+
+            // Populate card
+            questionText.textContent = q.question;
+            
+            cardImageContainer.innerHTML = '';
+            if (q.image) {
+                // Extract question number from image path e.g. "images/q91.svg"
+                const qIdMatch = q.image.match(/q(\d+)\.svg/);
+                if (qIdMatch) {
+                    const qId = parseInt(qIdMatch[1], 10);
+                    cardImageContainer.appendChild(generateSvg(qId));
+                }
+            }
+
+            optionsGrid.innerHTML = '';
+            q.options.forEach(option => {
+                const button = document.createElement('button');
+                button.classList.add('option-btn');
+                button.textContent = option.value;
+                button.dataset.key = option.key;
+                button.addEventListener('click', () => handleAnswer(option.key, button));
+                optionsGrid.appendChild(button);
+            });
+        }
+
+        function handleAnswer(selectedKey, button) {
+            // Disable all option buttons
+            const buttons = optionsGrid.querySelectorAll('.option-btn');
+            buttons.forEach(btn => btn.disabled = true);
+
+            const q = currentQuestions[currentIndex];
+            const isCorrect = selectedKey === q.correctAnswer;
+
+            if (isCorrect) {
+                score += 10;
+                streak++;
+                button.classList.add('correct');
+            } else {
+                streak = 0;
+                button.classList.add('wrong');
+                // Highlight the correct answer
+                const correctBtn = optionsGrid.querySelector(`[data-key="${q.correctAnswer}"]`);
+                if(correctBtn) {
+                    correctBtn.classList.add('correct');
+                }
+            }
+            
+            // Update score and streak display immediately
+            scoreCounter.textContent = `Score: ${score}`;
+            streakCounter.textContent = `Streak: ${streak}`;
+
+            // Show explanation
+            explanationDiv.textContent = q.explanation;
+            explanationDiv.classList.add('visible');
+
+            // Wait a moment, then show next question
+            setTimeout(() => {
+                card.classList.add('slide-out');
+                setTimeout(nextQuestion, 500);
+            }, 3000);
+        }
+
+        function nextQuestion() {
+            currentIndex++;
+            displayQuestion();
+        }
+
+        function endGame() {
+            gameScreen.classList.add('hidden');
+            gameOverScreen.classList.remove('hidden');
+
+            if (score > highScore) {
+                highScore = score;
+                localStorage.setItem('sbfNavigatorHighScore', highScore);
+            }
+
+            finalScoreEl.textContent = `Dein Score: ${score}`;
+            highScoreEl.textContent = `Highscore: ${highScore}`;
+        }
+
+        // --- Event Listeners ---
+        speedRunBtn.addEventListener('click', () => startGame('speed'));
+        masteryQuestBtn.addEventListener('click', () => startGame('mastery'));
+        playAgainBtn.addEventListener('click', () => {
+            gameOverScreen.classList.add('hidden');
+            startScreen.classList.remove('hidden');
+        });
+
+        // --- Initial Load ---
+        document.addEventListener('DOMContentLoaded', () => {
+            speedRunBtn.disabled = true;
+            masteryQuestBtn.disabled = true;
+            loadAllQuestions();
+        });
+
+    </script>
+</body>
+</html>
