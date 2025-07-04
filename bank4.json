@@ -188,7 +188,7 @@
     "question": "Welches Fahrzeug führt diese Signalkörper?",
     "options": [
       { "key": "a", "value": "Ein manövrierbehindertes Fahrzeug." },
-      { "key": "b", "value": "Ein manövrierunfähiges Fahrzeug in Fahrt." },
+      { "key": "b", "value": "Ein manövrierunf��higes Fahrzeug in Fahrt." },
       { "key": "c", "value": "Ein fischendes Fahrzeug in Fahrt." },
       { "key": "d", "value": "Ein Grundsitzer von weniger als 50 m Länge." }
     ],

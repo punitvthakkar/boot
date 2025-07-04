@@ -260,8 +260,6 @@
         let highScore = localStorage.getItem('sbfNavigatorHighScore') || 0;
 
         // --- SVG Generation ---
-        // A helper function to create basic SVGs for signs and lights.
-        // This is a simplified approach. For a full game, external SVGs are better.
         function generateSvg(qId) {
             const svgNS = "http://www.w3.org/2000/svg";
             const svg = document.createElementNS(svgNS, "svg");
@@ -269,7 +267,6 @@
             svg.setAttribute("width", "200");
             svg.setAttribute("height", "100");
 
-            // Default boat shape
             const boat = document.createElementNS(svgNS, "path");
             boat.setAttribute("d", "M 20 80 L 30 60 H 170 L 180 80 H 20 Z");
             boat.setAttribute("fill", "#8B4513");
@@ -295,7 +292,6 @@
                 return light;
             };
 
-            // Simple logic for a few key images
             switch(qId) {
                 case 91: // MFZ < 50m
                     svg.appendChild(boat);
@@ -324,7 +320,6 @@
                     svg.appendChild(addLight(100, 55, "red"));
                     break;
                 default:
-                    // Placeholder for other images
                     const text = document.createElementNS(svgNS, "text");
                     text.setAttribute("x", "50%");
                     text.setAttribute("y", "50%");
@@ -343,17 +338,26 @@
             try {
                 const filePromises = [];
                 for (let i = 1; i <= 10; i++) {
-                    filePromises.push(fetch(`./bank${i}.json`).then(res => res.json()));
+                    filePromises.push(fetch(`./bank${i}.json`).then(res => {
+                        if (!res.ok) {
+                            throw new Error(`HTTP error! status: ${res.status}`);
+                        }
+                        return res.json();
+                    }));
                 }
                 const questionBanks = await Promise.all(filePromises);
-                allQuestions = questionBanks.flat();
+                allQuestions = questionBanks.flat().filter(q => q.options && q.options.length > 0); // Filter out invalid questions
                 
-                loadingText.textContent = "Fragen geladen. Bereit zum Start!";
-                speedRunBtn.disabled = false;
-                masteryQuestBtn.disabled = false;
+                if (allQuestions.length > 0) {
+                    loadingText.textContent = "Fragen geladen. Bereit zum Start!";
+                    speedRunBtn.disabled = false;
+                    masteryQuestBtn.disabled = false;
+                } else {
+                     loadingText.textContent = "Keine gültigen Fragen gefunden.";
+                }
 
             } catch (error) {
-                loadingText.textContent = "Fehler beim Laden der Fragen. Bitte lade die Seite neu.";
+                loadingText.textContent = "Fehler beim Laden der Fragen. Bitte Konsole prüfen.";
                 console.error("Could not load question banks:", error);
             }
         }
@@ -363,7 +367,6 @@
             streak = 0;
             currentIndex = 0;
 
-            // Shuffle and slice questions
             const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
             currentQuestions = shuffled.slice(0, mode === 'speed' ? 30 : 100);
 
@@ -375,7 +378,6 @@
         }
 
         function displayQuestion() {
-            // Reset card state
             explanationDiv.classList.remove('visible');
             card.classList.remove('slide-out');
             
@@ -386,17 +388,14 @@
 
             const q = currentQuestions[currentIndex];
 
-            // Update stats
             questionCounter.textContent = `Frage: ${currentIndex + 1}/${currentQuestions.length}`;
             streakCounter.textContent = `Streak: ${streak}`;
             scoreCounter.textContent = `Score: ${score}`;
 
-            // Populate card
             questionText.textContent = q.question;
             
             cardImageContainer.innerHTML = '';
             if (q.image) {
-                // Extract question number from image path e.g. "images/q91.svg"
                 const qIdMatch = q.image.match(/q(\d+)\.svg/);
                 if (qIdMatch) {
                     const qId = parseInt(qIdMatch[1], 10);
@@ -416,7 +415,6 @@
         }
 
         function handleAnswer(selectedKey, button) {
-            // Disable all option buttons
             const buttons = optionsGrid.querySelectorAll('.option-btn');
             buttons.forEach(btn => btn.disabled = true);
 
@@ -430,22 +428,18 @@
             } else {
                 streak = 0;
                 button.classList.add('wrong');
-                // Highlight the correct answer
                 const correctBtn = optionsGrid.querySelector(`[data-key="${q.correctAnswer}"]`);
                 if(correctBtn) {
                     correctBtn.classList.add('correct');
                 }
             }
             
-            // Update score and streak display immediately
             scoreCounter.textContent = `Score: ${score}`;
             streakCounter.textContent = `Streak: ${streak}`;
 
-            // Show explanation
             explanationDiv.textContent = q.explanation;
             explanationDiv.classList.add('visible');
 
-            // Wait a moment, then show next question
             setTimeout(() => {
                 card.classList.add('slide-out');
                 setTimeout(nextQuestion, 500);
@@ -470,7 +464,6 @@
             highScoreEl.textContent = `Highscore: ${highScore}`;
         }
 
-        // --- Event Listeners ---
         speedRunBtn.addEventListener('click', () => startGame('speed'));
         masteryQuestBtn.addEventListener('click', () => startGame('mastery'));
         playAgainBtn.addEventListener('click', () => {
@@ -478,7 +471,6 @@
             startScreen.classList.remove('hidden');
         });
 
-        // --- Initial Load ---
         document.addEventListener('DOMContentLoaded', () => {
             speedRunBtn.disabled = true;
             masteryQuestBtn.disabled = true;
